@@ -1,0 +1,482 @@
+{"question_id": 1, "text": " I want to get deep features from a given text.\\n", "category": "generic"}
+{"question_id": 2, "text": " Building a healthcare chatbot requires extracting features from a user's medical question to provide more accurate responses.\\n", "category": "generic"}
+{"question_id": 3, "text": " We are a medical research institute and want to extract features from biomedical texts to improve literature-based predictions.\\n", "category": "generic"}
+{"question_id": 4, "text": " We are developing a chatbot that should understand users\\u2019 sentences semantically, so it can find similar sentences in its database.\\n", "category": "generic"}
+{"question_id": 5, "text": " I'm a teacher, I need to generate a summary of an article to help my students studying. Can you help?\\n", "category": "generic"}
+{"question_id": 6, "text": " As an online newspaper, we need to generate summaries of articles to help our readers skim through content quickly.\\n", "category": "generic"}
+{"question_id": 7, "text": " We're a startup focusing on video analytics for retail stores. We want to classify customer activities using a pre-trained model.\\n", "category": "generic"}
+{"question_id": 8, "text": " We are a startup building a recommendation system for books. We want to sort books by their categories using their cover images.\\n", "category": "generic"}
+{"question_id": 9, "text": " I am writing a NLP-based tool to extract meaning from religious writings. How can we extract the features from the text?\\n", "category": "generic"}
+{"question_id": 10, "text": " Our social media monitoring system needs to understand Indonesian viral posts and their main key topics. Implement a code to access the context-based representation.\\n", "category": "generic"}
+{"question_id": 11, "text": " We are a company developing an application that assists in code review. We want to extract features from the given code snippet to improve our code review process.\\n", "category": "generic"}
+{"question_id": 12, "text": " The healthcare organization needs to automate extraction of medical terms from patients' records in English.\\n", "category": "generic"}
+{"question_id": 13, "text": " We are an audio recognition company that wants to use the Hubert-Large model to build an application.\\n", "category": "generic"}
+{"question_id": 14, "text": " I need an Assistant to help me compare the similarity of two sentences.\\n", "category": "generic"}
+{"question_id": 15, "text": " I'm writing a story but got stuck in the middle after a few lines. Please help me to come up with a creative continuation.\\n", "category": "generic"}
+{"question_id": 16, "text": " Our company is working on an AI project, where we need to extract semantic features from Russian text documents for understanding their value.\\n", "category": "generic"}
+{"question_id": 17, "text": " We are building an application for transcription services. Extract spoken content from a given audio file of a meeting.\\n", "category": "generic"}
+{"question_id": 18, "text": " I have an image URL that I would like to analyze and extract features with a Computer Vision Transformer model.\\n", "category": "generic"}
+{"question_id": 19, "text": " In order to improve our code search engine results, we need to extract relevant features from various programming languages.\\n", "category": "generic"}
+{"question_id": 20, "text": " Our organization focuses on creating music applications for streaming platforms. We need to extract spectrogram features from audio files to enrich our recommendations.\\n", "category": "generic"}
+{"question_id": 21, "text": " I am an AI enthusiast, and I want to answer questions about dogs using my pre-trained AI model DPR. How can I embed my question to make it compatible with my model?\\n", "category": "generic"}
+{"question_id": 22, "text": " I'm organizing an online conference with participants from different countries who speak different languages. I want to find a tool to extract information from their forum discussions.\\n", "category": "generic"}
+{"question_id": 23, "text": " I am building a recommendation system that provides quotes based on user's queries. I need to find the most similar quote to a given query.\\n", "category": "generic"}
+{"question_id": 24, "text": " Analyze two research papers and find their document representations or embeddings.\\n###Input: {'papers': [{'title': 'BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding', 'abstract': 'We introduce a new language representation model called BERT, which stands for Bidirectional Encoder Representations from Transformers. Unlike recent language representation models, BERT is designed to pre-train deep bidirectional representations from unlabeled text by jointly conditioning on both left and right context.'}, {'title': 'Attention is All You Need', 'abstract': 'The dominant sequence transduction models are based on complex recurrent or convolutional neural networks in an encoder-decoder configuration. The best performing models also connect the encoder and decoder through an attention mechanism. We propose a new transformer which handles variability by introducing a self-attention mechanism for the entire network without using an encoder-decoder architecture.'}]}\\n", "category": "generic"}
+{"question_id": 25, "text": " A marketing agency need a short story generated about their new AI product for kids.\\n", "category": "generic"}
+{"question_id": 26, "text": " Our company needs to compare the similarity of English, Italian, and Japanese sentences in a language-independent manner.\\n", "category": "generic"}
+{"question_id": 27, "text": " How can I implement an automatic code snippet extraction system to find relevant code snippets from a text document?\\n", "category": "generic"}
+{"question_id": 28, "text": " Our company plans to build a video-sharing platform that automatically generates video descriptions. We need a model that extracts video features and understands human language.\\n", "category": "generic"}
+{"question_id": 29, "text": " Our team is making a new line of book covers. Can you generate an abstract image based on the story \\\"The Old Man and the Sea\\\"?\\n", "category": "generic"}
+{"question_id": 30, "text": " You would like to create a search engine that recommends articles for users by identifying contextually relevant information from a given query.\\n", "category": "generic"}
+{"question_id": 31, "text": " I want a program that generates images based on a textual description, such as \\\"a picture of a sunset on the beach.\\\"\\n", "category": "generic"}
+{"question_id": 32, "text": " Design a surrealism-inspired AI-generated artwork based on the text prompt \\\"floating elephants with butterfly wings under a rainbow\\\".\\n", "category": "generic"}
+{"question_id": 33, "text": " We are building a new room decoration software where the user types the room setup, and then it generates a realistic image of what it will look like.\\n", "category": "generic"}
+{"question_id": 34, "text": " We are working on a project that can generate images from textual description for an online art gallery. We need to create diverse images from a given text prompt.\\n", "category": "generic"}
+{"question_id": 35, "text": " Create an AI-generated image of a character using a textual description.\\n", "category": "generic"}
+{"question_id": 36, "text": " We are hosting an art event soon. We need a painting made from a text description: \\\"A serene sunset over a beautiful mountain landscape.\\\"\\n", "category": "generic"}
+{"question_id": 37, "text": " Help me generate a picture of a futuristic city at night with flying cars.\\n", "category": "generic"}
+{"question_id": 38, "text": " We have an AI-based project where we require text-to-image generation for various scenarios like forming a yellow cat's face in high resolution, sitting on a park bench.\\n", "category": "generic"}
+{"question_id": 39, "text": " I'm a photographer focusing on architecture, and I need inspiration for a church photo in a rural setting. Help me come up with a unique angle or perspective.\\n", "category": "generic"}
+{"question_id": 40, "text": " I want to create images of my short story characters so that the audience can have visuals of the story.\\n", "category": "generic"}
+{"question_id": 41, "text": " Our marketing team needs engaging images for social media posts. We want to generate a visually creative image of an anime character wearing a school uniform.\\n", "category": "generic"}
+{"question_id": 42, "text": " Can you create an AI generated image based on the abstract concept of \\\"time is running out\\\"?\\n", "category": "generic"}
+{"question_id": 43, "text": " I am building an online platform for imagining fictional characters. How do I generate characters based on text descriptions?\\n", "category": "generic"}
+{"question_id": 44, "text": " We are a game development company trying to generate landscape variations based on textual descriptions provided by our designers.\\n", "category": "generic"}
+{"question_id": 45, "text": " Your company is expanding its product line to include anime merchandise. We need to create images for those new products.\\n", "category": "generic"}
+{"question_id": 46, "text": " Provide an example of generating an image based on the input text, such as \\\"a giant robot protecting a city\\\".\\n", "category": "generic"}
+{"question_id": 47, "text": " Design an assistant to generate an image of a dreamy landscape with a fantasy waterfall and a colorful rainbow.\\n", "category": "generic"}
+{"question_id": 48, "text": " I want to describe a landscape and generate an image based on the description, like a \\\"tranquil forest with a small river flowing.\\\"\\n", "category": "generic"}
+{"question_id": 49, "text": " We want to design a website that generates images with analog style based on user-provided text prompts.\\n", "category": "generic"}
+{"question_id": 50, "text": " A bookseller needs to create a unique and dreamlike illustration for their upcoming bestseller, a mysterious adventure novel about a young wizard.\\n", "category": "generic"}
+{"question_id": 51, "text": " I'm a scriptwriter for a movie and I want to create an image of a fantastical landscape based on my description.\\n", "category": "generic"}
+{"question_id": 52, "text": " The company wants to generate a marketing image based on a description. I need some guidelines on how to proceed.\\n", "category": "generic"}
+{"question_id": 53, "text": " We want to create an advertisement that follows the description: \\\"A cheerful girl with blue jeans and a red shirt holding a hot cup of coffee while standing in a park.\\\". \\n", "category": "generic"}
+{"question_id": 54, "text": " I am a designer looking to upscale a low-resolution image of a cat near the window by utilizing text prompts.\\n", "category": "generic"}
+{"question_id": 55, "text": " An online art gallery needs to create unique images based on descriptions. They require surreal visualizations of a dreamlike forest with mystical creatures and glowing trees.\\n###Input: \\\"In a dreamlike forest, mystical creatures roam among glowing trees, a scene filled with vibrant colors and mystique ambiance.\\\"\\n", "category": "generic"}
+{"question_id": 56, "text": " I am an entrepreneur who wants to create an application that generates captions for images that users upload.\\n", "category": "generic"}
+{"question_id": 57, "text": " We have a photo of an astronaut in low resolution. Make it high-resolution and ultra-realistic.\\n", "category": "generic"}
+{"question_id": 58, "text": " Automatically convert the Japanese scanned text from a manga image to textual content for translation purposes.\\n", "category": "generic"}
+{"question_id": 59, "text": " As a designer creating advertising material for products, I need to generate a caption for an image of a new product for social media.\\n", "category": "generic"}
+{"question_id": 60, "text": " The company wants to develop a smartphone application that recommends places of interest based on the photos the users have taken.\\n", "category": "generic"}
+{"question_id": 61, "text": " I want to create a document digitization tool that converts printed documents into text.\\n", "category": "generic"}
+{"question_id": 62, "text": " A startup company is working on an app to support blind people in their daily life. They need a system to answer questions about the contents of the images.\\n", "category": "generic"}
+{"question_id": 63, "text": " Our customers need a tool to convert handwritten documents to digital text for archival purposes.\\n", "category": "generic"}
+{"question_id": 64, "text": " We want to describe an image of Mars Rover landing for our Space Museum poster.\\n", "category": "generic"}
+{"question_id": 65, "text": " Creating a program to describe objects in images for the visually impaired.\\n", "category": "generic"}
+{"question_id": 66, "text": " I am the manager of a mail center. I am looking for a text description of the images that are sent out while following user-provided instructions.\\n", "category": "generic"}
+{"question_id": 67, "text": " We would like to present images of our product to create a caption for each image.\\n", "category": "generic"}
+{"question_id": 68, "text": " Develop a model to describe the images along with specific questions related to the content of these images.\\n", "category": "generic"}
+{"question_id": 69, "text": " I need to build an interactive robot that can answer questions using an image input, process questions in natural language, and generate a response.\\n", "category": "generic"}
+{"question_id": 70, "text": " Design a solution that extracts text from an image URL.\\n", "category": "generic"}
+{"question_id": 71, "text": " We are a group of photo enthusiasts, and we need to know the description of the photo that we just took.\\n", "category": "generic"}
+{"question_id": 72, "text": " My team is developing an application to extract text from historical handwritten documents. I need to recognize the text in a given image.\\n", "category": "generic"}
+{"question_id": 73, "text": " We have a collection of images and would like to have a corresponding description for each image. Provide an example of how to convert one of the images into a text description.\\n", "category": "generic"}
+{"question_id": 74, "text": " We are a travel agency that wants to generate descriptions for images captured by tourists to use them in marketing purposes.\\n", "category": "generic"}
+{"question_id": 75, "text": " The company is developing a creative application that generates descriptions for images. We need to process images to extract text descriptions.\\n", "category": "generic"}
+{"question_id": 76, "text": " Our company wants to create automatic captions for social media images. We need assistance in generating meaningful captions.\\n", "category": "generic"}
+{"question_id": 77, "text": " I need assistance to describe an image of a stop sign in Australia.\\n###Input: The image URL is https://www.ilankelman.org/stopsigns/australia.jpg\\n", "category": "generic"}
+{"question_id": 78, "text": " Please build an AI model to analyze the images we provide and caption relevantly.\\n", "category": "generic"}
+{"question_id": 79, "text": " The organization has found an old document with important information. We need to extract the text from it to analyze the content.\\n", "category": "generic"}
+{"question_id": 80, "text": " We have an old dataset of charts from previous reports, and we want to generate tables from these charts.\\n", "category": "generic"}
+{"question_id": 81, "text": " Generate a descriptive text about an image that will be used for an online article.\\n", "category": "generic"}
+{"question_id": 82, "text": " As a YouTube content creator, I need a description generated for my movie review video thumbnail to entice viewers.\\n", "category": "generic"}
+{"question_id": 83, "text": " Can you help me digitize the handwritten text from a digital scanned image?\\n###Input: https://fki.tic.heia-fr.ch/static/img/a01-122-02-00.jpg\\n", "category": "generic"}
+{"question_id": 84, "text": " The marketing team is creating a series of commercials and requires a visual representation of multiple scenarios based on their scripts.\\n", "category": "generic"}
+{"question_id": 85, "text": " For our latest project, we would like to extract text from the license plates of parked vehicles.\\n", "category": "generic"}
+{"question_id": 86, "text": " Our client needs a method to extract text from items like license plates to process parking tickets more efficiently.\\n", "category": "generic"}
+{"question_id": 87, "text": " We plan to produce a series of commercials for our online streaming platform. We want to generate a video of Spider-Man surfing.\\n", "category": "generic"}
+{"question_id": 88, "text": " I'm a writer and I use AI to quickly generate video clips explaining scenes in my script. Can you help me figure out the best model I can use and how to use it?\\n", "category": "generic"}
+{"question_id": 89, "text": " A video advertisement company requires a tool to generate short video clips based on the provided descriptions for their social media campaigns.\\n", "category": "generic"}
+{"question_id": 90, "text": " We have a client who wants to create a video description of their product based on a text prompt.\\n", "category": "generic"}
+{"question_id": 91, "text": " Create a short video to interact with kids, with the text \\\"A cute puppy is playing with a blue ball.\\\"\\n", "category": "generic"}
+{"question_id": 92, "text": " Help me to create a video of Superman flying over a city.\\n", "category": "generic"}
+{"question_id": 93, "text": " Our team is working on a project where we need to create educational videos from textual content. We are looking for a model to generate videos from text.\\n", "category": "generic"}
+{"question_id": 94, "text": " We are a video content generation company, and we need to create a short film about a magical princess playing the guitar. But, it must contain 50 inference steps.\\n", "category": "generic"}
+{"question_id": 95, "text": " As an interactive entertainment corporation, we want to create a video based on the prompt \\\"a superhero flying through the city\\\".\\n", "category": "generic"}
+{"question_id": 96, "text": " I am an architect and I need to analyze the images from a construction project. Can you recommend an efficient way to build a system that can tell me what's in the images and answer questions?\\n", "category": "generic"}
+{"question_id": 97, "text": " I am an AI researcher working on home robotics. I need to get an understanding of the specific objects in a room by answering questions based on a visual input.\\n", "category": "generic"}
+{"question_id": 98, "text": " I am a clothing designer and I need to analyze an image of a new fabric pattern with a model. Can you suggest how to do that to get the description of the fabric pattern?\\n", "category": "generic"}
+{"question_id": 99, "text": " We want to create an application that allows users to upload photos of tourist attractions and provides them with information about the images. Implement a system that can answer questions about these images.\\n", "category": "generic"}
+{"question_id": 100, "text": " Predict the answer to the question \\\"How many cats are there?\\\" using a transformers model that is trained on a Multimodal Visual Question Answering dataset.\\n###Input: {\\\"image_url\\\": \\\"http://images.cocodataset.org/val2017/000000039769.jpg\\\", \\\"question\\\": \\\"How many cats are there?\\\"}\\n", "category": "generic"}
+{"question_id": 101, "text": " We have a field of horses and we want to know how many of them are in the stable.\\n", "category": "generic"}
+{"question_id": 102, "text": " We are creating a virtual tour guide. The guide will answer the users' questions about the places they visit based on the images of those places.\\n", "category": "generic"}
+{"question_id": 103, "text": " I am building an AI that will give me the answers from an image I have taken from a book which contains answers. Help me build the AI that will do this.\\n", "category": "generic"}
+{"question_id": 104, "text": " We have a facial recognition software involved in a Q&A system that needs to answer questions about images.\\n", "category": "generic"}
+{"question_id": 105, "text": " We need a solution for answering customers' questions based on the images they send to us.\\n", "category": "generic"}
+{"question_id": 106, "text": " I have a group of images and their captions in a dataframe for a class project. I want to perform question answering on these images.\\n", "category": "generic"}
+{"question_id": 107, "text": " Our company is developing an app that provides answers to questions about images. Identify the most suitable model and the code to implement this functionality.\\n", "category": "generic"}
+{"question_id": 108, "text": " Set up a model to answer questions about images in multiple languages, such as English, Chinese, Japanese, and German. Users will send images along with questions.\\n", "category": "generic"}
+{"question_id": 109, "text": " Help our customer James to find an answer to a question about an image content he is curious about.\\n", "category": "generic"}
+{"question_id": 110, "text": " A mobile app needs to answer questions about what's happening in specific images to help users with visual impairments.\\n", "category": "generic"}
+{"question_id": 111, "text": " In the accounting department, we are processing invoices and need to find the invoice number from a given image of an invoice.\\n", "category": "generic"}
+{"question_id": 112, "text": " A bank provides us with account statements of their clients in PDF format. We need to extract information such as transaction date, transaction amount, and balance after each transaction.\\n", "category": "generic"}
+{"question_id": 113, "text": " A friend has sent me a pdf invoice and I need to extract the overall amount from it.\\n", "category": "generic"}
+{"question_id": 114, "text": " Create a system that can extract specific information from documents to answer users' questions.\\n", "category": "generic"}
+{"question_id": 115, "text": " Develop a Q&A system for an online textbook platform. It should be able to answer questions from the text and images within the document.\\n", "category": "generic"}
+{"question_id": 116, "text": " I need a personal assistant to help me analyze the financial reports and answer the question: What is the total revenue for the company?\\n", "category": "generic"}
+{"question_id": 117, "text": " Our company is managing a large digital archive. We require a tool to answer questions about table content in official documents.\\n", "category": "generic"}
+{"question_id": 118, "text": " As a student, I have an article in PDF format. I want to extract the answer to a specific question from that article.\\n", "category": "generic"}
+{"question_id": 119, "text": " I need a model to extract detailed information from a textual invoice. Please tell me which API can extract specific details from an invoice.\\n", "category": "generic"}
+{"question_id": 120, "text": " We are a publishing company. We need to find an answer in a book with multiple pages.\\n", "category": "generic"}
+{"question_id": 121, "text": " Help me extract answers from a scanned document for a question related to the subject or topic of the document.\\n", "category": "generic"}
+{"question_id": 122, "text": " Develop an AI model for a local art gallery accepting scanned artwork, to help the staff easily find information about any piece of art by asking questions.\\n", "category": "generic"}
+{"question_id": 123, "text": " Our company is working on automating document analysis. We need to identify relevant information within a given document.\\n", "category": "generic"}
+{"question_id": 124, "text": " We want to develop our online documentation service platform to be more user-friendly. Users can ask questions and get answers about our website's user manual.\\n", "category": "generic"}
+{"question_id": 125, "text": " Guidance is required for making code that identify's an object in a document to answer a specific question or to confirm if the object is present in it.\\n", "category": "generic"}
+{"question_id": 126, "text": " I am a bank manager and I want to extract specific data from my company documents. What can I use to achieve this?\\n", "category": "generic"}
+{"question_id": 127, "text": " We have a repository of scanned documents. We need an assistant that can answer questions based on them. Find a matching API.\\n", "category": "generic"}
+{"question_id": 128, "text": " Working in a government agency, I need to extract specific information from a variety of unstructured forms and documents. Could you help me extract the answer to my question from the given context?\\n", "category": "generic"}
+{"question_id": 129, "text": " Explain how this model can be implemented for answering questions from a mutlimodal document.\\n", "category": "generic"}
+{"question_id": 130, "text": " The finance team at your company received a scanned invoice and they need to know the total amount. Implement a solution to extract that information.\\n", "category": "generic"}
+{"question_id": 131, "text": " I need to identify the cost of a product from a document image where the same question is repeated, but only one is answered.\\n", "category": "generic"}
+{"question_id": 132, "text": " We want to extract information from images containing text and layout information in scanned documents.\\n", "category": "generic"}
+{"question_id": 133, "text": " A user submits an image of a document with a table, figures, and text. Develop a feature to answer questions based on the content of the document.\\n", "category": "generic"}
+{"question_id": 134, "text": " How can I extract answers from a document? I need to pass the image of the document and provide the question.\\n", "category": "generic"}
+{"question_id": 135, "text": " I have a startup and my friend gave a document on his project detail. I want to find the budget of his project from the document.\\n", "category": "generic"}
+{"question_id": 136, "text": " A user wants to build an environment checker tool which can answer questions related to pollution and surroundings. The user has some legal documents about carbon emissions and wants answers from them.\\n", "category": "generic"}
+{"question_id": 137, "text": " We are making a budget analysis tool for a financial institution. Extract information from scanned receipts and invoices.\\n", "category": "generic"}
+{"question_id": 138, "text": " I'm a book publisher and got a question from a reader about some content. Help me to find an answer in the book provided.\\n", "category": "generic"}
+{"question_id": 139, "text": " Create a system that classifies molecules based on their properties using graph representations.\\n", "category": "generic"}
+{"question_id": 140, "text": " Our team needs an AI model to help answer questions about documents containing visual information.\\n", "category": "generic"}
+{"question_id": 141, "text": " Identify potential targets for drug development by predicting the properties of molecules using a pre-trained multimodal graph Transformer model.\\n", "category": "generic"}
+{"question_id": 142, "text": " Our company needs to extract information from invoices for customer billing purposes. Extract the information required from the input image.\\n", "category": "generic"}
+{"question_id": 143, "text": " In our autonomous vehicle project, we need to estimate the depth of the environment using computer vision techniques.\\n", "category": "generic"}
+{"question_id": 144, "text": " We are working on applications of image-based depth estimation techniques. we need to know how to estimate the depth.\\n", "category": "generic"}
+{"question_id": 145, "text": " Our team is working on a self-driving car project. We need to integrate a depth estimation AI to our system.\\n", "category": "generic"}
+{"question_id": 146, "text": " Create a smart city project where depth estimation is essential. It needs to analyze images to understand potential risks.\\n", "category": "generic"}
+{"question_id": 147, "text": " We are building a virtual makeover app and we need to estimate the depth of various surfaces in an image.\\n", "category": "generic"}
+{"question_id": 148, "text": " The digital marketing company needs to create a virtual reality environment for their product display. They asked us to estimate the depth of input images.\\n", "category": "generic"}
+{"question_id": 149, "text": " Implement an AI-based robotic vacuum cleaner that navigates its surroundings while maneuvering around obstacles. The vacuum cleaner will use computer vision to estimate depth for movement planning.\\n", "category": "generic"}
+{"question_id": 150, "text": " Construct a 3D model of the residential area. We need the depth information from the surrounding images for that purpose.\\n", "category": "generic"}
+{"question_id": 151, "text": " We are designing a parking assistant system that needs depth estimation to help drivers park their cars properly.\\n", "category": "generic"}
+{"question_id": 152, "text": " I am working on an indoor robot project that needs depth estimation for the robot's vision. Help sequence the proper code for depth estimation.\\n", "category": "generic"}
+{"question_id": 153, "text": " We are filming a movie with expansive sceneries. Provide us a depth estimation model that helps us choose the best backgrounds.\\n", "category": "generic"}
+{"question_id": 154, "text": " Determine the depth of objects in an image to aid in an autonomous vehicle's perception system.\\n", "category": "generic"}
+{"question_id": 155, "text": " We are working on an autonomous car project and need to estimate the depth of objects in the environment.\\n", "category": "generic"}
+{"question_id": 156, "text": " The real estate company wants to develop a tool that estimates the depth of a room from an image of the room.\\n", "category": "generic"}
+{"question_id": 157, "text": " Help me to create an application to measure the depth of objects in images captured by a camera.\\n", "category": "generic"}
+{"question_id": 158, "text": " We are developing a smart mobility solution for the visually impaired. We want to estimate the depth of surrounding objects in real-time.\\n", "category": "generic"}
+{"question_id": 159, "text": " Our gaming sector is working on implementing AI in the popular game GTA 5. We need an AI model trained on MNIST dataset and save it as an onnx file with limited data cap.\\n", "category": "generic"}
+{"question_id": 160, "text": " I have an image of a room and I would like to estimate the depth of the objects within the room.\\n", "category": "generic"}
+{"question_id": 161, "text": " Create a system that can estimate the depth of objects in an image.\\n", "category": "generic"}
+{"question_id": 162, "text": " We are developing an autonomous driving system, and we need an algorithm to estimate the depth of objects using a single image captured from the car's camera.\\n", "category": "generic"}
+{"question_id": 163, "text": " A mobile app development company is trying to build a feature to overlay filters on photos. We need to estimate depth in images for this feature.\\n", "category": "generic"}
+{"question_id": 164, "text": " I want to use this model to estimate the depth within an image file, what should I do?\\n", "category": "generic"}
+{"question_id": 165, "text": " I need an algorithm to implement depth estimation for given an image in Python.\\n", "category": "generic"}
+{"question_id": 166, "text": " Let's find the depth estimation for an image captured in a warehouse.\\n", "category": "generic"}
+{"question_id": 167, "text": " We are creating a scene renderer and we'd like to estimate the depth of each object in the 3D reconstruction.\\n", "category": "generic"}
+{"question_id": 168, "text": " Design a code that can detect the depth in images of cars driving on the road, without any sensor.\\n", "category": "generic"}
+{"question_id": 169, "text": " Develop a new robotic application to control a robot to avoid obstacle by applying computer vision depth estimation.\\n", "category": "generic"}
+{"question_id": 170, "text": " A construction company works on a project where automating the process of obtaining depth maps from images is required. Help them by providing an initial solution.\\n", "category": "generic"}
+{"question_id": 171, "text": " Help me estimate the depth of various objects in an image.\\n", "category": "generic"}
+{"question_id": 172, "text": " We need to create a tool to classify images of either a cat or a dog.\\n", "category": "generic"}
+{"question_id": 173, "text": " I am building an AI tool to support building analysis for a construction company. The tool needs to classify images of buildings as residential, commercial, or industrial.\\n", "category": "generic"}
+{"question_id": 174, "text": " Create an AI app that recognizes and identifies images of cats using a pretrained model.\\n", "category": "generic"}
+{"question_id": 175, "text": " I am the owner of an online pet store. I need a solution that categorizes the uploaded photos of pets into cat or dog.\\n", "category": "generic"}
+{"question_id": 176, "text": " We are a web platform for sports programming. Images are received from users and thus it's crucial to recognize the sport in each image.\\n", "category": "generic"}
+{"question_id": 177, "text": " I need to create a powerful detecting software to identify the stage of diabetic retinopathy from a patient's retina image.\\n", "category": "generic"}
+{"question_id": 178, "text": " Detect the content of an image and classify it into one of the 1000 classes in the ImageNet dataset.\\n", "category": "generic"}
+{"question_id": 179, "text": " The company wants a model to estimate the age of customers in their store from a picture so they can offer the best-customized service.\\n", "category": "generic"}
+{"question_id": 180, "text": " We are creating an app that identifies the objects in photos. The app should classify the images correctly so that the user can better understand the content of their photos.\\n", "category": "generic"}
+{"question_id": 181, "text": " I am designing a website for a real estate firm, I need to classify images of houses, apartments, and land plots.\\n", "category": "generic"}
+{"question_id": 182, "text": " I have an image gallery and want to make sure it contains only pictures of dogs and no food. Can you set up a classification system for me?\\n", "category": "generic"}
+{"question_id": 183, "text": " Please map an image with 720*720 dimensions to one of these animal categories for my animal species recognition app: dog, cat, bird, fish, lizard.\\n", "category": "generic"}
+{"question_id": 184, "text": " Classify the given beans image file for identifying different types of beans.\\n", "category": "generic"}
+{"question_id": 185, "text": " We are performing quality assessment on an industrial conveyor belt, can you please classify products in the factory images?\\n", "category": "generic"}
+{"question_id": 186, "text": " Our company is working on an advertising platform. We need to understand the type of content in an image so that we can show relevant ads based on user preferences.\\n", "category": "generic"}
+{"question_id": 187, "text": " There is a new order from an online shopping platform to classify an image of a fashion product that was just uploaded.\\n", "category": "generic"}
+{"question_id": 188, "text": " Imagine you are an artist in a drawing studio, and need a classifier to verify whether the drawn image is an animal or not.\\n", "category": "generic"}
+{"question_id": 189, "text": " Determine the objects in an image to categorize it.\\n", "category": "generic"}
+{"question_id": 190, "text": " To create a photo gallery app, we need a way to categorize images according to their content.\\n", "category": "generic"}
+{"question_id": 191, "text": " Design an image classifier to recognize objects in images.\\n", "category": "generic"}
+{"question_id": 192, "text": " I am building an app that detects flower species from uploaded images. What model can I use?\\n", "category": "generic"}
+{"question_id": 193, "text": " What's that: A hotdog or not a hotdog? I need a system to clarify.\\n", "category": "generic"}
+{"question_id": 194, "text": " While browsing an anime forum, find out if a certain picture was drawn by an AI or a human.\\n", "category": "generic"}
+{"question_id": 195, "text": " I provide drone inspection services. I would like to identify objects in the images captured by my drone.\\n", "category": "generic"}
+{"question_id": 196, "text": " Our marketing team wants to extract data from tables in various reports. We need to identify the structure (rows and columns) of the tables within the reports.\\n", "category": "generic"}
+{"question_id": 197, "text": " We're working with a startup that's developing an app for detecting damaged products in its warehouse, based on images. We want a solution for classification.\\n", "category": "generic"}
+{"question_id": 198, "text": " Create a program that uses image input and returns the most probable classification of the image.\\n", "category": "generic"}
+{"question_id": 199, "text": " Our organization is working on an image catalog. We need to classify the images to find the top 5 categories for each image.\\n", "category": "generic"}
+{"question_id": 200, "text": " Design an artificial intelligence engine able to identify what kind of food is displayed in a picture.\\n", "category": "generic"}
+{"question_id": 201, "text": " We are trying to develop an app that recommends food by analyzing images. We need a model that can classify various types of food.\\n", "category": "generic"}
+{"question_id": 202, "text": " The company requires an application that can automatically identify tables in financial reports from images. \\n", "category": "generic"}
+{"question_id": 203, "text": " Locate different objects in a picture.\\n", "category": "generic"}
+{"question_id": 204, "text": " Analyze real-time traffic images with object detection by visualizing the objects detected in the image.\\n", "category": "generic"}
+{"question_id": 205, "text": " The company wants to automatically detect objects in images from their website to improve the user experience. Please provide a solution.\\n", "category": "generic"}
+{"question_id": 206, "text": " Our company has been working on a new robotic prototype. Test the OwlViT for object detection with input text queries.\\n", "category": "generic"}
+{"question_id": 207, "text": " We have a new office document management software and want to extract tables from the scanned documents. \\n", "category": "generic"}
+{"question_id": 208, "text": " In a document management application, we need to find both bordered and borderless tables.\\n", "category": "generic"}
+{"question_id": 209, "text": " As a company specialized in security systems, we need to detect objects in CCTV footage.\\n", "category": "generic"}
+{"question_id": 210, "text": " We need to build a security system with cameras. It is important to identify suspicious individuals entering restricted areas.\\n", "category": "generic"}
+{"question_id": 211, "text": " We need an object detection system for tracking and identifying vehicles in a smart city.\\n", "category": "generic"}
+{"question_id": 212, "text": " Recommend me an object detection library that can detect hard hats in construction areas to ensure safety compliance.\\n", "category": "generic"}
+{"question_id": 213, "text": " The local police department is investigating a crime scene and they want a program to detect license plates in images to help them identify suspects.\\n", "category": "generic"}
+{"question_id": 214, "text": " Our customer is creating an application to automatically analyze video game streams for real-time performance analysis. They need to detect objects in the game.\\n", "category": "generic"}
+{"question_id": 215, "text": " We are creating an automated tool to analyze Counter-Strike: Global Offensive matches. Detect players in a provided image.\\n", "category": "generic"}
+{"question_id": 216, "text": " Can you help me extract tables from images?\\n", "category": "generic"}
+{"question_id": 217, "text": " We need to implement a zero-shot object detection system to detect cats and dogs in images for a pet adoption application.\\n", "category": "generic"}
+{"question_id": 218, "text": " We are analyzing an American football game video. Our goal is to detect as many players as possible by recognizing their helmets.\\n", "category": "generic"}
+{"question_id": 219, "text": " I am designing an app for warehouse safety. Implement a model that detects forklifts and persons in images.\\n", "category": "generic"}
+{"question_id": 220, "text": " Our client is a company that develops smart home technology. Design a system to detect specific objects in a live video feed.\\n", "category": "generic"}
+{"question_id": 221, "text": " We have an agency tracking aircraft in the skies to detect unauthorized planes. We need a reliable tool for aircraft detection in images.\\n", "category": "generic"}
+{"question_id": 222, "text": " We are designing a Counter-Strike: Global Offensive (CS:GO) AI assistant. We need the assistant to detect players through real-time images taken during the game.\\n", "category": "generic"}
+{"question_id": 223, "text": " I want an app that identifies the types of blood cells present in a given blood sample image.\\n", "category": "generic"}
+{"question_id": 224, "text": " We want to develop an AI that can monitor the construction workers to make sure they are wearing hard hats for their safety.\\n", "category": "generic"}
+{"question_id": 225, "text": " We need to monitor people who enter the security room. Detect the people in the given image.\\n", "category": "generic"}
+{"question_id": 226, "text": " Our organization wants to analyze documents and extract tables from them for further data processing. We need a solution to automatically detect tables in the images of the documents.\\n", "category": "generic"}
+{"question_id": 227, "text": " We wish to develop an application that can use image and text prompts to perform image segmentation.\\n", "category": "generic"}
+{"question_id": 228, "text": " Detect players in the image of the popular first-person shooter game Counter-Strike: Global Offensive.\\n", "category": "generic"}
+{"question_id": 229, "text": " Our company needs to detect license plates of vehicles in our parking lot. Please provide object detection solution for this purpose.\\n", "category": "generic"}
+{"question_id": 230, "text": " We are working on a smart camera for recognizing people in crowded areas, please segment the given image.\\n", "category": "generic"}
+{"question_id": 231, "text": " Our team at a blood test center is analyzing blood cell images. Find a way to detect blood cells in the images.\\n", "category": "generic"}
+{"question_id": 232, "text": " We are an interior design company. We need a tool that identifies different classes of objects in various interior photos.\\n", "category": "generic"}
+{"question_id": 233, "text": " Our company is developing an indoor navigation system for visually impaired people. We want to integrate image segmentation into our system.\\n", "category": "generic"}
+{"question_id": 234, "text": " We are building an autonomous driving system and need to segment images of urban areas.\\n", "category": "generic"}
+{"question_id": 235, "text": " We are building a traffic monitoring system that requires image segmentation of street scenes.\\n", "category": "generic"}
+{"question_id": 236, "text": " We are in a robotics project, and we want our robot to understand the environment through the images provided, using the facebook/detr-resnet-50-panoptic pre-trained model.\\n", "category": "generic"}
+{"question_id": 237, "text": " As a factory owner, we want to segment objects in images to improve our production process.\\n", "category": "generic"}
+{"question_id": 238, "text": " We need a system to analyze pictures and recognize where clothes are on a person.\\n", "category": "generic"}
+{"question_id": 239, "text": " We are an agricultural company aiming to detect and classify segments of crops in aerial images.\\n", "category": "generic"}
+{"question_id": 240, "text": " We need a computer vision model capable of segmenting images for urban planning purposes.\\n", "category": "generic"}
+{"question_id": 241, "text": " We require an AI model to identify and segment different objects in different contexts.\\n", "category": "generic"}
+{"question_id": 242, "text": " I need to detect and segment objects in images taken by cameras set up around the building.\\n", "category": "generic"}
+{"question_id": 243, "text": " I have an image that I want to segment into semantic, instance, and panoptic categories.\\n", "category": "generic"}
+{"question_id": 244, "text": " We want to create an application to help enhance the security of buildings. It needs to detect and segment people who enter the building.\\n", "category": "generic"}
+{"question_id": 245, "text": " The app being developed is meant to recognize the different objects within an image boundary. So far it includes cars, bikes, and bicycles. Help us by providing a proper implementation.\\n", "category": "generic"}
+{"question_id": 246, "text": " We have to create a system that detects and segments buildings in an aerial image of a city.\\n", "category": "generic"}
+{"question_id": 247, "text": " Develop a solution to segment a given image into semantic, instance, and panoptic segmentation.\\n###Input: {\\\"image_url\\\": \\\"https://huggingface.co/datasets/shi-labs/oneformer_demo/blob/main/ade20k.jpeg\\\"}\\n", "category": "generic"}
+{"question_id": 248, "text": " An automation company needs to develop a system for detecting cityscape semantic segmentation. They need help suggesting an API.\\n", "category": "generic"}
+{"question_id": 249, "text": " I am an wildlife conservation team member, and I want to identify animals and their boundaries in images. I am looking for a suitable model for it.\\n", "category": "generic"}
+{"question_id": 250, "text": " Help us design a solution to segment objects inside images and classify them.\\n", "category": "generic"}
+{"question_id": 251, "text": " Our company provides quality control services for electronic manufacturers. Develop an AI solution to identify defects in printed circuit boards.\\n", "category": "generic"}
+{"question_id": 252, "text": " The company has recently launched an image classification software which recognizes all the objects in an image. How the software can be improved by a more sophisticated instance segmentation model to recognize individual objects and their boundaries within the image?\\n", "category": "generic"}
+{"question_id": 253, "text": " We have installed a city surveillance camera in every single main street junction, we want to detect potholes and automatically report them to the municipality.\\n", "category": "generic"}
+{"question_id": 254, "text": " Our city planning department needs to analyze satellite imagery for building segmentation. We need to use an appropriate model to complete the task.\\n", "category": "generic"}
+{"question_id": 255, "text": " Our company is responsible for repairing the road surface. Please help us detect the areas damaged by potholes.\\n", "category": "generic"}
+{"question_id": 256, "text": " We are trying to create a safe navigation app that warns drivers about pot holes on the road ahead.\\n", "category": "generic"}
+{"question_id": 257, "text": " Our factory needs to identify defects in printed circuit boards (PCBs), including segmentation of the defects for further analysis.\\n", "category": "generic"}
+{"question_id": 258, "text": " Create a program that generates various artistic image variations for an online art gallery.\\n", "category": "generic"}
+{"question_id": 259, "text": " We have a production line creating computer chips. We need to identify and segment any defects in the printed circuit boards(PCB) of these products.\\n", "category": "generic"}
+{"question_id": 260, "text": " Our customer company deals with travelling business, they are looking to improve the quality of images of locations using edge image generation.\\n", "category": "generic"}
+{"question_id": 261, "text": " Implement a solution to visualize human pose estimation in an image of a chef in the kitchen.\\n", "category": "generic"}
+{"question_id": 262, "text": " We need to segment images of houses for a real estate platform. Help us extract detailed information from the images.\\n", "category": "generic"}
+{"question_id": 263, "text": " Create a masterpiece painting of a handsome old man using the provided image file.\\n", "category": "generic"}
+{"question_id": 264, "text": " I want to create a depth estimation model of images using the ControlNet model 'lllyasviel/sd-controlnet-depth'.\\n", "category": "generic"}
+{"question_id": 265, "text": " Draw/create a picture of a cat playing with a toy on a blue background, based on the provided text.\\n", "category": "generic"}
+{"question_id": 266, "text": " Design an AI based tool to transform the photo into a painting of a blue paradise bird.\\n", "category": "generic"}
+{"question_id": 267, "text": " Our company wants to create an art generator utilizing a ControlNet trained model that uses lineart images as input.\\n", "category": "generic"}
+{"question_id": 268, "text": " We need to process the walls of the room given an input image, such as adjusting their color or tone.\\n", "category": "generic"}
+{"question_id": 269, "text": " In order to provide better visual content for our clients, we need to generate images using their textual descriptions.\\n", "category": "generic"}
+{"question_id": 270, "text": " I want a tool to estimate normal maps from images, which will be applied to some 3D models.\\n", "category": "generic"}
+{"question_id": 271, "text": " Find a solution to create coherent animations from two different photos by controlling diffusion models using openpose images.\\n", "category": "generic"}
+{"question_id": 272, "text": " Develop a photo album application that will provide an option for enhancing image resolution.\\n", "category": "generic"}
+{"question_id": 273, "text": " Create a new custom logo from an existing logo with a specific theme.\\n", "category": "generic"}
+{"question_id": 274, "text": " As an advertising agency, we need to create graphics based on text ideas provided by our clients. The text will be about their brands and products.\\n", "category": "generic"}
+{"question_id": 275, "text": " Help me upscale an image of my nanotechnology prototype so I can share it with my colleagues.\\n", "category": "generic"}
+{"question_id": 276, "text": " I want to generate an image of a \\\"sunset over the ocean\\\" with detailed shapes and distinct colors.\\n", "category": "generic"}
+{"question_id": 277, "text": " Design a large banner for our online store by synthesizing an image of a control room decorated with balloons and colorful lights.\\n", "category": "generic"}
+{"question_id": 278, "text": " I want to automatically generate art for my blog based on text descriptions. Find a way to generate an image of a \\\"sunrise over a mountain range\\\".\\n", "category": "generic"}
+{"question_id": 279, "text": " I am creating a website for my photography business where I need to improve the resolution of some images before uploading them.\\n", "category": "generic"}
+{"question_id": 280, "text": " You are an interior designer, and you wish to propose a room modification based on an existing photo.\\n", "category": "generic"}
+{"question_id": 281, "text": " We want to create visuals for our company profile. Design an image in a different style or representation using our logo as input.\\n", "category": "generic"}
+{"question_id": 282, "text": " I have an automatic drone and need to deblur the images it captures when moving fast.\\n", "category": "generic"}
+{"question_id": 283, "text": " Craft a powerful image of a pirate ship sailing at night during a storm, using text-to-image diffusion.\\n", "category": "generic"}
+{"question_id": 284, "text": " I have an incomplete drawing of a house underconstruction, I would like to see what it looks like when its completed, so I can decide what external design options to use.\\n", "category": "generic"}
+{"question_id": 285, "text": " We are a video game developer working on a new game. Let's synthesize high-quality images for the game's background.\\n", "category": "generic"}
+{"question_id": 286, "text": " Our design team wants to generate artwork for an online gallery. Create images using AI.\\n", "category": "generic"}
+{"question_id": 287, "text": " My daughter loves cats, so I want to create a high-quality image of a cat for her.\\n", "category": "generic"}
+{"question_id": 288, "text": " We are a real estate company, and we want to generate hypothetical images of churches for our marketing campaigns.\\n", "category": "generic"}
+{"question_id": 289, "text": " We need an image generator that will generate faces for a virtual fashion show.\\n", "category": "generic"}
+{"question_id": 290, "text": " Let's create an AI-driven interior design concept for a residential bedroom.\\n", "category": "generic"}
+{"question_id": 291, "text": " I am a wildlife enthusiast, and I am making a learning app about butterflies. Generate some realistic images of butterflies to use as examples.\\n", "category": "generic"}
+{"question_id": 292, "text": " As an art gallery director, we would like to generate computer-generated artwork to discover new painting styles.\\n", "category": "generic"}
+{"question_id": 293, "text": " We are working on an art website that recommends beautiful artworks. We want to use a model that generates images similar to the ones from WikiArt.\\n", "category": "generic"}
+{"question_id": 294, "text": " Create a program that can generate an original image to use as a social media profile picture.\\n", "category": "generic"}
+{"question_id": 295, "text": " I want to create a visual representation of my dream house, which can be generated with some help of Google/DDPM-EMA pretrained model.\\n", "category": "generic"}
+{"question_id": 296, "text": " We have an application that generates random images of portraits from samples, is there a model that can generate high quality images?\\n", "category": "generic"}
+{"question_id": 297, "text": " Imagine yourself as an upcoming science fiction writer. Design a cover for your next novel with the help of the latest AI-powered technology.\\n", "category": "generic"}
+{"question_id": 298, "text": " I am building a game server for which I want the model to generate custom skins for Minecraft characters.\\n", "category": "generic"}
+{"question_id": 299, "text": " Develop a program or so for a gaming community that enjoy mincraft. The reason is to generate unique and cool skin designs for the user's characters.\\n", "category": "generic"}
+{"question_id": 300, "text": " Present a code for generating a colorful butterfly using A.I. technology.\\n", "category": "generic"}
+{"question_id": 301, "text": " Develop an application that generates images of butterflies.\\n", "category": "generic"}
+{"question_id": 302, "text": " We need to generate unique, high-quality 2D human faces for a mobile game that can be played offline.\\n", "category": "generic"}
+{"question_id": 303, "text": " Can you generate a cat image with a 256x256 resolution?\\n", "category": "generic"}
+{"question_id": 304, "text": " A greeting card publisher wants to generate pictures of the butterflies for their new collection.\\n", "category": "generic"}
+{"question_id": 305, "text": " I am working on a new shoe design and need to generate a variety of shoe images as inspiration.\\n", "category": "generic"}
+{"question_id": 306, "text": " The compnay needs a random butterfly design to be printed on the company's T-shirts.\\n", "category": "generic"}
+{"question_id": 307, "text": " I have videos of sports events and would like to identify the type of sport happening in a video without knowing any labels.\\n", "category": "generic"}
+{"question_id": 308, "text": " Our client wants to create vintage-style images for their social media to showcase their retro-inspired products. Provide a solution to achieve this.\\n", "category": "generic"}
+{"question_id": 309, "text": " As an environmentalist organization, we want to generate images of butterflies to use in our promotional content.\\n", "category": "generic"}
+{"question_id": 310, "text": " We are tasked to make a presentation on the types of butterflies for a biology class. We want to generate images to showcase butterfly variety.\\n", "category": "generic"}
+{"question_id": 311, "text": " Let's develop a software to generate images of cute animals automatically.\\n", "category": "generic"}
+{"question_id": 312, "text": " I am part of a research team aiming to create a video analysis tool, we would like to classify different video activities.\\n", "category": "generic"}
+{"question_id": 313, "text": " As a video editor, I'd like smooth scene changes in a footage with some action detection.\\n", "category": "generic"}
+{"question_id": 314, "text": " Create a software to classify video clips for a security system.\\n", "category": "generic"}
+{"question_id": 315, "text": " I have a video. I want to see if this video can be used for advertisement or not by our AI.\\n", "category": "generic"}
+{"question_id": 316, "text": " A dance studio wants to host a competition that requires contestants to submit videos. The studio wants to automatically categorize the dances into genres to help with organizing the event.\\n", "category": "generic"}
+{"question_id": 317, "text": " Develop an AI actor that can recognize scenes from a trailer and identify the specific movie genre.\\n", "category": "generic"}
+{"question_id": 318, "text": " To improve the customer experience on our video streaming platform, we need to classify videos into proper categories based on content. Develop a video classification model.\\n", "category": "generic"}
+{"question_id": 319, "text": " Develop a security system for our business site that can detect unauthorized people by analyzing video clips.\\n", "category": "generic"}
+{"question_id": 320, "text": " The marketing team requires automated classification of video clips to target advertisements to customers. Please generate a solution.\\n", "category": "generic"}
+{"question_id": 321, "text": " The management requires an AI software to categorize the video types.\\n", "category": "generic"}
+{"question_id": 322, "text": " I own a security company, I want our surveillance cameras to send me an alert when it captures a burglar.\\n", "category": "generic"}
+{"question_id": 323, "text": " Find the class of the action in video content related to sports and physical activities.\\n", "category": "generic"}
+{"question_id": 324, "text": " I have a series of short videos about people performing various actions. Now I want to know which action is performed in each video.\\n", "category": "generic"}
+{"question_id": 325, "text": " Our surveillance system needs to alert us when it detects violent situations in real-time video feeds.\\n", "category": "generic"}
+{"question_id": 326, "text": " In order to optimize marketing videos, I want to classify video content into possible Kinetics-400 labels to distinguish them from others.\\n", "category": "generic"}
+{"question_id": 327, "text": " We are an AI consulting firm, and our client requires a video classification solution for their business.\\n", "category": "generic"}
+{"question_id": 328, "text": " Create a solution to classify videos automatically into predetermined categories.\\n", "category": "generic"}
+{"question_id": 329, "text": " We are working on a project to classify human-video interaction in real-time\\n", "category": "generic"}
+{"question_id": 330, "text": " Analyze a video and provide a classification based on the content.\\n", "category": "generic"}
+{"question_id": 331, "text": " Identify the activities in a video supplied as input for security monitoring purposes.\\n", "category": "generic"}
+{"question_id": 332, "text": " Our media company wants to analyze different videos into different categories. Develop an AI model to process and classify the videos.\\n", "category": "generic"}
+{"question_id": 333, "text": " A client needs to create a video playback software that can automatically classify the genre of a video clip as it is played.\\n", "category": "generic"}
+{"question_id": 334, "text": " I want to improve my home security system by categorizing the type of activities seen in the security footage.\\n", "category": "generic"}
+{"question_id": 335, "text": " I want to predict appropriate categories of videos to better understand users video choices.+\\n", "category": "generic"}
+{"question_id": 336, "text": " We are building an app to recognize human activity in videos. We need to process a video file and get a categorized list of actions.\\n", "category": "generic"}
+{"question_id": 337, "text": " We want to add a feature to our video platform that can automatically recognize the activities in the uploaded videos.\\n", "category": "generic"}
+{"question_id": 338, "text": " Imagine you want to classify videos from the UCF101 dataset. We need to use the pre-trained AutoModelForVideoClassification model.\\n", "category": "generic"}
+{"question_id": 339, "text": " Our team is developing a surveillance system for public spaces, and we require a model to identify people's actions in the video footage.\\n", "category": "generic"}
+{"question_id": 340, "text": " Help detect whether there is a cat or a dog in the given image.\\n", "category": "generic"}
+{"question_id": 341, "text": " My client is a real estate agency looking to categorize housing images so that they can provide potential buyers with relevant recommendations. Can you help us with the image classification?\\n###Input: image='path/to/housing/image', class_names=['apartment', 'house', 'townhouse', 'studio', 'duplex', 'penthouse']\\n", "category": "generic"}
+{"question_id": 342, "text": " We are working on building an AI that can judge a programmer's ability based on their portfolio website. We require a way to generate categories based on website images.\\n", "category": "generic"}
+{"question_id": 343, "text": " A new zoo just opened in our town. We want to know if the animals in the provided image are related to animals.\\n", "category": "generic"}
+{"question_id": 344, "text": " We are building an AI-powered art platform that recommends artwork for users based on their preferences. Find a way to classify the images according to different categories without any annotation.\\n", "category": "generic"}
+{"question_id": 345, "text": " I run an online store and I want to automatically sort the uploaded product images into categories: electronics, clothing, and furniture.\\n", "category": "generic"}
+{"question_id": 346, "text": " As someone who loves photography, I want my app to be able to automatically identify what the subject is in my uploaded images.\\n", "category": "generic"}
+{"question_id": 347, "text": " We want to build a mobile app where you take a picture of a bird and it tells you which species it is.\\n", "category": "generic"}
+{"question_id": 348, "text": " We are creating an app for designing posters, and it is required to suggest the most relevant images for a specific description.\\n", "category": "generic"}
+{"question_id": 349, "text": " A dog training company wants to automatically categorize dog breeds in images.\\n", "category": "generic"}
+{"question_id": 350, "text": " We are an e-commerce company that wants to classify products such as blue shoes and leather jackets using a zero-shot image classification model.\\n", "category": "generic"}
+{"question_id": 351, "text": " Build an image classifier for wildlife monitoring photocaptures. The software will be installed on cameras monitoring private properties and national parks.\\n", "category": "generic"}
+{"question_id": 352, "text": " As a curious pet owner, I'd like to know what goes on around in my house when I'm not home, so I'd like to automatically classify creatures captured in my security camera.\\n", "category": "generic"}
+{"question_id": 353, "text": " We are working on an AI-powered animal encyclopedia. Can you create a model for identifying unknown animal species in a given image?\\n", "category": "generic"}
+{"question_id": 354, "text": " A party planner organizer needs to classify the uploaded images into categories like food, decoration, and fun activities.\\n", "category": "generic"}
+{"question_id": 355, "text": " We are a team of medical researchers developing an app to help people identify health issues based on images of their symptoms. We need a model to categorize symptom images.\\n", "category": "generic"}
+{"question_id": 356, "text": " A platform for selling animal photos needs to know what animal is in each image so they can better categorize them.\\n", "category": "generic"}
+{"question_id": 357, "text": " Our company is working on a project to identify different areas in satellite images. We want to use a zero-shot approach for classifying images.\\n", "category": "generic"}
+{"question_id": 358, "text": " A museum curator asked to develop an automated tool that will identify and categorize a collection of images.\\n", "category": "generic"}
+{"question_id": 359, "text": " Let's say we are building a mobile-based health assistant and we want to recognize different fruits from images taken by the user. How can we classify the images?\\n", "category": "generic"}
+{"question_id": 360, "text": " We are a fashion boutique, and we want to categorize the photos of dresses that we have in our inventory.\\n", "category": "generic"}
+{"question_id": 361, "text": " I need to build a model to automatically classify images of insects into three categories: ant, bee, and butterfly.\\n", "category": "generic"}
+{"question_id": 362, "text": " We run a social media app and want to automatically classify images uploaded by users.\\n", "category": "generic"}
+{"question_id": 363, "text": " I am running an online store, and I would like to automatically categorize images of clothing items.\\n", "category": "generic"}
+{"question_id": 364, "text": " Tell me how to check whether an image contains a list of animals in Chinese.\\n", "category": "generic"}
+{"question_id": 365, "text": " Our company wants to analyze images to determine the number of cats in the picture, please provide a solution for this in Korean.\\n", "category": "generic"}
+{"question_id": 366, "text": " We want to share an Image Classification model with your mobile app in AI photocomparison, enabling users to access different categories of breed.\\n", "category": "generic"}
+{"question_id": 367, "text": " I am building an AI sales manager, and I would like to know how happy customers feel about our products from their reviews.\\n", "category": "generic"}
+{"question_id": 368, "text": " I'm an English teacher and I want to automatically classify the sentiment of a student's essay.\\n", "category": "generic"}
+{"question_id": 369, "text": " We want to build a sentiment analysis system for a variety of social media posts like Twitter and Instagram.\\n", "category": "generic"}
+{"question_id": 370, "text": " I want to build a conversational agent that is able to detect the sentiment of text messages regardless of the language.\\n", "category": "generic"}
+{"question_id": 371, "text": " We are dealing with a project related to self-driving cars. In order to improve the navigation, we need to classify the location of an image.\\n", "category": "generic"}
+{"question_id": 372, "text": " Develop a Chinese language prototype to classify images into various categories such as Pok\\u00e9mon, plants, and animals.\\n", "category": "generic"}
+{"question_id": 373, "text": " Analyze a text and determine the language it is written in.\\n###Input: {\\\"text\\\": \\\"C'est incroyable \\u00e0 quel point les langues peuvent \\u00eatre diff\\u00e9rentes les unes des autres.\\\"}\\n", "category": "generic"}
+{"question_id": 374, "text": " We want to process financial news headlines before investing our money. What is your advice?\\n", "category": "generic"}
+{"question_id": 375, "text": " Our bank is relying on AI technology to determine the sentiment of customer communication with companies. We need a model to automate this.\\n", "category": "generic"}
+{"question_id": 376, "text": " We are working on a smart assistant that analyzes social media content for public relations purposes. We would like to detect the sentiment of a given tweet.\\n", "category": "generic"}
+{"question_id": 377, "text": " My company is developing a customer support chatbot. We need to identify and respond to customer emotions in their text queries.\\n", "category": "generic"}
+{"question_id": 378, "text": " We are writing a blog post about AI-generated news and need a way to identify if the text was produced by GPT-2.\\n", "category": "generic"}
+{"question_id": 379, "text": " I am building an application that refines users' language. It should improve the adequacy of sentences.\\n", "category": "generic"}
+{"question_id": 380, "text": " Write a review about a movie and get the sentiment of the review.\\n###Input: \\\"Interstellar is a stunning sci-fi masterpiece with visually spectacular special effects and an emotionally engaging storyline.\\\"\\n", "category": "generic"}
+{"question_id": 381, "text": " The company wants to analyze the public's sentiment about a specific stock through social media comments.\\n", "category": "generic"}
+{"question_id": 382, "text": " We are creating an app to analyze emotions of given inputs. We need to classify the emotion of a text.\\n", "category": "generic"}
+{"question_id": 383, "text": " As an opinion writer, my users posted comments to my Twitter account. I want to understand the sentiment from those tweets.\\n###Input: Estoy de acuerdo con tu opini\\u00f3n. Los cambios en las pol\\u00edticas deber\\u00edan ser planeados cuidadosamente.\\n", "category": "generic"}
+{"question_id": 384, "text": " Design an online customer query support system which can retrieve the most relevant answer from a set of possible answers when a customer asks a specific question.\\n", "category": "generic"}
+{"question_id": 385, "text": " We're a company that collects customer reviews on our website. We want to analyze the sentiment of their comments.\\n", "category": "generic"}
+{"question_id": 386, "text": " I run a blog and I want to classify each comment by their sentiment, positive or negative.\\n", "category": "generic"}
+{"question_id": 387, "text": " In a new social media platform called \\\"ParrotTalk\\\", we need a function to paraphrase user messages keeping the fluency.\\n", "category": "generic"}
+{"question_id": 388, "text": " I have a trivia app where users can upvote the most accurate answers. Can you build a device that helps me find the best answer according to the context given?\\n", "category": "generic"}
+{"question_id": 389, "text": " We need to filter out inappropriate content or toxic comments from user feedback.\\n", "category": "generic"}
+{"question_id": 390, "text": " I'm trying to determine if a list of German sentences are positive, negative, or neutral in sentiment.\\n", "category": "generic"}
+{"question_id": 391, "text": " Our company requires a tool to provide us with an understanding of users' sentiments in their reviews.\\n", "category": "generic"}
+{"question_id": 392, "text": " We are a movie streaming platform, and we want a model to classify user reviews to better understand user emotions while watching movies.\\n", "category": "generic"}
+{"question_id": 393, "text": " Create a function to classify a given sentence as a question or statement to control the flow of conversation so that the assistant can respond accordingly.\\n", "category": "generic"}
+{"question_id": 394, "text": " Can you tell me if the following restaurant review has a positive or negative sentiment?\\n###Input: \\\"The food was absolutely amazing, and the service was top-notch. I will definitely be coming back to this place.\\\"\\n", "category": "generic"}
+{"question_id": 395, "text": " Create a system that can identify if a piece of text is gibberish or not.\\n", "category": "generic"}
+{"question_id": 396, "text": " One of our customers is managing a forum and we have to detect any offensive comments.\\n", "category": "generic"}
+{"question_id": 397, "text": " We are planning to build a chatbot and we need to know whether a piece of text represents a specific emotion.\\n", "category": "generic"}
+{"question_id": 398, "text": " I need to choose the right answer from a set of options for a given question.\\n", "category": "generic"}
+{"question_id": 399, "text": " The theme of our research conference is the COVID-19 pandemic. We need to extract names of organizations and locations mentioned in the text of the submitted papers.\\n", "category": "generic"}
+{"question_id": 400, "text": " We are a law firm, and we have many documents that contain personal information. Help us retrieve the names of the individuals involved.\\n###Input: My name is John Doe, and I am the attorney representing Jane Smith in her case against Acme Corporation.\\n", "category": "generic"}
+{"question_id": 401, "text": " A doctor asked us to find all the biomedical entities in a patient's case report. \\n", "category": "generic"}
+{"question_id": 402, "text": " Our company need a text analysis system to separate different entities like person name, location, organization in french text.\\n", "category": "generic"}
+{"question_id": 403, "text": " A voice transcription program is generating strings of text. It would be great to have proper punctuation inserted within the text.\\n", "category": "generic"}
+{"question_id": 404, "text": " Develop a system that can recognize names, locations and organizations in text.\\n", "category": "generic"}
+{"question_id": 405, "text": " Summarize a news article and find the named entities (persons, organizations, and locations) mentioned in the summary.\\n###Input: International human rights organizations are urging Brazilian President Jair Bolsonaro to protect the rights of indigenous people in Brazil. The call comes ahead of the United Nations climate summit, where Bolsonaro has been widely criticized for his handling of indigenous issues and the Amazon rainforest.\\n", "category": "generic"}
+{"question_id": 406, "text": " We would like a system to identify the names of people and locations in the articles that we retrieve.\\n", "category": "generic"}
+{"question_id": 407, "text": " Protect user privacy! Remove sensitive data from a document using a trained model.\\n", "category": "generic"}
+{"question_id": 408, "text": " In a dataset about mountain climbers, find the names of the climbers and the places they climbed in the text.\\n", "category": "generic"}
+{"question_id": 409, "text": " As a researcher, I'm analyzing an interview for a divierstity study, and I want to extract locations, organizations, and personal names mentioned in the text.\\n", "category": "generic"}
+{"question_id": 410, "text": " I need to extract all company names from a list of news articles.\\n", "category": "generic"}
+{"question_id": 411, "text": " I need to extract organizations' names from a given text. Please suggest a token classification model to perform this task.\\n", "category": "generic"}
+{"question_id": 412, "text": " I need to build a recommendation engine for a meal planning app. It should be able to analyze social media posts and extract food-related entities.\\n", "category": "generic"}
+{"question_id": 413, "text": " Provide a tool for extracting the names of the people and the organizations mentioned in a given financial news article.\\n", "category": "generic"}
+{"question_id": 414, "text": " Analyze the following text and identify the named entities associated with it: \\\"Yesterday, John Doe visited the Statue of Liberty and spent $30 on the trip.\\\"\\n###Input: \\\"Yesterday, John Doe visited the Statue of Liberty and spent $30 on the trip.\\\"\\n", "category": "generic"}
+{"question_id": 415, "text": " Our company is working on a customer support tool that automatically extracts relevant information mentioned by users in their messages. Analyze customer messages to extract entities.\\n", "category": "generic"}
+{"question_id": 416, "text": " I am building an app that transcribes voice recordings into text. I want to add punctuation to these transcriptions to make it more readable.\\n", "category": "generic"}
+{"question_id": 417, "text": " We are developing a system to identify the named entities in a given sentence.\\n", "category": "generic"}
+{"question_id": 418, "text": " In a news article, you are asked to identify part-of-speech tags.\\n###Input: The economy is slowly bouncing back from the pandemic and creating more job opportunities.\\n", "category": "generic"}
+{"question_id": 419, "text": " Implement a text classifier for Chinese text to identify tokens and sentences.\\n", "category": "generic"}
+{"question_id": 420, "text": " Assume you are working with a Chinese literature company. They need your expertise to identify the parts of speech for traditional Chinese texts.\\n", "category": "generic"}
+{"question_id": 421, "text": " I am working on a news article summarization project, and I need to extract the named entities present in the articles.\\n", "category": "generic"}
+{"question_id": 422, "text": " As a blog editor, I need to analyze the grammatical structure of a sentence to improve the quality.\\n###Input: \\\"He went to the grocery store to buy some vegetables.\\\"\\n", "category": "generic"}
+{"question_id": 423, "text": " Discover the named entities in an English text.\\n", "category": "generic"}
+{"question_id": 424, "text": " Detect named entities within a news article to understand what the main subjects are.\\n###Input: On July 15th, Joe Biden announced that the United States and countries in the European Union agreed to a series of measures to counter cyberattacks, mostly to target Russia.\\n", "category": "generic"}
+{"question_id": 425, "text": " Analyze the given sentence to figure out the role each word plays in the sentence grammatically.\\n", "category": "generic"}
+{"question_id": 426, "text": " As a German news agency, we want to extract names of persons, locations, and organizations from German articles.\\n", "category": "generic"}
+{"question_id": 427, "text": " Our accounting department requires a pre-trained language model able to understand table structures for easy and rapid data interpretation.\\n", "category": "generic"}
+{"question_id": 428, "text": " We are part of a research team that needs to analyze the relationship between specific data from a table and answer a given question.\\n###Input: \\\"<data_table>\\\": \\\"### Country & Population (2021)      \\\\n| Country      | Continent     | 2021 Population |                                               \\\\n|--------------|---------------|-----------------|                                               \\\\n| China        | Asia          | 1,444,216,107   |                                               \\\\n| India        | Asia          | 1,393,409,038   |                                               \\\\n| United States | North America | 332,915,073     |                                               \\\\n| Indonesia    | Asia          | 276,361,783     |\\\\n<question>\\\": \\\"What is the population of Indonesia in 2021?\\\"\\n", "category": "generic"}
+{"question_id": 429, "text": " Our client manages a school and would like to be able to find specific information within tables to quickly answer questions from parents and teachers.\\n", "category": "generic"}
+{"question_id": 430, "text": " We have a large dataset about sales and financial information. We want to extract the total revenue from the table.\\n###Input: table={[[\\\"Month\\\", \\\"Revenue\\\", \\\"Expense\\\"], [\\\"Jan\\\", 10000, 8000], [\\\"Feb\\\", 12000, 9000], [\\\"Mar\\\", 8000, 7000]]\\nquery='What is the total revenue?'\\n", "category": "generic"}
+{"question_id": 431, "text": " A teacher asks her students to create a small application that can answer questions about data stored in tables without writing customized code.\\n", "category": "generic"}
+{"question_id": 432, "text": " We need a way to identify important proper nouns from user reviews on our website like names, cities, organizations, etc.\\n", "category": "generic"}
+{"question_id": 433, "text": " Identify the named entities in the given news article.\\n###Input: On August 21st, Apple Inc. announced their new product, the iPhone 13, will be released on September 14th. CEO Tim Cook led the event and highlighted the new features, including an improved camera and longer battery life. The starting price for the device is $699.\\n", "category": "generic"}
+{"question_id": 434, "text": " Design bedside nurse report for COVID-19 patients with easy comprehension. We need to provide an overview of a patient's condition to the nurse.\\n", "category": "generic"}
+{"question_id": 435, "text": " Create a system to help users find specific information from a given table of sales data.\\n", "category": "generic"}
+{"question_id": 436, "text": " I have a large dataset of data in a table format. I want to analyze and retrieve the answers to the questions related to the data.\\n", "category": "generic"}
+{"question_id": 437, "text": " As a company manager, I want a summary of yearly revenue and expenses in a table. Then, I want the model to tell me in which year our company had the highest revenue.\\n", "category": "generic"}
+{"question_id": 438, "text": " We need to enable the ability to answer queries about events in a historical timeline table.\\n", "category": "generic"}
+{"question_id": 439, "text": " We are creating a software for reading tabular data and answering questions based on it. Let's include the relevant API calls.\\n", "category": "generic"}
+{"question_id": 440, "text": " Compare the number of COVID-19 cases across different countries and figure out which country has the highest number of cases.\\n###Input: Singapore has 124653 cases. South Korea has 199470. Vietnam has 12791. New Zealand has 1670.\\n", "category": "generic"}
+{"question_id": 441, "text": " We have a database with employee information, and we need to know the net salary of an employee named \\\"John Doe.\\\"\\n", "category": "generic"}
+{"question_id": 442, "text": " We have a dataset containing the cities and years of events, I need to find out the year when the event took place in Beijing.\\n", "category": "generic"}
+{"question_id": 443, "text": " Our executive is going on a business trip to Europe. Find the capital city of France for them.\\n", "category": "generic"}
+{"question_id": 444, "text": " Our marketing team has a table with sales data for each month. They would like to know the total revenue for February.\\n###Input: \\n\\\"question\\\": \\\"What is the total revenue for February?\\\",\\n\\\"table\\\": {\\n  \\\"header\\\": [\\\"Month\\\", \\\"Sales\\\", \\\"Revenue\\\"],\\n  \\\"data\\\": [\\n    [\\\"January\\\", 1500, 15000],\\n    [\\\"February\\\", 1800, 18000],\\n    [\\\"March\\\", 2000, 23000],\\n    [\\\"April\\\", 2500, 25000],\\n    [\\\"May\\\", 2250, 24000]\\n  ]\\n}\\n", "category": "generic"}
+{"question_id": 445, "text": " I want to have a question-answering system for solving queries present in tabular data to make quick decisions.\\n", "category": "generic"}
+{"question_id": 446, "text": " We have a large dataset of tables and we need a suitable model to query it in natural language.\\n", "category": "generic"}
+{"question_id": 447, "text": " Our team needs to work on an app that can answer questions about online shopping items based on tables. Provide assistance.\\n", "category": "generic"}
+{"question_id": 448, "text": " My company needs to answer questions about sales data on a monthly basis.\\n", "category": "generic"}
+{"question_id": 449, "text": " I want to create a tool that takes a table with data about Olympic Games years and cities and allows me to ask questions like, \\\"In which year did Beijing host the Olympic Games?\\\"\\n", "category": "generic"}
+{"question_id": 450, "text": " We work for the tourism department and have access to a data table with information about Olympic Games host cities. We want to find out when Beijing hosted the Olympics.\\n", "category": "generic"}
+{"question_id": 451, "text": " For our city, we want to create a database of public facilities and answer questions related to these facilities.\\n###Input: {\\\"table\\\": \\\"Name,Type,Address,Operating Hours\\nPark,Public Park,123 Park St,8am-10pm\\nLibrary,Public Library,456 Library Rd,9am-9pm\\\", \\\"queries\\\": \\\"What type of facility is at address 123 Park St?\\\"}\\n", "category": "generic"}
+{"question_id": 452, "text": " I have a table of sales reports of my company's different departments. I want to have the exact number of sales of the Software department in this table.\\n", "category": "generic"}
+{"question_id": 453, "text": " Can you help me with a code that will extract information from a data table about Olympic Games host cities and years? \\n", "category": "generic"}
+{"question_id": 454, "text": " Help me find the answer to my questions about Python libraries.\\n", "category": "generic"}
+{"question_id": 455, "text": " Our customer is a student with queries about certain tables. We need to build a model to answer their questions based on the data provided in the table.\\n", "category": "generic"}
+{"question_id": 456, "text": " We want to calculate the average number of stars for these open-source repositories. Create a table with repository, stars, and extract the data from it.\\n", "category": "generic"}
+{"question_id": 457, "text": " How can we extract answers from medical articles using natural language processing?\\n", "category": "generic"}
+{"question_id": 458, "text": " Create a system to analyze customers' questions in a company's email correspondence and automatically answer them.\\n", "category": "generic"}
+{"question_id": 459, "text": " I need to know how to find my favorite podcast on Spotify in several languages.\\n###Input: Senza alcuna conoscenza, come posso trovare il mio podcast preferito su Spotify?\\n", "category": "generic"}
+{"question_id": 460, "text": " A high school student wonders about the admission process of Oxford University. Help him find the answer.\\n###Input: {\\\"question\\\": \\\"What is the admission process of Oxford University?\\\", \\\"context\\\": \\\"Oxford University has a competitive admission process. Students must first apply through the Universities and Colleges Admissions Service (UCAS). Then, they need to take an admissions test and submit their written work as part of their application. Shortlisted candidates are usually invited for an interview, which plays a critical role in the final decision. Successful candidates receive offers, typically conditional on examination results.\\\"}\\n", "category": "generic"}
+{"question_id": 461, "text": " We are building an application for high school students. Part of the application would be answering questions from their textbooks. We need to integrate an approach that provides accurate answers.\\n", "category": "generic"}
+{"question_id": 462, "text": " I am a student and I have a question about why we need a certain feature in a programming tool. Can you find the relevant answer?\\n###Input: {\\\"question\\\": \\\"Why is model conversion important?\\\", \\\"context\\\": \\\"The option to convert models between FARM and transformers gives freedom to the user and let people easily switch between frameworks.\\\"}\\n", "category": "generic"}
+{"question_id": 463, "text": " We need to extract answers from legal documents. The user asks questions like, \\\"How much is the termination fee?\\\".\\n", "category": "generic"}
+{"question_id": 464, "text": " I will be in South Korea on a business trip and I need a specialized assistant to help me with interpreting information in the Korean language.\\n", "category": "generic"}
+{"question_id": 465, "text": " We are building a knowledge base management system with AI assistance, and we want to ask it to explain concepts for us.\\n", "category": "generic"}
+{"question_id": 466, "text": " With the overwhelming quantity of information about COVID-19 on the internet, we want to make it easier for users to find accurate answers to their questions.\\n", "category": "generic"}
+{"question_id": 467, "text": " Write a query for a legal document to detect who are the parties involved in the contract.\\n", "category": "generic"}
+{"question_id": 468, "text": " Build a question-answering system that uses a distilled model to provide quick and accurate responses.\\n", "category": "generic"}
+{"question_id": 469, "text": " Our team is developing a virtual assistant that can answer questions based on the given context. Can you help us find the right model?\\n", "category": "generic"}
+{"question_id": 470, "text": " I am running an e-commerce clothing store and I have a large amount of customer reviews. Extract answers to specific questions about product quality from these reviews.\\n", "category": "generic"}
+{"question_id": 471, "text": " A person wants to know what's mentioned about the capital of France in a document about European countries.\\n###Input: {\\\"question\\\": \\\"What is the capital of France?\\\", \\\"context\\\": \\\"France, a popular tourist destination, is also a leading European country with a rich history and diverse landscapes. Its capital is Paris, which is known for its architecture, culture and fashion.\\\"}\\n", "category": "generic"}
+{"question_id": 472, "text": " Collect information about global warming and answer this question: \\\"What are the main causes of global warming?\\\"\\n", "category": "generic"}
+{"question_id": 473, "text": " I want my app to answer questions about a given text like a wikipedia article.\\n", "category": "generic"}
+{"question_id": 474, "text": " To help a student with their history project, create a function that will find answers to specific questions related to a given text from their book.\\n", "category": "generic"}
+{"question_id": 475, "text": " I am working on a project to analyze novels. Can you provide a question-answering pipeline to help me find specific information from a large text?\\n", "category": "generic"}
+{"question_id": 476, "text": " I encountered a text passage that might contain the answer to an important question. Could you help me refine the answer through deep learning models?\\n###Input: {\\\"question\\\": \\\"What are the benefits of model conversion?\\\", \\\"context\\\": \\\"The benefits of model conversion include providing flexibility to the user, allowing people to easily switch between different frameworks, and reducing the need to retrain models across various platforms.\\\"}\\n", "category": "generic"}
+{"question_id": 477, "text": " I am creating a mobile app that answers questions related to images shown on-screen. I would prefer a transformer model to be used.\\n", "category": "generic"}
+{"question_id": 478, "text": " Help us find the answer to the question: \\\"What day was the game played on?\\\" with the following context: \\\"The game was played on February 7, 2016 at Levi's Stadium in the San Francisco Bay Area at Santa Clara, California.\\\"\\n###Input: \\\"The game was played on February 7, 2016 at Levi's Stadium in the San Francisco Bay Area at Santa Clara, California.\\\"\\n", "category": "generic"}
+{"question_id": 479, "text": " Assist me in finding the answer to a question written in traditional Chinese regarding a historical article.\\n", "category": "generic"}
+{"question_id": 480, "text": " Assistance needed in retrieving an answer for a user input question.\\n### Input: {'context': 'A pandemic is an epidemic occurring on a scale which crosses international boundaries, usually affecting people on a worldwide scale. The most well-known example of a pandemic is the Spanish flu (also known as the 1918 flu pandemic) causing 50 million deaths.', 'question': 'What is an example of a well-known pandemic?'}\\n", "category": "generic"}
+{"question_id": 481, "text": " I am a student learning NLP. I want to build a system for answering questions about articles on the internet.\\n", "category": "generic"}
+{"question_id": 482, "text": " I'm a student studying for my exams. I need to answer questions from my study materials in multiple languages.\\n", "category": "generic"}

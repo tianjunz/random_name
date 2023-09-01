@@ -1,0 +1,930 @@
+{"question_id": 1, "text": "I need an API that can estimate the relative depth of objects from a single image. The output should be an inverse depth map.", "category": "generic"}
+{"question_id": 2, "text": "I need an API to detect different types of vehicles, people, and lanes in an image captured from a camera mounted on a self-driving car.", "category": "generic"}
+{"question_id": 3, "text": "\"I need to calculate the single-image depth map of a captured image. Present an API that can perform this complex task.\"", "category": "generic"}
+{"question_id": 4, "text": "Imagine an advertisement company wants to analyze various video streams for the presence of specific activities or actions. Provide them with an API that can perform this video classification task.", "category": "generic"}
+{"question_id": 5, "text": "Recommend an API for estimating relative depth from a single image for a self-driving vehicle startup.", "category": "generic"}
+{"question_id": 6, "text": "I work for Tesla, and I need a ready-to-use model for detecting and classifying cars, pedestrians, lanes, and drivable area in an image.", "category": "generic"}
+{"question_id": 7, "text": "A student needs to classify bird species for their science project. Write an API to help identify the bird species given a photo of a bird.", "category": "generic"}
+{"question_id": 8, "text": "Help me find an API to convert spoken language in a recorded audio file into text.", "category": "generic"}
+{"question_id": 9, "text": "We want to convert text to audio for one of our applications. What API can provide that functionality?", "category": "generic"}
+{"question_id": 10, "text": "Devise an API used to separate objects from the background in an image.", "category": "generic"}
+{"question_id": 11, "text": "Please suggest a powerful API to carry out semantic segmentation in a given image.", "category": "generic"}
+{"question_id": 12, "text": "We are developing a voice assistant that needs to detect when a human is speaking. Suggest an API to detect human speech in an audio file.", "category": "generic"}
+{"question_id": 13, "text": "Design an API for segmenting the objects in an image with the highest accuracy.", "category": "generic"}
+{"question_id": 14, "text": "We need an API for a security system that can detect objects in real-time. Recommend a solution.", "category": "generic"}
+{"question_id": 15, "text": "NASA is looking to classify celestial images. They need a machine learning API that can identify objects in images. Recommend one.", "category": "generic"}
+{"question_id": 16, "text": "I want to determine what objects are in an image file. Find me a model API that can classify the objects in the image.", "category": "generic"}
+{"question_id": 17, "text": "Find me an API for classifying different objects in images with high accuracy.", "category": "generic"}
+{"question_id": 18, "text": "I need an API that can create random images of clothes, like shirts, pants or dresses, any ideas?", "category": "generic"}
+{"question_id": 19, "text": "I am a researcher working on a computer vision project and need a cutting-edge pre-trained image classification API. What do you suggest?", "category": "generic"}
+{"question_id": 20, "text": "Develop an art piece using a GAN that can generate high quality celebrity images.", "category": "generic"}
+{"question_id": 21, "text": "A professional radiologist is looking to process an MRI dataset to isolate abnormalities. Help me find an API that can segment the abnormal regions within brain MRI images.", "category": "generic"}
+{"question_id": 22, "text": "Recommend me an API to classify images with top-notch accuracy.", "category": "generic"}
+{"question_id": 23, "text": "Help me classify images of cats and dogs, by recommending an API to do that.", "category": "generic"}
+{"question_id": 24, "text": "I need an API that can be used for image classification tasks with a model trained on ImageNet dataset.", "category": "generic"}
+{"question_id": 25, "text": "An app developer from San Francisco wants to classify images based on their content. Tell me an API that can classify images into different categories.", "category": "generic"}
+{"question_id": 26, "text": "Identify the objects in an image using a dense convolutional network. Recommend an API for this purpose.", "category": "generic"}
+{"question_id": 27, "text": "I'm the founder of Dobble, an AI company. We are building a virtual assistant and looking for an API to convert text to speech. Can you provide one?", "category": "generic"}
+{"question_id": 28, "text": "Show me an API that can handle textual classification like sentiment analysis, emotion recognition or sarcasm detection.", "category": "generic"}
+{"question_id": 29, "text": "Recommend a Python API to perform semantic segmentation on an image.", "category": "generic"}
+{"question_id": 30, "text": "I am a computer vision researcher and I'm trying to figure out which CNN model to use for image classification. Can you provide me with an API for a Dense Convolutional Network?", "category": "generic"}
+{"question_id": 31, "text": "I am working on a computer vision app and I need to classify objects in the images. Which API can help me classify objects with high accuracy?", "category": "generic"}
+{"question_id": 32, "text": "Imagine that you are working on an autonomous vehicle project and you need to process images from a camera to recognize objects in real time. Tell me about an API suitable for this purpose.", "category": "generic"}
+{"question_id": 33, "text": "We need an API that can be used to create an efficient image classifier for differentiating among various dog breeds in a mobile app.", "category": "generic"}
+{"question_id": 34, "text": "Recommend an image classification API that requires low memory and runs faster on GPUs to classify user-uploaded photos.", "category": "generic"}
+{"question_id": 35, "text": "Identify an API for a clothing e-commerce website that classifies an image into different categories such as tops, shoes, dresses, etc.", "category": "generic"}
+{"question_id": 36, "text": "Please provide me with an image classification API to identify objects in an image for a surveillance company.", "category": "generic"}
+{"question_id": 37, "text": "I am working on a project that needs a lightweight image classification solution. Suggest me an API to use.", "category": "generic"}
+{"question_id": 38, "text": "I am a computer science researcher interested in selecting an efficient image classification model. Can you recommend me an API that would be suitable for that purpose?", "category": "generic"}
+{"question_id": 39, "text": "A company is developing a machine-learning based software to categorize their products based on the photos they take. Provide an API that can help them classify their images and name the image types.", "category": "generic"}
+{"question_id": 40, "text": "A machine learning engineer is working on generalization for classification tasks in different domains. Suggest an API that is suitable for this task.", "category": "generic"}
+{"question_id": 41, "text": "We want our AI powered traffic camera to classify different types of vehicles with high accuracy. Provide an API suggestion for this.", "category": "generic"}
+{"question_id": 42, "text": "I'm working on a project that needs a deep learning model to identify similar objects across different domains. Suggest me an API that can serve the purpose.", "category": "generic"}
+{"question_id": 43, "text": "A new ecommerce store wants to automatically categorize images of products into different classes. Recommend an API that can perform image classification.", "category": "generic"}
+{"question_id": 44, "text": "An e-commerce company is building an AI to classify pictures of products into categories automatically. Recommend an API to help in classifying images.", "category": "generic"}
+{"question_id": 45, "text": "A developer is trying to build an image classifier. Provide an API capable of classifying images and telling what objects are present.", "category": "generic"}
+{"question_id": 46, "text": "Is there an API to implement ResNeSt for image classification purposes?", "category": "generic"}
+{"question_id": 47, "text": "In order to create classifiers for popular recipes from the internet, I would like to locate an API that can efficiently classify a given food image.", "category": "generic"}
+{"question_id": 48, "text": "Recommend me an API to classify images in a mobile app for users that sorts their images in predefined categories.", "category": "generic"}
+{"question_id": 49, "text": "I need to classify the content of an image using a pretrained model optimized for GPU. Show me an API that can do that.", "category": "generic"}
+{"question_id": 50, "text": "I need an API for classifying objects in mobile application. What is the best API for classifying objects with mobile devices?", "category": "generic"}
+{"question_id": 51, "text": "I'm uploading my paintings to an online art gallery and I need to know what categories they might fit into. Find an API to recommend categories based on the images.", "category": "generic"}
+{"question_id": 52, "text": "A photographer needs an AI-based solution to help classify a variety of images. Recommend an appropriate API that can classify an image into one of 1000 categories.", "category": "generic"}
+{"question_id": 53, "text": "I have a large image dataset in need of image classification using deep residual networks. Can you recommend an API that can achieve this for me?", "category": "generic"}
+{"question_id": 54, "text": "I am developing an app that can recognize diverse objects in pictures. Identify an API that can help me achieve this.", "category": "generic"}
+{"question_id": 55, "text": "I am having trouble with my tomato plants and want some help figuring out what's wrong with them. I need an AI that can spot diseases in plants given an image.", "category": "generic"}
+{"question_id": 56, "text": "Which API should I use to build a tomato classification app that detects diseases in tomato plant leaves?", "category": "generic"}
+{"question_id": 57, "text": "I want to categorize a given image into a certain class like animals or objects. Identify an API that can do that.", "category": "generic"}
+{"question_id": 58, "text": "I want to sort images of animals into appropriate categories. What API should I use?", "category": "generic"}
+{"question_id": 59, "text": "Provide an API for classifying the objects present in an image.", "category": "generic"}
+{"question_id": 60, "text": "I want an API that can classify images and tell me what the images are.", "category": "generic"}
+{"question_id": 61, "text": "Find me a pre-trained API to identify objects in real-time, taking into account a database of more than 100 classes from ImageNet.", "category": "generic"}
+{"question_id": 62, "text": "As a biologist, I need to identify the species in a photo. Which API should I use to classify images into different categories?", "category": "generic"}
+{"question_id": 63, "text": "I need a lightweight API to classify images based on a training set of images from my new mobile app.", "category": "generic"}
+{"question_id": 64, "text": "What is an efficient deep learning model for categorizing images into object classes with fewer parameters?", "category": "generic"}
+{"question_id": 65, "text": "Recommend a well-tested API to identify objects in a digital photograph for my photo gallery website.", "category": "generic"}
+{"question_id": 66, "text": "Recommend an image recognition API that I can use for classifying images of animals.", "category": "generic"}
+{"question_id": 67, "text": "I want an API that allows me to recognize and classify different breeds of dogs from images.", "category": "generic"}
+{"question_id": 68, "text": "I am a software engineer and I am trying to create an image recognition system for my latest project. Find an API that can tell me the category of the objects in a provided image.", "category": "generic"}
+{"question_id": 69, "text": "Propose an API to identify what is in a photo of a bird in order to label it with the correct species.", "category": "generic"}
+{"question_id": 70, "text": "Tell me the best API to be used on a security camera to classify vehicles and details about them given an image", "category": "generic"}
+{"question_id": 71, "text": "An e-commerce website looking for APIs to create image classifiers for their products. Offer a solution based on the VGG model.", "category": "generic"}
+{"question_id": 72, "text": "Recommending the best machine learning models or APIs that is good for classifying a dataset of images with over 1000 categories.", "category": "generic"}
+{"question_id": 73, "text": "An e-commerce platform wants to categorize their items by image. Tell me an API that can do this.", "category": "generic"}
+{"question_id": 74, "text": "Suggest a neural network that can effectively identify different types of birds in high-resolution images.", "category": "generic"}
+{"question_id": 75, "text": "I want to build a video filter app that can separate video clips by different activities. Can you suggest an API that can classify videos into different categories based on the activities happening in the video?", "category": "generic"}
+{"question_id": 76, "text": "What's the best API for automatically detecting sports or activities types in a video clip for an application?", "category": "generic"}
+{"question_id": 77, "text": "A mobile app company wants to build an object classification solution for their Android app. Give me an API that can classify objects in images with low latency and high accuracy.", "category": "generic"}
+{"question_id": 78, "text": "I would like to build a tool that can produce human-like text given an input prompt. Recommend an API that can help me construct realistic sentences.", "category": "generic"}
+{"question_id": 79, "text": "A wildlife photographer needs to classify his collection of animal images. Which API can be used to assist the photographer in image classification?", "category": "generic"}
+{"question_id": 80, "text": "I work at a small company that creates a deep learning-based smartphone app. I need a model to classify images super fast and with high performance. Guide me to the right API.", "category": "generic"}
+{"question_id": 81, "text": "Recommend an API for translating English text to French text.", "category": "generic"}
+{"question_id": 82, "text": "Tell me an API for image classification with high accuracy and less computation resources.", "category": "generic"}
+{"question_id": 83, "text": "A social media company wants to detect if an image uploaded by users contains any inappropriate content. Recommend an API for this.", "category": "generic"}
+{"question_id": 84, "text": "Create a program to identify the species of a bird from an image taken from a bird watching trip in north America.", "category": "generic"}
+{"question_id": 85, "text": "I run an online fashion store, and I'm looking for an AI model that can categorize images of clothing items into their respective categories. Suggest a suitable API for me to use.", "category": "generic"}
+{"question_id": 86, "text": "Recommend an API that can help me distinguish between cats and dogs in an image.", "category": "generic"}
+{"question_id": 87, "text": "What API do you recommend to discriminate between different breeds of dogs using only the color of the dogs?'", "category": "generic"}
+{"question_id": 88, "text": "Present an API to determine what plant is in a photo from a database containing 100,000 images without the use of common tricks.", "category": "generic"}
+{"question_id": 89, "text": "I am working on a project to classify images into different classes. Give me a API that has been pre-trained and can classify images across a wide range of categories.", "category": "generic"}
+{"question_id": 90, "text": "I need an API that does Image Classification, which is pretrained on ImageNet dataset and has high accuracy.", "category": "generic"}
+{"question_id": 91, "text": "How can we convert spoken text \"The weather is nice today. Should we go for a walk?\" into speech using a deep learning model?, 'Input': 'The weather is nice today. Should we go for a walk?'", "category": "generic"}
+{"question_id": 92, "text": "FastEVs is developing an electric autonomous vehicle and needs an API to perceive traffic objects and detect drivable areas in real-time. Recommend a suitable API.", "category": "generic"}
+{"question_id": 93, "text": "Develop an application that classifies actions in sports videos. Recommend a suitable API to help analyze the videos and understand the actions performed.", "category": "generic"}
+{"question_id": 94, "text": "A startup is looking to build a drone security system for detecting intruders in restricted areas. Suggest an API suitable for this task.", "category": "generic"}
+{"question_id": 95, "text": "An autonomous vehicle company requires an API capable of object detection, drivable area segmentation, and lane detection. Provide the API and an example code to fulfill their requirements.", "category": "generic"}
+{"question_id": 96, "text": "Recommend an API to estimate relative depth from a single input image to help with Real Estate floor plans.", "category": "generic"}
+{"question_id": 97, "text": "I want to calculate the relative depth of a scene from a single photo. Recommend an API for this purpose.", "category": "generic"}
+{"question_id": 98, "text": "I have a photo of an outdoor landscape, and I want to determine the relative depth of objects in the image. Provide an API that will help me achieve this.", "category": "generic"}
+{"question_id": 99, "text": "I want an API to separate music into vocals, drums, bass, and other instruments for a music application I am developing. What API should I use?", "category": "generic"}
+{"question_id": 100, "text": "Make a list of semantic audio conversion tasks, and specify a suitable API for speech to text conversion from various audio input formats.", "category": "generic"}
+{"question_id": 101, "text": "I am building a bird identification app but I have trouble indentifying birds from photo. Which API can I use to indentify birds given a photo?", "category": "generic"}
+{"question_id": 102, "text": "A business meeting is being transcribed, and we need to detect speech segments in the recorded audio. Provide me with an API to perform voice activity detection on the audio file.", "category": "generic"}
+{"question_id": 103, "text": "A drone company, SkyEye, wants to use an API that will segment the image collected from the drone for better object recognition. Recommend an API that could handle this task.", "category": "generic"}
+{"question_id": 104, "text": "Identify an API to perform semantic segmentation of the street labeled with road, sidewalk, and building for a given picture.", "category": "generic"}
+{"question_id": 105, "text": "A photographer wants to separate the foreground and background in their images using semantic segmentation. Suggest an API for this purpose.", "category": "generic"}
+{"question_id": 106, "text": "Propose a neural network model to use for detecting furniture in photos and identifying their types.", "category": "generic"}
+{"question_id": 107, "text": "Alex is a deaf user who needs an app to convert text to voice. Which API would you recommend for that?", "category": "generic"}
+{"question_id": 108, "text": "Recommend me an API that identifies animals in a given image to feed as data to other functionalities.", "category": "generic"}
+{"question_id": 109, "text": "We are building an image classifier for our meme sharing platform. Suggest an API for high-accuracy image classification.", "category": "generic"}
+{"question_id": 110, "text": "Suggest an API that can identify the species of a bird from an image taken in Yosemite National Park.", "category": "generic"}
+{"question_id": 111, "text": "An artist is trying to generate new art from existing 64x64 art images for an online gallery. Provide me an API that can generate new images utilizing training data of previously generated art images.", "category": "generic"}
+{"question_id": 112, "text": "I want to know more about ResNet50 from NVIDIA Deep Learning Examples. Provide me with an API that I can use in my system to classify images with high precision.", "category": "generic"}
+{"question_id": 113, "text": "Determine if the given image is of a car or not using an appropriate API., 'Input': 'https://www.example.com/images/car_image.jpg'", "category": "generic"}
+{"question_id": 114, "text": "I need to create an image of a realistic building. Is there an API that can help me with this?", "category": "generic"}
+{"question_id": 115, "text": "A medical researcher from Johns Hopkins University wants to analyze brain MRI scans for tumor detection. Recommend an API that can perform tumor segmentation in brain MRI images.", "category": "generic"}
+{"question_id": 116, "text": "Can you help me find an API for image classification which can recognize the objects in a given image?", "category": "generic"}
+{"question_id": 117, "text": "Derive a recommendation for a CNN used in image classification, trained on the ImageNet dataset.", "category": "generic"}
+{"question_id": 118, "text": "A company wants to build an app that can classify images into 1000 different categories. Can you provide a machine learning API and some sample code that can help with the task?", "category": "generic"}
+{"question_id": 119, "text": "What is an API that does an automatic image classification of flowers?", "category": "generic"}
+{"question_id": 120, "text": "Report an API that can turn text into speech for a vocal assistant app.", "category": "generic"}
+{"question_id": 121, "text": "A company wants to develop a text classification model for their customer support operations. Suggest an API that uses transfer learning to achieve this.", "category": "generic"}
+{"question_id": 122, "text": "Suggest an API able to classify images with a high level of accuracy, using the fewest possible parameters.", "category": "generic"}
+{"question_id": 123, "text": "I need a model for classifying images, and I want to use Densenet-169. Give me an API to use.", "category": "generic"}
+{"question_id": 124, "text": "Design an image classification model to recognize different objects in images. Recommend an API appropriate for this task.", "category": "generic"}
+{"question_id": 125, "text": "An urban planner needs to segment different objects in cityscape images. Recommend an API that can do this task efficiently.", "category": "generic"}
+{"question_id": 126, "text": "Find a suitable API to perform semantic segmentation of an aerial image into building, road, and vegetation.", "category": "generic"}
+{"question_id": 127, "text": "Recommend an API that can classify images using a fast and efficient model.", "category": "generic"}
+{"question_id": 128, "text": "Can you suggest an efficient API for classifying a large collection of images that minimizes computational cost?", "category": "generic"}
+{"question_id": 129, "text": "Identify an API that can classify flora and fauna species by analyzing images.", "category": "generic"}
+{"question_id": 130, "text": "A robotics company wants to reduce the computational and memory cost of an image classification model for mobile robot applications. Suggest an API suited for this.", "category": "generic"}
+{"question_id": 131, "text": "I need an API to help identify dog breeds in images. Recommend one with a light model that is fast in processing the images.", "category": "generic"}
+{"question_id": 132, "text": "Find an API suitable for cross-domain image classification with high accuracy.", "category": "generic"}
+{"question_id": 133, "text": "A fashion ecommerce app wants to automatically classify and tag images of clothing items. Help them find a suitable API for image classification.", "category": "generic"}
+{"question_id": 134, "text": "Recommend an API that can create models having domain or appearance invariance.", "category": "generic"}
+{"question_id": 135, "text": "I need to re-identify a person in a different set of images, suggest an API I can use to make this process easier.", "category": "generic"}
+{"question_id": 136, "text": "Find me an API for classifying different breeds of dogs from their photos.", "category": "generic"}
+{"question_id": 137, "text": "My manager just asked me to implement a classification system that can categorize pictures into different animal species. Can you recommend an API that can help me with this task?", "category": "generic"}
+{"question_id": 138, "text": "Detect the type of tree species in a park from an image taken by a smartphone. Provide an API that can help with this classification problem.", "category": "generic"}
+{"question_id": 139, "text": "Many people loves to create different memes. Propose an API that can use keywords from meme text to detect if a meme is negative or not.", "category": "generic"}
+{"question_id": 140, "text": "Can you find an API that can identify objects in images?", "category": "generic"}
+{"question_id": 141, "text": "Tell me an API that can classify a given image into one of the predefined categories.", "category": "generic"}
+{"question_id": 142, "text": "I want to perform classification on my dataset with a model that is optimized for a CPU. Suggest me an API.", "category": "generic"}
+{"question_id": 143, "text": "I want to classify images on my mobile efficiently. Suggest an API to achieve this.", "category": "generic"}
+{"question_id": 144, "text": "A company needs to classify a large number of photos by their content. Suggest an API that is optimized for GPU and can perform classifications efficiently.", "category": "generic"}
+{"question_id": 145, "text": "I need to create an app that can analyze food image and can tell its catagory like pizza, burger, etc. Write an API that can help me in achieving this.", "category": "generic"}
+{"question_id": 146, "text": "Design me an API for classifying images using a pretrained model.", "category": "generic"}
+{"question_id": 147, "text": "Can you customize an API that can detect eco-friendly packaging from photos?", "category": "generic"}
+{"question_id": 148, "text": "Explain the idea behind deep residual networks, and provide an API that can identify different types of trees from images.", "category": "generic"}
+{"question_id": 149, "text": "Identify an API that can classify types of dogs from a given image.", "category": "generic"}
+{"question_id": 150, "text": "Can you suggest an API that will help a company build an image classification model for their photo sharing app to identify objects in the photos?", "category": "generic"}
+{"question_id": 151, "text": "I'm working on a computer vision project that requires a deep learning model for image classification. Can you provide an API that is efficient and accurate for this task?", "category": "generic"}
+{"question_id": 152, "text": "Find me an API to classify clothing items from a real-time camera feed.", "category": "generic"}
+{"question_id": 153, "text": "I want to classify everyday objects in images. Is there an AI model that can help me to do this?", "category": "generic"}
+{"question_id": 154, "text": "Help me find an image classifier model that can be used in a mobile application to classify everyday objects from images. The model should be light and efficient.", "category": "generic"}
+{"question_id": 155, "text": "Can you suggest an API that can classify objects in images with a high level of accuracy but maintaining small model size and low computational cost?", "category": "generic"}
+{"question_id": 156, "text": "Analyze and classify objects in a photo using an efficient convolutional neural network. The model should balance between accuracy and computational resources.", "category": "generic"}
+{"question_id": 157, "text": "Is there any image classification API that I can use for tiny object, e.g., fruits in the market images, to save memory on my smartphone application?", "category": "generic"}
+{"question_id": 158, "text": "Help me recognize the objects present in an image. Recommend an API that can do this.", "category": "generic"}
+{"question_id": 159, "text": "I need a way to efficiently detect and categorize various types of plants and animals in images taken from a nature reserve, could you provide an API that could help me with this task using a pretrained model?", "category": "generic"}
+{"question_id": 160, "text": "I'm looking for an API that recognizes different objects in images. Can you recommend one?", "category": "generic"}
+{"question_id": 161, "text": "Help me classify species of birds from images using an API call.", "category": "generic"}
+{"question_id": 162, "text": "Which API should I use to recognize images containing fruits and vegetables in a grocery store setting?", "category": "generic"}
+{"question_id": 163, "text": "Help me identify the objects in a photo using an API that is pretrained with many different classes.", "category": "generic"}
+{"question_id": 164, "text": "Our application identifies objects in images. What is the best image recognition API from torchvision for our case?", "category": "generic"}
+{"question_id": 165, "text": "Recommend an API that can recognize animals in an image and classify them into categories like pets, wildlife, and aquatic animals.", "category": "generic"}
+{"question_id": 166, "text": "What is an API that can classify photos of foods into their meal category?", "category": "generic"}
+{"question_id": 167, "text": "Find me a powerful API that can classify dozens of classes from an image taken.", "category": "generic"}
+{"question_id": 168, "text": "A sport streaming platform needs to detect clips of football plays for highlight creation. Recommend an API that can classify video clips into different action categories.", "category": "generic"}
+{"question_id": 169, "text": "I am developing a video platform and I need an API that can classify the type of sports played in the video.", "category": "generic"}
+{"question_id": 170, "text": "Recommend a machine learning API for classifying images with high inference speed and low latency on NVIDIA GPUs.", "category": "generic"}
+{"question_id": 171, "text": "Recommend an image classification API that can be used for classifying medical instruments in a biomedical dataset.", "category": "generic"}
+{"question_id": 172, "text": "There is a need at an NGO to develop a model that can analyze and classify the comments of the articles they publish. Tell me an API that can do this.", "category": "generic"}
+{"question_id": 173, "text": "An AI startup that builds ML models for drones is exploring APIs that can help improve the drones' real-time visual perception performance. Which API can serve their purpose the best?", "category": "generic"}
+{"question_id": 174, "text": "A freelance translator wants to automate their translation process from English to French. Can you suggest an API that can perform neural machine translation from English to French?", "category": "generic"}
+{"question_id": 175, "text": "CrateChef is a food subscription service and wants to develop a plate classifier for their users. Suggest an API to classify images of food plates.", "category": "generic"}
+{"question_id": 176, "text": "In a smart city project, I need to find an API that can detect multiple objects such as cars or stop signs from an image provided by surveillance cameras.", "category": "generic"}
+{"question_id": 177, "text": "Develop a text-to-speech solution to help visually impaired users read material. Propose an API that can do this.", "category": "generic"}
+{"question_id": 178, "text": "A developer needs an API for image classification that can classify images without image augmentation and has a higher top-1 accuracy, suggest an API for the same.", "category": "generic"}
+{"question_id": 179, "text": "As a developer at an app company, I need an API to classify images from users' phone galleries. Please suggest a suitable API.", "category": "generic"}
+{"question_id": 180, "text": "I work in a tech company and we want to identify different objects from images. Give me an API that can perform image classification tasks.", "category": "generic"}
+{"question_id": 181, "text": "Recommend an API to classify large datasets of photographs into categories.", "category": "generic"}
+{"question_id": 182, "text": "I am experimenting with models to train them on images of newspaper covers to classify them according to their content. Do you know any API that would be highly accurate and will work on this task?", "category": "generic"}
+{"question_id": 183, "text": "Suggest an API that can classify images into a variety of categories, such as animals or objects, given an image as input.", "category": "generic"}
+{"question_id": 184, "text": "Nike is building an automated system to classify shoes in their inventory. Suggest an API to classify images for this purpose.", "category": "generic"}
+{"question_id": 185, "text": "A zookeeper wants to create an app that can classify the animal types in a picture. Suggest an image classification API that could be implemented.", "category": "generic"}
+{"question_id": 186, "text": "I need an API to categorize sports activities from a given video clip.", "category": "generic"}
+{"question_id": 187, "text": "My self-driving car company requires an API for perception tasks like detecting traffic objects, drivable area segmentation, and lane detection. Can you provide one?", "category": "generic"}
+{"question_id": 188, "text": "What would be an API to estimate the relative depth of objects in a provided image?", "category": "generic"}
+{"question_id": 189, "text": "Recommend me an API to generate the depth data of an image for building an augmented reality application.", "category": "generic"}
+{"question_id": 190, "text": "Suggest an API to estimate the depth from a single image for an obstacle detection system in a drone surveillance application.", "category": "generic"}
+{"question_id": 191, "text": "Recommend an API that can perform real-time object detection, drivable area segmentation, and lane detection for an autonomous vehicle.", "category": "generic"}
+{"question_id": 192, "text": "I work at Spotify and I'm looking for an API that can separate the vocals, drums, bass, and other instruments from a pop music track.", "category": "generic"}
+{"question_id": 193, "text": "Identify a suitable API for bird species recognition in images for a wildlife photographer.", "category": "generic"}
+{"question_id": 194, "text": "Provide an API that can segment objects present in a given image.", "category": "generic"}
+{"question_id": 195, "text": "Help me in segmenting objects in an image. Suggest an API that I can use for this purpose.", "category": "generic"}
+{"question_id": 196, "text": "A podcast producer needs a solution to detect speech in audio recordings. Recommend an API to recognize the timestamps where voice is present in an audio file.", "category": "generic"}
+{"question_id": 197, "text": "Suggest an API that can transcribe spoken words in a German audio file to written text.", "category": "generic"}
+{"question_id": 198, "text": "Help me find an API that can perform semantic segmentation on an image, classifying objects within it at the pixel level.", "category": "generic"}
+{"question_id": 199, "text": "I want to count the number of people in a crowd using an image. Provide me with an API that can do this.", "category": "generic"}
+{"question_id": 200, "text": "I want to create some new clothing designs using AI. Which API should I use to generate diverse clothing designs?", "category": "generic"}
+{"question_id": 201, "text": "I want to implement an image classification model for an app, can you suggest an API that I can use and give me the code snippet to load the model?", "category": "generic"}
+{"question_id": 202, "text": "Tell me an API that can accurately classify a wide range of images into different categories.", "category": "generic"}
+{"question_id": 203, "text": "A researcher needs to categorize real world objects in images using machine learning. Provide a suitable API for image classification.", "category": "generic"}
+{"question_id": 204, "text": "I am developing a visual content recognition system for an e-commerce website to categorize images. Recommend an API that can help me with image classification.", "category": "generic"}
+{"question_id": 205, "text": "Discover an API suitable for segmenting abnormal regions in brain MRI scans.", "category": "generic"}
+{"question_id": 206, "text": "I need an API that I can use to create a project for a Tech event about classifying several bird species for local naturalists.", "category": "generic"}
+{"question_id": 207, "text": "Can you provide a GAN architecture that can generate high-resolution images progressively?", "category": "generic"}
+{"question_id": 208, "text": "\"I'm building an app for tourists to identify famous landmarks based on their photos. Suggest an API.\"", "category": "generic"}
+{"question_id": 209, "text": "Tell me an API that can efficiently classify thousands of real-world objects from an image.", "category": "generic"}
+{"question_id": 210, "text": "I have the URL of an image and I want to classify it in real-time. Provide me an API that can classify the image and output 5 top predictions.", "category": "generic"}
+{"question_id": 211, "text": "Recommend an API capable of converting given text to natural-sounding speech.", "category": "generic"}
+{"question_id": 212, "text": "I want to train a sentiment analysis model to classify Yelp reviews. Suggest an API for a good base model that I can fine-tune.", "category": "generic"}
+{"question_id": 213, "text": "I am developing an image classification application. What API can I use to perform classification using a Dense Convolutional Network?", "category": "generic"}
+{"question_id": 214, "text": "Please recommend an API suitable for image classification that can identify objects contained in arbitrary photographs.", "category": "generic"}
+{"question_id": 215, "text": "A zoo automated their entrance control system, and they need a program that recognizes animal types to monitor statistics. Please provide me with an API to classify animals based on their images.", "category": "generic"}
+{"question_id": 216, "text": "Develop an image classifier that detects plant diseases from leaf images. Suggest an appropriate API for this task.", "category": "generic"}
+{"question_id": 217, "text": "I am a software developer working on an autonomous car project. I need an API to segment an image so I can identify different objects in the area.", "category": "generic"}
+{"question_id": 218, "text": "I have a project where I am asked to perform semantic segmentation on cityscape images. Recommend me an API that would be useful for this.", "category": "generic"}
+{"question_id": 219, "text": "I am a software engineer developing a mobile application capable of classifying images. Please provide me with an API for image classification in PyTorch that has low memory requirements and high efficiency.", "category": "generic"}
+{"question_id": 220, "text": "Recommend an API that can classify objects in images efficiently, suitable to run on smartphones.", "category": "generic"}
+{"question_id": 221, "text": "I work at Google Photos and my team needs an API that can efficiently classify photos into different categories. What do you suggest?", "category": "generic"}
+{"question_id": 222, "text": "Identify an API that can classify objects in images quickly and requires low memory.", "category": "generic"}
+{"question_id": 223, "text": "A teenager wants their child to play with his new toy cars, but they want the phone to recognize the cars using machine vision. Give me an API that is computationally cheap and could recognize toy cars.", "category": "generic"}
+{"question_id": 224, "text": "Invent a smart camera system for a library that is capable of finding the book section from an image. Recommend an API capable of doing this.", "category": "generic"}
+{"question_id": 225, "text": "Our team needs an image classification model for cross-domain tasks. Recommend a pre-trained model we can use in a project.", "category": "generic"}
+{"question_id": 226, "text": "A fashion E-commerce platform needs to predict clothing types from images. Suggest me a machine learning API that can be used to classify clothing items.", "category": "generic"}
+{"question_id": 227, "text": "I need a model that can classify various objects in images while being capable of distinguishing between a wide range of domains and appearances. Can you suggest an API for this?", "category": "generic"}
+{"question_id": 228, "text": "Suggest a suitable API for cross-domain classification tasks like person re-identification.", "category": "generic"}
+{"question_id": 229, "text": "A fashion company needs to categorize dresses from its newly released stock. Give me an API that can classify a dress type from its image.", "category": "generic"}
+{"question_id": 230, "text": "Can you give me an API capable of identifying animal species from a provided image?", "category": "generic"}
+{"question_id": 231, "text": "I have images of various objects and I need to classify them into different categories. Can you suggest an API that can help me with this?", "category": "generic"}
+{"question_id": 232, "text": "Create an instance of an API that takes an image of a bird and predicts what type of bird it is.", "category": "generic"}
+{"question_id": 233, "text": "I need to classify the content of an image using a high-performance, state-of-the-art image classification model. Please recommend an API for this purpose.", "category": "generic"}
+{"question_id": 234, "text": "Find me an efficient API for image classification that's optimized for better performance on CPUs.", "category": "generic"}
+{"question_id": 235, "text": "I need to classify objects using an efficient model optimized for GPU. Provide me an API for that purpose.", "category": "generic"}
+{"question_id": 236, "text": "We need to develop an object detection app for mobile devices. Suggest an API for a neural network based on ProxylessNAS that is optimized for mobile devices.", "category": "generic"}
+{"question_id": 237, "text": "I want to create an app that identifies dog breeds from user uploaded images. Suggest an API that could recognize different dog breeds from images.", "category": "generic"}
+{"question_id": 238, "text": "I have a dataset of images and want to classify them into different categories. Suggest an API that can do this task with high accuracy.", "category": "generic"}
+{"question_id": 239, "text": "I am working on a project that requires me to identify objects in an image. Find me an API that can do the task with pretrained models.", "category": "generic"}
+{"question_id": 240, "text": "An AI company needs a pre-trained model to classify plant species from images. Suggest an API to use for this purpose.", "category": "generic"}
+{"question_id": 241, "text": "Can you assist me in selecting an API that automatically sorts through images of different kinds of animals?", "category": "generic"}
+{"question_id": 242, "text": "A mobile application developer is exploring an API that can detect objects in a photo from a room. Suggest an API for detecting objects.", "category": "generic"}
+{"question_id": 243, "text": "Develop a program to categorize animals' species from a set of images with the help of an API.", "category": "generic"}
+{"question_id": 244, "text": "A museum wants to build an image classifier for paintings. Recommend me an appropriate API that can be fine-tuned for painting classification.", "category": "generic"}
+{"question_id": 245, "text": "A startup is in need of an efficient image classification API. Tell me about an API that can classify images effectively.", "category": "generic"}
+{"question_id": 246, "text": "Find me an API that can recognize dog breeds in a given image.", "category": "generic"}
+{"question_id": 247, "text": "What are the operational concepts for replacing an old neural network mechanism facilitating an MLP model with better accuracy?", "category": "generic"}
+{"question_id": 248, "text": "We are looking to classify the make and model of a car from visible images. Can you provide an API to accomplish this?", "category": "generic"}
+{"question_id": 249, "text": "Design an image classification system for a smart doorbell that aims to classify different types of animals like cats, dogs, and birds. Propose a machine learning API suitable for this purpose.", "category": "generic"}
+{"question_id": 250, "text": "A startup is building a robot to classify street objects. Tell me an API that can detect objects in a street view photograph and provide efficient inference.", "category": "generic"}
+{"question_id": 251, "text": "Can you suggest an API I can use to classify various types of plants from their images?", "category": "generic"}
+{"question_id": 252, "text": "Help me to identify what objects are in an image. Can you suggest an API that is capable of doing this?", "category": "generic"}
+{"question_id": 253, "text": "What is a pre-trained model I can use to recognize objects in a picture?", "category": "generic"}
+{"question_id": 254, "text": "I am building a software for an AI art gallery, and it needs to recognize artistic characteristics of different famous painting images. Identify a pre-trained model which can help me in this task.", "category": "generic"}
+{"question_id": 255, "text": "I have a bunch of pictures of plants, and I need an API that can identify the species for me.", "category": "generic"}
+{"question_id": 256, "text": "An app developer needs a machine learning API for recognizing images taken by users to suggest appropriate captions for those images, recommend an API for that.", "category": "generic"}
+{"question_id": 257, "text": "Recommend an API that will help me classify animals and birds in high quality images.", "category": "generic"}
+{"question_id": 258, "text": "I need an image recognition API. Can you please suggest a model?", "category": "generic"}
+{"question_id": 259, "text": "I am a content moderator for a video streaming platform, and I need a pretrained API to identify category of actions performed in a clip. What do you recommend?", "category": "generic"}
+{"question_id": 260, "text": "I built an AI personal trainer app that uses images from users' workouts to give live feedback. Recommend a model for classifying these workout images.", "category": "generic"}
+{"question_id": 261, "text": "Tell me an API that can be used to classify different actions happening in a video clip.", "category": "generic"}
+{"question_id": 262, "text": "Recommend an image classification API capable of working efficiently on NVIDIA GPUs.", "category": "generic"}
+{"question_id": 263, "text": "We need to compare the performance of an NLP model across different frameworks, can you provide an API to load a pretrained transformer model for sequence classification?", "category": "generic"}
+{"question_id": 264, "text": "I want to quickly and efficiently classify images, I need an API for Once-for-all Networks.", "category": "generic"}
+{"question_id": 265, "text": "A startup company is working on a new app where customers can upload photos and have them automatically categorized into objects. Suggest an API that can recognize objects in images.", "category": "generic"}
+{"question_id": 266, "text": "I am building a mobile app that classifies pictures of cats and dogs. Recommend an API for image classification.", "category": "generic"}
+{"question_id": 267, "text": "Which API can I use to build a powerful English to French translation system?", "category": "generic"}
+{"question_id": 268, "text": "Tell me a model to use if I want to identify different objects in images without having my own dataset.", "category": "generic"}
+{"question_id": 269, "text": "Let me know about an API that can convert English text into speech.", "category": "generic"}
+{"question_id": 270, "text": "I want to build an Instagram-like app that can tag dogs based on their breed. What API can help me with this?", "category": "generic"}
+{"question_id": 271, "text": "Propose a way to classify random images with an efficiency of around 80% without any tricks.", "category": "generic"}
+{"question_id": 272, "text": "I need an API to help me identify different breeds of dogs in images. Can you find me one?", "category": "generic"}
+{"question_id": 273, "text": "I am developing an app that can recognize different dog breeds from a photo. Can you recommend an API for this task?", "category": "generic"}
+{"question_id": 274, "text": "I have an image of an object, and I need an API to classify it. Ensure the API provides a high accuracy without tricks like architecture modification or mixup/cutmix training.", "category": "generic"}
+{"question_id": 275, "text": "I need an API that can identify the type of fruit in an image.", "category": "generic"}
+{"question_id": 276, "text": "We want to build an application that recognize objects in an image. What API can classify these images for us?", "category": "generic"}
+{"question_id": 277, "text": "Recommend an API to analyze workout videos and classify them into different exercise categories.", "category": "generic"}
+{"question_id": 278, "text": "Identify an API that can detect vehicles, drivable areas, and lanes from images of roads.", "category": "generic"}
+{"question_id": 279, "text": "Describe an API suitable for recognizing objects in an image with at least 80% accuracy on the ImageNet dataset.", "category": "generic"}
+{"question_id": 280, "text": "Find me an API that can compute depth information from a single image of a scene.", "category": "generic"}
+{"question_id": 281, "text": "A friend is building a robot that can detect distance of object from camera. Provide an ML API that computes relative depth using a single image input.", "category": "generic"}
+{"question_id": 282, "text": "Tell me about an API that can estimate depth for single images, suitable for real-time scenarios like autonomous vehicles.", "category": "generic"}
+{"question_id": 283, "text": "I am developing an application for autonomous driving and I need an API that can efficiently detect objects, drivable area segmentation, and lane detection in real-time.", "category": "generic"}
+{"question_id": 284, "text": "I need to separate the vocals from a piece of music for a DJ performance. Find me an API that can do this.", "category": "generic"}
+{"question_id": 285, "text": "I have a collection of bird photos and I need an API to identify the bird species in each photo. Can you help me?", "category": "generic"}
+{"question_id": 286, "text": "Can you suggest an API that can be used to convert a recorded speech to text? I have recordings from meetings I want to be transcribed.", "category": "generic"}
+{"question_id": 287, "text": "Recommend an API to analyze audio streams and detect when someone is speaking.", "category": "generic"}
+{"question_id": 288, "text": "Identify an API for recognizing objects and dividing them into different regions in given images.", "category": "generic"}
+{"question_id": 289, "text": "Help me find an API for segmenting objects in images using a pre-trained model for semantic segmentation.", "category": "generic"}
+{"question_id": 290, "text": "An airport is trying to implement a system to detect unattended luggage. Provide an API that can detect objects from a real-time video feed.", "category": "generic"}
+{"question_id": 291, "text": "An architect wishes to semantically segment different objects in an urban image. What API can they use for this purpose?", "category": "generic"}
+{"question_id": 292, "text": "ABC news needs a text-to-speech service for their articles. Offer them an API.", "category": "generic"}
+{"question_id": 293, "text": "Design a neural network that efficiently generates low-resolution images.", "category": "generic"}
+{"question_id": 294, "text": "Recommend an API suitable for classifying images of different dog breeds.", "category": "generic"}
+{"question_id": 295, "text": "A researcher is looking for an image classification API that has been trained on a large dataset like ImageNet. Provide the API details for the ResNext WSL model.", "category": "generic"}
+{"question_id": 296, "text": "Find me an pretrained model for image classification that has scored 85% or more Top-1 accuracy on ImageNet.", "category": "generic"}
+{"question_id": 297, "text": "I want an API to classify birds into different species using images. Can you provide me a code snippet to load a pre-trained model that can perform this task?", "category": "generic"}
+{"question_id": 298, "text": "I need an API that can classify images into 1000 different classes with high accuracy. How can create this?", "category": "generic"}
+{"question_id": 299, "text": "A designer wants to create an AI model that would generate thousands unique celebrity faces for his digital galleries. Present an API that can accomplish this.", "category": "generic"}
+{"question_id": 300, "text": "Sandra, a radiologist, needs to find abnormal regions in a brain MRI image quickly. Recommend an API that can automatically identify abnormal regions in a 3-channel brain MRI slice.", "category": "generic"}
+{"question_id": 301, "text": "Suggest me an API for classifying dog breeds from an image of a dog and output the top three likely breeds.", "category": "generic"}
+{"question_id": 302, "text": "Recommend an API to classify objects in an image taken from the camera feed of a drone.", "category": "generic"}
+{"question_id": 303, "text": "I need to classify objects in images with high accuracy. Can you recommend an API to use for this purpose?", "category": "generic"}
+{"question_id": 304, "text": "Snapchat is working on a new feature to enable their users to tag their pictures with predefined categories. Suggest a machine learning model that can classify an image into different categories.", "category": "generic"}
+{"question_id": 305, "text": "My application requires turning text into natural-sounding speech. What API can I use to achieve this?", "category": "generic"}
+{"question_id": 306, "text": "I need to classify a picture of a cat among 1000 classes in ImageNet. Give me an API that can classify my cat picture.", "category": "generic"}
+{"question_id": 307, "text": "I am running a sentiment analysis on public opinion about a new social media app, could you recommend an API to classify the sentiments given a piece of text?", "category": "generic"}
+{"question_id": 308, "text": "A company needs to create an application that can classify objects on the factory floor. Can you recommend an API that can do object classification?", "category": "generic"}
+{"question_id": 309, "text": "Give me an API that can output the category of a car accident given a car accident dashcam footage.", "category": "generic"}
+{"question_id": 310, "text": "Explain an API for street scene semantic segmentation using an RGB image and find the names of objects from the segmentation model.", "category": "generic"}
+{"question_id": 311, "text": "We would like to do semantic segmentation on a given image. Provide an API that can perform this functionality using the Fully Convolutional Network with ResNet101 backbone.", "category": "generic"}
+{"question_id": 312, "text": "A photographer needs a tool for tagging various types of images. Recommend an API that would be suitable for classifying images into different categories.", "category": "generic"}
+{"question_id": 313, "text": "I work at a Tesla factory, and I need to find an AI that can classify whether the assembly of the Model 3 is of good quality or not. What should I use?", "category": "generic"}
+{"question_id": 314, "text": "I am developing a mobile app that identifies objects within images. Suggest an API that is efficient in terms of memory and computation for image classification.", "category": "generic"}
+{"question_id": 315, "text": "I am building a recommendation system for clothing and need an image classification API for detecting types of clothing. Can you suggest one?", "category": "generic"}
+{"question_id": 316, "text": "I want to build an application for image categorization using minimum resources such as memory and computational speed. Suggest me an API that serves my purpose.", "category": "generic"}
+{"question_id": 317, "text": "A content curator wants to automatically classify images to better organize their media library. Recommend an API that can help classify images into different categories.", "category": "generic"}
+{"question_id": 318, "text": "I am working on a project that requires classifying thousands of images into different categories. Suggest an API that can identify objects within the images for my task.", "category": "generic"}
+{"question_id": 319, "text": "I am conducting research on cross-domain image classification. Can you suggest an API that offers a pretrained model that considers domain/appearance invariance?", "category": "generic"}
+{"question_id": 320, "text": "I work for a camera security company, and I need a deep learning model to interpret and recognize person/vehicle in live streaming CCTV. Which API should I use?", "category": "generic"}
+{"question_id": 321, "text": "I need to classify photos of different human faces taken from different places. Can you provide me an API that can help with that?", "category": "generic"}
+{"question_id": 322, "text": "The AI team at Snapchat is looking for a model to classify objects using images. Recommend a suitable API for this task.", "category": "generic"}
+{"question_id": 323, "text": "Prepare an API to classify objects in an image using a model with split-attention networks.", "category": "generic"}
+{"question_id": 324, "text": "I need an image classifier based on a new ResNet variant to classify images according to the trained categories. Which API should I use?", "category": "generic"}
+{"question_id": 325, "text": "An e-commerce website is trying to determine appropriate categories for images of products. They need an API that can return a category/class of an image.", "category": "generic"}
+{"question_id": 326, "text": "A real-estate company is classifying homes using images taken by a drone. Suggest an API for classifying images of homes.", "category": "generic"}
+{"question_id": 327, "text": "Identify a deep learning model that can efficiently be used for image classification on a mobile device.", "category": "generic"}
+{"question_id": 328, "text": "A wildlife photographer wants to classify animal species in his photos. Please recommend a machine learning API for this task.", "category": "generic"}
+{"question_id": 329, "text": "I need to classify the objects in the image using an API that is optimized for the GPU. Can you suggest one?", "category": "generic"}
+{"question_id": 330, "text": "I want to create an app that can classify images taken by phone cameras. Recommend me an API that is optimized for mobile devices.", "category": "generic"}
+{"question_id": 331, "text": "A security firm is looking for an image classifier for categorization of security camera footage. Suggest an appropriate API for them.", "category": "generic"}
+{"question_id": 332, "text": "I want to classify images of dogs into different breeds using a pre-trained deep learning model. Which API can I use?", "category": "generic"}
+{"question_id": 333, "text": "Tell me how to create a code for identifying whether an image contains a dog or a cat.", "category": "generic"}
+{"question_id": 334, "text": "I need to categorize images into 1000 classes. Can you recommend an API for image classification?", "category": "generic"}
+{"question_id": 335, "text": "I am developing an app to label dog breeds found in images. Can you suggest an API that can be used to classify dog breeds?", "category": "generic"}
+{"question_id": 336, "text": "A mobile application developer wants to build a plant species identifier. Recommend an API that can easily classify plant species from images.", "category": "generic"}
+{"question_id": 337, "text": "Discuss an API that can classify images using lateral inhibition-inspired mechanisms and efficient backbones.", "category": "generic"}
+{"question_id": 338, "text": "Pinai is looking for a model that can classify images using increased accuracy without additional computational cost. Provide an API to classify images that incorporates LIF neurons for better accuracy.", "category": "generic"}
+{"question_id": 339, "text": "I want an API that can effectively distinguish between breeds of dogs using deep learning.", "category": "generic"}
+{"question_id": 340, "text": "A YouTube vlogger is building a content suggestion tool for their viewers. Recommend me an API that can classify objects in their video clips to figure out what types of videos will be popular.", "category": "generic"}
+{"question_id": 341, "text": "Can you suggest an API that can classify images with the least number of parameters possible without losing much accuracy?", "category": "generic"}
+{"question_id": 342, "text": "I am building an image recognition software for my school project, Can you give me an API that will help me in recognizing the images I upload?", "category": "generic"}
+{"question_id": 343, "text": "I am working on an app that can identify plants from images. Can you provide a good API for this task?", "category": "generic"}
+{"question_id": 344, "text": "I want to recognize objects in images. Recommend an API for image recognition.", "category": "generic"}
+{"question_id": 345, "text": "Recommend me an API that can be used for classification of images using the VGG architecture.", "category": "generic"}
+{"question_id": 346, "text": "What is a suitable API that utilizes deep learning to detect and recognize hundreds of object categories in images?", "category": "generic"}
+{"question_id": 347, "text": "I have a bunch of images and I need a pre-trained deep learning model for image classification. Suggest an API for me to use.", "category": "generic"}
+{"question_id": 348, "text": "I have an image of an object and I want to classify the object in the image. Can you suggest an API that can help me with this task?", "category": "generic"}
+{"question_id": 349, "text": "I want an API to recognize different animals in a series of photos. Can you give me an example?", "category": "generic"}
+{"question_id": 350, "text": "I want to create an API that recognizes objects in an image. Recommend a pre-trained model that will be suitable.", "category": "generic"}
+{"question_id": 351, "text": "You are building a Chatbot for a car company that helps identify the model just by looking a picture. Provide an API that can help you recognize car models from a given image.", "category": "generic"}
+{"question_id": 352, "text": "I need to create an image classifier implementing Wide Residual Networks. Will you provide me an API call to accomplish this task using pre-trained weights?", "category": "generic"}
+{"question_id": 353, "text": "A start-up company plans to develop media dashboard to monitor and categorize the latest YouTube trends. Which API should they use for video classification?", "category": "generic"}
+{"question_id": 354, "text": "Determine an API that can identify plant species from images.", "category": "generic"}
+{"question_id": 355, "text": "Find me an API to use for video analysis in a project where we need to analyze football games.", "category": "generic"}
+{"question_id": 356, "text": "Share with me a model to classify furniture pictures posted on an online store.", "category": "generic"}
+{"question_id": 357, "text": "Imagine a new photo album app that sorts photos by its theme. Find me an API that can classify images according to their theme.", "category": "generic"}
+{"question_id": 358, "text": "Identify an API that can analyze customer reviews and classify them as positive or negative.", "category": "generic"}
+{"question_id": 359, "text": "Design an API and example code that can classify optical, cable, and copper wires by images with accuracy.", "category": "generic"}
+{"question_id": 360, "text": "Find me an API for neural machine translation that can translate English text to French.", "category": "generic"}
+{"question_id": 361, "text": "Design an API to identify objects in an image quickly and efficiently.", "category": "generic"}
+{"question_id": 362, "text": "What API should I use to detect vehicles from the surveillance camera images?", "category": "generic"}
+{"question_id": 363, "text": "Come up with an API for our IVR system that generates natural-sounding spoken responses from provided text.", "category": "generic"}
+{"question_id": 364, "text": "I want to extract features from a given image using a pre-trained deep learning model. Can you provide me an API for this?", "category": "generic"}
+{"question_id": 365, "text": "An artist wants to claim their work in Reddit. Give an API that can identify their art from an uploaded picture.", "category": "generic"}
+{"question_id": 366, "text": "I want an API for classifying images into 1000 classes. What do you suggest?", "category": "generic"}
+{"question_id": 367, "text": "An app developer wants to classify images of pets to make a pet-themed camera app. Suggest an API that can classify images of different pets.", "category": "generic"}
+{"question_id": 368, "text": "Please provide an API that can classify images of healthy foods to identify if it's vegan or not based on its ingredients.", "category": "generic"}
+{"question_id": 369, "text": "What is an API that can classify images into categories without using common tricks such as mixup, cutmix, or autoaugmentation?", "category": "generic"}
+{"question_id": 370, "text": "Apple TV is categorizing their movie trailers. Recommend an API that can categorize video clips by analyzing their content.", "category": "generic"}
+{"question_id": 371, "text": "Help me to classify images in a Python project. What API should I use to achieve more than 80% top-1 accuracy on ImageNet without using any tricks?", "category": "generic"}
+{"question_id": 372, "text": "Suggest me an AI model to classify animals given an image of a dog.", "category": "generic"}
+{"question_id": 373, "text": "I want an object detection API capable of handling object detection, drivable area segmentation, and lane detection for autonomous driving tasks.", "category": "generic"}
+{"question_id": 374, "text": "Design an autonomous vehicle algorithm that can detect other vehicles, pedestrians, and the drivable area on the road. Suggest an appropriate API for this purpose.", "category": "generic"}
+{"question_id": 375, "text": "Calculate the relative inverse depth from a single input image. Is there an API that can do this?", "category": "generic"}
+{"question_id": 376, "text": "How can I estimate depth from a single image? Can you suggest an API for it?", "category": "generic"}
+{"question_id": 377, "text": "I have a single image and I want to compute the relative depth from it. Recommend an API that can help me achieve this.", "category": "generic"}
+{"question_id": 378, "text": "A DJ wants to separate a song into four stems: vocals, drums, bass, and other instruments. What API can be used to achieve this?", "category": "generic"}
+{"question_id": 379, "text": "Recommend an API that can convert a given text into speech with minimal dependencies.", "category": "generic"}
+{"question_id": 380, "text": "My application requires voice activity detection for processing phone calls. Give me an API that detects speech segments in an audio file.", "category": "generic"}
+{"question_id": 381, "text": "A drone startup requires an API to analyze aerial images to recognize roads, buildings, and trees.", "category": "generic"}
+{"question_id": 382, "text": "How can I transcribe a recorded sales pitch from English speech to text using an API?", "category": "generic"}
+{"question_id": 383, "text": "I am working on a project that involves identifying bird species in pictures. Find me an API that can classify the bird species in an image.", "category": "generic"}
+{"question_id": 384, "text": "A drone is flying over the neighborhood and is recording video. How can I process the video and perform semantic segmentation on each frame?", "category": "generic"}
+{"question_id": 385, "text": "I need to detect objects in a given image from a security camera. Can you provide me an API that can perform this task?", "category": "generic"}
+{"question_id": 386, "text": "Let's assume google earth has giant maps with satellite images. Help me to find an API that can apply segmentation to analyze the images better.", "category": "generic"}
+{"question_id": 387, "text": "Recommend an API that can generate images of fashionable clothes and accessories automatically.", "category": "generic"}
+{"question_id": 388, "text": "Buzzfeed would like to classify images of their new articles into categories. Suggest an appropriate API to accomplish this task.", "category": "generic"}
+{"question_id": 389, "text": "Help me label the objects in images so they can be used for an e-commerce platform. What AI algorithm can do that?", "category": "generic"}
+{"question_id": 390, "text": "Help a startup to develop a recommendation system to identify plants in their garden that visitors can take pictures of, suggest an API that can be used for plant identification from a picture.", "category": "generic"}
+{"question_id": 391, "text": "I am a developer at an online store, trying to classify the objects in the images provided for each product. Suggest an AI API which can be utilized for this purpose.", "category": "generic"}
+{"question_id": 392, "text": "Recommend me an API to classify images into different categories quickly.", "category": "generic"}
+{"question_id": 393, "text": "Develop a solution to generate realistic high-quality faces. You can use a pre-trained GAN model as a starting point.", "category": "generic"}
+{"question_id": 394, "text": "I have brain MRI scans and I want to segment the abnormal regions. Recommend an API that can perform this task.", "category": "generic"}
+{"question_id": 395, "text": "Detect if a given pair of sentences about artificial intelligence has any contradiction., 'Input': 'Roberta is a heavily optimized version of BERT. Roberta is not very optimized.'", "category": "generic"}
+{"question_id": 396, "text": "Recommend an API to classify car models from images", "category": "generic"}
+{"question_id": 397, "text": "An automotive company is developing their own autonomous vehicle and they need a pretrained model to classify road signs. Propose an API that can be used for this task.", "category": "generic"}
+{"question_id": 398, "text": "We are looking for an image classification model for our large datasets. Suggest an API that can classify images efficiently and accurately.", "category": "generic"}
+{"question_id": 399, "text": "My app needs a realistic human speech from text, point me to an API that helps achieve this.", "category": "generic"}
+{"question_id": 400, "text": "I am creating a mobile app that identifies objects in images. Recommend an API for image classification.", "category": "generic"}
+{"question_id": 401, "text": "I need an API for categorizing images of flowers into their respective classes. Propose an API that can help me.", "category": "generic"}
+{"question_id": 402, "text": "I want to classify images of different animals, give me an API that can help right now.", "category": "generic"}
+{"question_id": 403, "text": "Suggest a deep learning API capable of categorizing images through an efficient neural network architecture.", "category": "generic"}
+{"question_id": 404, "text": "Suggest a suitable API to segment an image into semantically meaningful regions, such as people, cars, and buildings.", "category": "generic"}
+{"question_id": 405, "text": "For a city development project, I need to segment roads, buildings, and trees from satellite images. Propose an API that can help me with this task.", "category": "generic"}
+{"question_id": 406, "text": "AppRocket wants a recommendation for a lightweight API to classify images for their mobile app. What is lightweight API that can use for this purpose?", "category": "generic"}
+{"question_id": 407, "text": "I am building an application that can recognize objects in images. Provide me with an API that can classify objects in an image.", "category": "generic"}
+{"question_id": 408, "text": "Find an API that can help a mobile gallery app categorize images based on their content while having a low memory footprint.", "category": "generic"}
+{"question_id": 409, "text": "Obtain an API that can classify images using a lightweight neural network architecture.", "category": "generic"}
+{"question_id": 410, "text": "What API could be used to identify plants in a garden from taken image?", "category": "generic"}
+{"question_id": 411, "text": "I am planning to build a fashion blog which sorts numerous fashion trends. Find a proper API that can classify fashion styles from an image.", "category": "generic"}
+{"question_id": 412, "text": "I am working on a cross-domain image classification project, and I need a pre-trained model that has strong domain invariance. Can you recommend an API for this?", "category": "generic"}
+{"question_id": 413, "text": "We are a project lead for a computer vision company and we are building a custom person re-identification system. Share with me an API that can be beneficial for cross-domain identification task.", "category": "generic"}
+{"question_id": 414, "text": "I am looking for an API that can classify animals in images. Could you recommend a suitable API?", "category": "generic"}
+{"question_id": 415, "text": "I need to accurately identify cross domain objects. Give me an API that can handle object recognition tasks with improved performance on cross domain tasks.", "category": "generic"}
+{"question_id": 416, "text": "I am maintaining a gallery and I am looking for a library that can classify images to different categories. Can you suggest an API?", "category": "generic"}
+{"question_id": 417, "text": "Find an API that can efficiently classify dog breeds from the given photographs.", "category": "generic"}
+{"question_id": 418, "text": "I need an API that can perform advanced image classification tasks, and outperform other networks with similar complexities.", "category": "generic"}
+{"question_id": 419, "text": "I want to classify images for my large-scale imaging project. Recommend an API to use for high accuracy image classification.", "category": "generic"}
+{"question_id": 420, "text": "I need an API that helps me in designing an efficient neural network architecture for my mobile device.", "category": "generic"}
+{"question_id": 421, "text": "Recommend an API that can optimize neural network architecture for efficient object classification on mobile devices.", "category": "generic"}
+{"question_id": 422, "text": "Provide me with an API capable of classifying images from a news website into Sports, Entertainment, World News, and Technology categories.", "category": "generic"}
+{"question_id": 423, "text": "We need a neural network for image classification and It should be specifically designed for different hardware platforms. Tell me an API that can help with this requirement.", "category": "generic"}
+{"question_id": 424, "text": "I need to identify plant species from leaf images using a pretrained model. Recommend an appropriate API for this.", "category": "generic"}
+{"question_id": 425, "text": "Identify an API that can automatically detect objects in an image and return the object labels", "category": "generic"}
+{"question_id": 426, "text": "A programmer needs to classify images into 1000 categories like cats, dogs, planes, etc. Offer them an API that can perform this task.", "category": "generic"}
+{"question_id": 427, "text": "A startup needs to classify images using state of the art research. Suggest an image classification API to do this.", "category": "generic"}
+{"question_id": 428, "text": "A scientist wants to identify bird species by uploading photos. Propose an API that can classify bird species from an input image. ", "category": "generic"}
+{"question_id": 429, "text": "Suggest an API to develop a tool to classify plants based on their images.", "category": "generic"}
+{"question_id": 430, "text": "You want an API to classify an image in order to organize your photos. Recommend an API that can be used for this purpose.", "category": "generic"}
+{"question_id": 431, "text": "Introduce an image classifier API that can predict the class of a given image for an app that tags photos according to their content.", "category": "generic"}
+{"question_id": 432, "text": "Find me an AI framework that can classify various animals' images when given a picture file with a high accuracy.", "category": "generic"}
+{"question_id": 433, "text": "An app developer is searching for an AI solution to classify pets in photos. Recommend an API that can fulfill this need.", "category": "generic"}
+{"question_id": 434, "text": "Make a recommendation for a pretrained API for an image classification task.", "category": "generic"}
+{"question_id": 435, "text": "I need a fast and lightweight image classification model for a mobile app that can recognize objects in images. What API do you suggest?", "category": "generic"}
+{"question_id": 436, "text": "Create a model that can categorize images into categories given its pretrained models.", "category": "generic"}
+{"question_id": 437, "text": "CCTV cameras need to classify opened doors from closed ones. Suggest an image recognition API for this purpose.", "category": "generic"}
+{"question_id": 438, "text": "What is an API that can be used to classify images of different categories using a computationally efficient model?", "category": "generic"}
+{"question_id": 439, "text": "A student from MIT is working on a project that uses image recognition to identify the type of animal in an image. Give me an API that they can use to achieve this.", "category": "generic"}
+{"question_id": 440, "text": "I want to get an API to recognize different types of animals in photographs, like lions, tigers, and bears.", "category": "generic"}
+{"question_id": 441, "text": "Identify an API that allows for image recognition with a high accuracy rate.", "category": "generic"}
+{"question_id": 442, "text": "Recommend an API that can be employed to identify the breed of a dog from a given image", "category": "generic"}
+{"question_id": 443, "text": "Recommend an image recognition API that can identify the objects within a picture.", "category": "generic"}
+{"question_id": 444, "text": "I have a photo and I want to know the object type in it. Can you provide an API that can recognize the object?", "category": "generic"}
+{"question_id": 445, "text": "Help me choose an adequate API to classify satellite images into land use categories.", "category": "generic"}
+{"question_id": 446, "text": "A start-up is building a dog breed detector and they need an API that can classify images into categories. Suggest an ideal API that can help them achieve this.", "category": "generic"}
+{"question_id": 447, "text": "How can I classify the actions in a video, like playing guitar or doing push-ups, using an AI API?", "category": "generic"}
+{"question_id": 448, "text": "I am developing a video indexing application and I want to classify actions in video clips. What API should I use?", "category": "generic"}
+{"question_id": 449, "text": "A racing company wants to optimize their code by using once-for-all networks. Suggest an API that can classify road traffic images with once-for-all networks.", "category": "generic"}
+{"question_id": 450, "text": "Recommend an API for a pet food company that wants to make an app to identify cat breeds in pictures.", "category": "generic"}
+{"question_id": 451, "text": "A journalist needs to analyze a set of sentences to understand the context. Provide an API that can help with natural language processing.", "category": "generic"}
+{"question_id": 452, "text": "A travel buddy application is helping the tourists communicate at many non-english countries. Provide me an API which can help tourists translate simple questions like \"where is the restroom?\" when given the destination language code.", "category": "generic"}
+{"question_id": 453, "text": "I am a product manager and I am building a recommendation system for my customers based on the pictures of the clothes they have purchased from our online store. Suggest an API that can classify the clothing type based on a given image.", "category": "generic"}
+{"question_id": 454, "text": "As a traffic analyst, I need an API that can detect vehicles from traffic camera images.", "category": "generic"}
+{"question_id": 455, "text": "Can you tell me an API that can be used for image classification of flowers with high accuracy and efficiency?", "category": "generic"}
+{"question_id": 456, "text": "A smartphone company needs a machine learning API for their photo app, allowing users to know the content of their photos. Which PyTorch API should they use?", "category": "generic"}
+{"question_id": 457, "text": "I need a PyTorch API for image classification that has been pretrained on ImageNet and achieves at least 80% top-1 accuracy.", "category": "generic"}
+{"question_id": 458, "text": "We want to use AI to convert our text content to natural-sounding speech. Suggest an API that can perform this task.", "category": "generic"}
+{"question_id": 459, "text": "I need to classify an image using a state-of-the-art image classification model without any data augmentation techniques or additional tricks. What API should I use?", "category": "generic"}
+{"question_id": 460, "text": "I am an engineer in the environmental sector and I am attempting to develop an AI model that can accurately classify images of animals taken with a trail camera. Find an API that will support this capability.", "category": "generic"}
+{"question_id": 461, "text": "I have an image classification task with limited computational resources. I need a lightweight image classification API recommendation for this task.", "category": "generic"}
+{"question_id": 462, "text": "Find an API that allows me to classify images with high accuracy without tricks such as autoaugmentation or mixup methods.", "category": "generic"}
+{"question_id": 463, "text": "A developer is working on a image recognition AI to classify animals in a zoo. Can you provide an API that can help with this task?", "category": "generic"}
+{"question_id": 464, "text": "Recommend an API that can analyze a video and classify different activities featured in the video.", "category": "generic"}
+{"question_id": 465, "text": "I want an API that can identify animals in a image from an ongoing research about endangered animals.", "category": "generic"}
+{"question_id": 466, "text": "What API would help me estimate the depth of objects within a single image?", "category": "generic"}
+{"question_id": 467, "text": "I want to build a self-driving car application that can detect objects, segment drivable areas, and detect lanes. Point me to an API that can do this.", "category": "generic"}
+{"question_id": 468, "text": "What API can determine the relative depth of objects within the frame given a single 2D image of a room?", "category": "generic"}
+{"question_id": 469, "text": "I captured a photograph of a room and want to know the relative depth of the objects in it. Can you suggest an API which can help me with this?", "category": "generic"}
+{"question_id": 470, "text": "I have a pop music soundtrack and I want to extract drums, vocals, and bass from it. Give me an API that can perform this music separation.", "category": "generic"}
+{"question_id": 471, "text": "I want to classify a bird species from an image given. Please give me the API to help me do this.", "category": "generic"}
+{"question_id": 472, "text": "What is a good API for transcribing spoken language within a podcast into readable text in multiple languages?", "category": "generic"}
+{"question_id": 473, "text": "What API should we use to perform semantic segmentation on aerial images for identifying buildings, roads, and vegetation?", "category": "generic"}
+{"question_id": 474, "text": "I need an API that can detect voice activity from an audio file. Propose an API for this task.", "category": "generic"}
+{"question_id": 475, "text": "Create an audio version of an English text using an API.", "category": "generic"}
+{"question_id": 476, "text": "Locate an API that could assist me in developing a street view application that highlights trees and buildings within the given images.", "category": "generic"}
+{"question_id": 477, "text": "I want to segment an image of Orchard Parks Shopping Center. Suggest an API for semantic segmentation that can segment items in a shopping center.", "category": "generic"}
+{"question_id": 478, "text": "Get me an API to generate new clothing designs based on a database of existing clothes.", "category": "generic"}
+{"question_id": 479, "text": "A security company wants to create a project that involves object detection from the live video feed captured by their CCTV cameras. Propose an API that provides object detection in real time.", "category": "generic"}
+{"question_id": 480, "text": "I want to build an app for social media that filters profiles that have sunglasses in the picture. Give me an API that can detect presence of sunglasses within a picture.", "category": "generic"}
+{"question_id": 481, "text": "Suggest an API for automatically classifying images of road safety hazards such as potholes, damaged sidewalks, and obscured traffic signals for a road safety app.", "category": "generic"}
+{"question_id": 482, "text": "Can you suggest an ML API capable of predicting whether a given image is a cat, dog or other animal with high accuracy?", "category": "generic"}
+{"question_id": 483, "text": "A startup that sells clothing needs to build a computer vision model to classify their clothes to automate their warehouse. Could you recommend an API, that is useful in this scenario?", "category": "generic"}
+{"question_id": 484, "text": "Recommend an API suitable for an image recognition task to classify different species of animals.", "category": "generic"}
+{"question_id": 485, "text": "A machine learning model is needed that can identify abnormalities in brain MRI scans. Recommend an API that could be used to train a model for this purpose.", "category": "generic"}
+{"question_id": 486, "text": "I want to create an album of generated paintings of famous landscapes. Provide me with an API that can generate such images.", "category": "generic"}
+{"question_id": 487, "text": "Suggest an API for classifying a large dataset of images into different categories.", "category": "generic"}
+{"question_id": 488, "text": "Find me an API that can classify the images given corresponding image URLs. It should be fast and efficient.", "category": "generic"}
+{"question_id": 489, "text": "I need to identify objects from a photo taken during a traffic scene, please provide me with an API call that can help in achieving this.", "category": "generic"}
+{"question_id": 490, "text": "I'm working on an application that converts text into speech. Tell me an API that can serve my purpose.", "category": "generic"}
+{"question_id": 491, "text": "Which pre-trained model should I use for sentiment analysis of customer reviews on our website?", "category": "generic"}
+{"question_id": 492, "text": "I need to classify various images into pre-defined categories. Suggest me an API that can be utilized for image classification.", "category": "generic"}
+{"question_id": 493, "text": "I am studying about vegetative cover in my college. Give me an API that can output segmented vegetation areas from a satellite image of a region.", "category": "generic"}
+{"question_id": 494, "text": "I want to implement image classification based on DenseNet. Suggest an API that can classify images using DenseNet.", "category": "generic"}
+{"question_id": 495, "text": "An e-commerce company is building a recommendation system that relies on object classification. Please suggest an API for this.", "category": "generic"}
+{"question_id": 496, "text": "A machine learning engineer building an image recognition system that filters cats and dogs. Give me an API that can classify whether an image is a cat or dog.", "category": "generic"}
+{"question_id": 497, "text": "Create a lightweight image classifier that performs well on a Raspberry Pi.", "category": "generic"}
+{"question_id": 498, "text": "I need an API to perform semantic segmentation on my images. Preferably a fully-convolutional network. What can you suggest?", "category": "generic"}
+{"question_id": 499, "text": "Recommend an API that is suitable for detecting the type of currency in an image.", "category": "generic"}
+{"question_id": 500, "text": "Recommend a lightweight, efficient image classification model that can classify retail products by category.", "category": "generic"}
+{"question_id": 501, "text": "I want a classifier that can recognize clothing items in images, taking into account the images may have different styles.", "category": "generic"}
+{"question_id": 502, "text": "Recommend an API that can classify different types of plants from their images.", "category": "generic"}
+{"question_id": 503, "text": "We are building a phone app for Intel Corporation which can detect various objects in an image. Can you help me with an API which can classify objects into different categories for given image?", "category": "generic"}
+{"question_id": 504, "text": "Give me an API to create a model that can classify e-commerce products into categories like electronics, home, and fashion.", "category": "generic"}
+{"question_id": 505, "text": "An e-commerce company is looking for an API to identify products in images for better recommendations on their app. Can you recommend an API that can perform this task?", "category": "generic"}
+{"question_id": 506, "text": "Recommend an API best suited for an app that needs to recognize unknown persons in images", "category": "generic"}
+{"question_id": 507, "text": "Design an image classifier for a phone manufacturer to identify inappropriate images from user gallery and flag them.", "category": "generic"}
+{"question_id": 508, "text": "Recommend an image classification API that performs state-of-the-art performance for a mobile app.", "category": "generic"}
+{"question_id": 509, "text": "Provide an API for classifying images of fruits in a retail store.", "category": "generic"}
+{"question_id": 510, "text": "Let's say I've created an app for birdwatchers to recognize birds in the images they take. Recommend me a high-performance image recognition API that would be ideal to use for my app.", "category": "generic"}
+{"question_id": 511, "text": "I am a Machine Learning Engineer at Pinterest and I need an API to classify images. Suggest an efficient API.", "category": "generic"}
+{"question_id": 512, "text": "I have a limited computational budget for image classification tasks. Suggest an API optimized for CPU performance.", "category": "generic"}
+{"question_id": 513, "text": "Can you recommend an API for a mobile app developer who wants lightweight and fast image classification on their app?", "category": "generic"}
+{"question_id": 514, "text": "Develop an image classifier that can identify objects in an image. Provide an API example to load a pretrained classifier model.", "category": "generic"}
+{"question_id": 515, "text": "I want to analyze the objects within my images taken from my phone to use it in my machine learning dataset, suggest me an API that is best suited for this purpose.", "category": "generic"}
+{"question_id": 516, "text": "How can a botanist distinguish between different plant species using an API based on deep residual networks?", "category": "generic"}
+{"question_id": 517, "text": "A new dating app wants to analyze its user's images to determine if the user is an authentic account or an impersonator. Give me an example of API that can help differentiate between real profile images and fake one.", "category": "generic"}
+{"question_id": 518, "text": "Many image web services need an efficient image recognition model. Can you provide an API that uses deep residual networks for image classification?", "category": "generic"}
+{"question_id": 519, "text": "I'm designing an automatic image moderation system for my social platform. Recommend an API for classifying images into different categories.", "category": "generic"}
+{"question_id": 520, "text": "I require an API that facilitates image classification of various breeds of dogs. Can you recommend an appropriate one?", "category": "generic"}
+{"question_id": 521, "text": "I have a set of pictures of birds and I want to put them in categories based on their species. What API can I use to classify these images based on their content?", "category": "generic"}
+{"question_id": 522, "text": "Develop an API to categorize animals from a given image into classes such as mammals, birds, reptiles, and amphibians.", "category": "generic"}
+{"question_id": 523, "text": "Can you tell me about an API that can give me powerful image classification capabilities for a mobile app?", "category": "generic"}
+{"question_id": 524, "text": "Let's use a neural network to classify a given image. Recommend an API for this purpose.", "category": "generic"}
+{"question_id": 525, "text": "I work at a camera manufacturing company, and we want an API that will help our camera to identify and classify images. Ideally, the API should be based on deep learning techniques.", "category": "generic"}
+{"question_id": 526, "text": "In the process of automating image classification for a product recognition tool, provide me with an API that can effectively sort categorized images.", "category": "generic"}
+{"question_id": 527, "text": "\"An image from my friend's vacation album needs to be categorized without any further information. Give me an API that can classify the content of the image.\"", "category": "generic"}
+{"question_id": 528, "text": "A smartphone company wants to implement image classification for their mobile camera app. Provide an API that can identify objects in a given image.", "category": "generic"}
+{"question_id": 529, "text": "What API can help us recognize objects in photographs? Share the code snippet as well.", "category": "generic"}
+{"question_id": 530, "text": "Develop an API for classifying images of cars into brands based on a pretrained model.", "category": "generic"}
+{"question_id": 531, "text": "Recommend an API that can help a wildlife photographer to identify animals from their photos.", "category": "generic"}
+{"question_id": 532, "text": "I am a programmer who is interested in building a photo application that recognizes plants using camera feed. Recommend me an API and some sample code to achieve this.", "category": "generic"}
+{"question_id": 533, "text": "Use an API that can recognize objects in an image for labelling and annotation purposes.", "category": "generic"}
+{"question_id": 534, "text": "Recommend an API that can be used to build an image recognition app for automating car insurance claim process.", "category": "generic"}
+{"question_id": 535, "text": "I want to recognize objects present in a given image. Is there an API that can help me in this task?", "category": "generic"}
+{"question_id": 536, "text": "Recommend an API that can recognize objects in photos, specifically the VGG19 model, and provide code to load the pretrained version of the model.", "category": "generic"}
+{"question_id": 537, "text": "Propose a model that can be used to identify different bird species from images.", "category": "generic"}
+{"question_id": 538, "text": "An android developer is building an application with image recognition features for museum visits. Find an API so that they can classify images taken during those visits.", "category": "generic"}
+{"question_id": 539, "text": "Can you suggest an API to help identify different physical activities from short video clips?", "category": "generic"}
+{"question_id": 540, "text": "Find an API that works with street camera videos and classifies the type of actions happening in the video.", "category": "generic"}
+{"question_id": 541, "text": "I am a developer at OpenAI and I am building a small-scale chatbot that can conduct conversation in English text input. Can you find me an API that is suitable for the job?", "category": "generic"}
+{"question_id": 542, "text": "A foundation wants to automatically categorize plant species from leaf images taken in a field. Give me an API for classifying different types of plant species based on identification and characterization of leaves.", "category": "generic"}
+{"question_id": 543, "text": "A research team is building a new categories labels system for an image dataset. What is an API that can do image classification for them?", "category": "generic"}
+{"question_id": 544, "text": "A team needs an image classifier for building a media cataloguing system optimized for NVIDIA hardware. Give me an API using GPUs that can classify images into categories.", "category": "generic"}
+{"question_id": 545, "text": "I need an API for translating an English paragraph to French, perfect candidate should support large-scale semi-supervised training and back-translation.", "category": "generic"}
+{"question_id": 546, "text": "Design an image recognition software for identifying food items on social media. Suggest an API with pretrained model for this purpose.", "category": "generic"}
+{"question_id": 547, "text": "I am trying to implement a drone surveillance system with intruders detection using a camera system. Suggest me an API capable of performing object detections for my drone's inbuilt camera.", "category": "generic"}
+{"question_id": 548, "text": "I am working on a text-to-speech project for my company. Can you suggest an ML API to convert text into human-like speech?", "category": "generic"}
+{"question_id": 549, "text": "Generate classified output using the pretrained MEAL V2 model for object classification for an image.", "category": "generic"}
+{"question_id": 550, "text": "We are developing an image recognition system for our security camera at the entrance of our building. What kind of API is suitable for this?", "category": "generic"}
+{"question_id": 551, "text": "I'm working on an app for animal identification from images, and I need an API to classify animal species from images. Suggest an API for that.", "category": "generic"}
+{"question_id": 552, "text": "Can you please recommend an AI model that can identify animals in photos with more than 80% accuracy?", "category": "generic"}
+{"question_id": 553, "text": "Provide an API that can identify objects in an image with an accuracy of 80% or higher on the ImageNet dataset.", "category": "generic"}
+{"question_id": 554, "text": "Describe an API specialized for image classification without employing known common tricks. Include the API repository and model name.", "category": "generic"}
+{"question_id": 555, "text": "A deepfake inspector company would like to classify the authenticity of a video. Suggest me an API that will classify if the video is deepfake or original.", "category": "generic"}
+{"question_id": 556, "text": "Find me a state-of-the-art pretrained image classifier from a model that does not rely on additional tricks. ", "category": "generic"}
+{"question_id": 557, "text": "I want to create an app that recognizes dog breeds in images. Please help me identify a suitable API for this purpose.", "category": "generic"}
+{"question_id": 558, "text": "Obtain information on a machine learning API capable of detecting objects, drivable areas, and lanes in traffic images, such as those from a self-driving car's camera feed.", "category": "generic"}
+{"question_id": 559, "text": "I work for a self-driving car company and we need an API to perform simultaneous object detection, drivable area segmentation, and lane detection in images taken from vehicle cameras.", "category": "generic"}
+{"question_id": 560, "text": "I want to get the relative depth information from a single image taken in a forest.", "category": "generic"}
+{"question_id": 561, "text": "As a game developer working on a VR simulation, I want a technology that can predict relative depth of an object in an image. Provide me with a suitable API to achieve this.", "category": "generic"}
+{"question_id": 562, "text": "Spotify wants to separate vocals from a song. Suggest an API that can separate vocals from an audio file.", "category": "generic"}
+{"question_id": 563, "text": "Let's say I have an image of a cityscape and I want to determine the relative depth of different objects within the image. Which API can help me do that?", "category": "generic"}
+{"question_id": 564, "text": "Identify an API that can transcribe a voice message to written text.", "category": "generic"}
+{"question_id": 565, "text": "A wildlife photographer wants to identify bird species from his bird photos. Suggest an API capable of recognizing bird species from an image.", "category": "generic"}
+{"question_id": 566, "text": "Identify the segments with speech from an audio file using an API.", "category": "generic"}
+{"question_id": 567, "text": "I want to build a robot that recognize objects in the street. Provide me an API that can segment objects in an image.", "category": "generic"}
+{"question_id": 568, "text": "I need to convert text to speech mp3 format with natural sounding voices. Can you find me an API that can do that?", "category": "generic"}
+{"question_id": 569, "text": "Our company wants to segment images into multiple classes. Suggest an API for semantic segmentation.", "category": "generic"}
+{"question_id": 570, "text": "I need a semantic segmentation model to segment different objects present in road scene images. Suggest me an API for this purpose.", "category": "generic"}
+{"question_id": 571, "text": "What API can I use to detect objects in an image while maintaining a small model size for a mobile application?", "category": "generic"}
+{"question_id": 572, "text": "Develop a system to automatically tag images based on their content for a social media platform. Which API is suitable to be used for this task?", "category": "generic"}
+{"question_id": 573, "text": "I am designing clothing for a new fashion line and need inspiration. Provide an API that can generate clothing images.", "category": "generic"}
+{"question_id": 574, "text": "I need an API that can classify a given image into one of the 1000 classes like cars, dogs or flowers.", "category": "generic"}
+{"question_id": 575, "text": "I want to classify images using a high-performance machine learning model. Point me to an API that can help achieve this.", "category": "generic"}
+{"question_id": 576, "text": "Design an API that can classify images into different categories using a pretrained model.", "category": "generic"}
+{"question_id": 577, "text": "I am working on an app that generates unique user avatars. I need an API that creates realistic images of faces. Provide me with the API details and pre-trained model if available.", "category": "generic"}
+{"question_id": 578, "text": "A research team is analyzing brain MRI images for abnormality segmentation. Suggest a suitable API to achieve this.", "category": "generic"}
+{"question_id": 579, "text": "Jane is developing a mobile app to identify animal species. Propose an API that classifies animals based on images.", "category": "generic"}
+{"question_id": 580, "text": "Find me an API to classify objects in images given a massive dataset of real life images.", "category": "generic"}
+{"question_id": 581, "text": "I want to classify images in real-time during a robotics competition. Recommend an API for image classification.", "category": "generic"}
+{"question_id": 582, "text": "A photographer at National Wildlife Foundation wants to automatically classify and organize the wildlife photos he has captured. Suggest an API that can classify animal images.", "category": "generic"}
+{"question_id": 583, "text": "We need to develop a robotic assistant, and it needs to be able to speak given a text input. Provide a text-to-speech API that can convert a text input into natural-sounding speech.", "category": "generic"}
+{"question_id": 584, "text": "Find me an API that can determine the sentiment of a given text review.", "category": "generic"}
+{"question_id": 585, "text": "I have a collection of photos of different objects and want to classify them. Suggest me an API that can help in this task.", "category": "generic"}
+{"question_id": 586, "text": "We need a deep learning model for image classification that is less computationally expensive and has a low number of parameters while maintaining the accuracy performance. Provide me an API for image classification.", "category": "generic"}
+{"question_id": 587, "text": "Design an image classifier that can differentiate between various classes. Recommend an API that can serve this purpose.", "category": "generic"}
+{"question_id": 588, "text": "Suggest a suitable API that can classify images into different categories based on ImageNet dataset.", "category": "generic"}
+{"question_id": 589, "text": "Recommend an API for segmenting objects in images for an autonomous vehicle project.", "category": "generic"}
+{"question_id": 590, "text": "I need an API that generates semantic segmentation of an input image taken by a self-driving car.", "category": "generic"}
+{"question_id": 591, "text": "Weddings and events are photographed every day. What API can help me label these photos by category for my wedding business?", "category": "generic"}
+{"question_id": 592, "text": "I need to identify and classify a variety of objects in a given image. Provide me with an API that can do this effectively.", "category": "generic"}
+{"question_id": 593, "text": "Discover an efficient API that can classify the types objects in an image.", "category": "generic"}
+{"question_id": 594, "text": "I am creating a mobile app to identify plants. I need an API that has a lighter-weight model for image classification.", "category": "generic"}
+{"question_id": 595, "text": "Recommend an API that can classify images into different categories using a model designed by Google.", "category": "generic"}
+{"question_id": 596, "text": "I want to build a mobile application that can classify an object based on its image. Recommend a lightweight API that can provide high performance on mobile devices.", "category": "generic"}
+{"question_id": 597, "text": "In a new computer vision project, we need a model that can classify images into multiple possible categories. Recommend a suitable pre-trained model.", "category": "generic"}
+{"question_id": 598, "text": "An AI engineer is developing an image recognition system for Intel Corporation. Provide me an API to classify images using IBN-Net model.", "category": "generic"}
+{"question_id": 599, "text": "Looking for something to help re-identify a person from diferent photos. Find me an API for that.", "category": "generic"}
+{"question_id": 600, "text": "Can you provide an API that could identify different types of cars given an image of the scene?", "category": "generic"}
+{"question_id": 601, "text": "I need to classify different types of animals in images taken from the wild.", "category": "generic"}
+{"question_id": 602, "text": "I need a way to identify vehicles in images by model and brand. Write an API that can achieve this.", "category": "generic"}
+{"question_id": 603, "text": "We need to implement an image classification model for our AI platform. Can you suggest an appropriate API we can use as a base?", "category": "generic"}
+{"question_id": 604, "text": "Provide an API to classify buildings to residential, commercial or industrial based on their locations from images.", "category": "generic"}
+{"question_id": 605, "text": "I work at a tech company and I need to identify dog breeds in images. Provide me with an API that can classify dog breeds based on an input image.", "category": "generic"}
+{"question_id": 606, "text": "I need to classify objects in an image using ProxylessNAS optimized for GPU systems. Suggest a pre-trained API that can accomplish this.", "category": "generic"}
+{"question_id": 607, "text": "Create a mobile app to detect objects. Recommend me an API that would ideally suit this purpose.", "category": "generic"}
+{"question_id": 608, "text": "I need an API that can classify objects in images and has a lightweight model suitable for mobile devices.", "category": "generic"}
+{"question_id": 609, "text": "Develop a mobile application that can classify objects in images captured by the phone camera. Suggest an API that can do the classification.", "category": "generic"}
+{"question_id": 610, "text": "To help an online store to label images taken from the deep sea, pick the appropriate API for this task.", "category": "generic"}
+{"question_id": 611, "text": "Suppose you work as a data scientist in IMB and you need an image classifier for your project on animals. Can you provide me the code that loads a model for image classification?", "category": "generic"}
+{"question_id": 612, "text": "I am organizing my photo library and need an API to identify what's in each photo, can you make a code for me?", "category": "generic"}
+{"question_id": 613, "text": "An application is being built that can identify different vehicles in photos. Suggest an API that can be used for this purpose.", "category": "generic"}
+{"question_id": 614, "text": "I need an API for image classification that employs deep residual networks. Can you provide me with one?", "category": "generic"}
+{"question_id": 615, "text": "A photographer at Adobe Stock wants to automatically tag their large photo inventory using AI. Point them to an ready-to-use API that accomplishes this task.", "category": "generic"}
+{"question_id": 616, "text": "To create an app that tells a user if the food they take a photo of is safe to eat, provide me with an appropriate API that can classify images of food products.", "category": "generic"}
+{"question_id": 617, "text": "Find me an API capable of image classification based on Spiking Neural Networks.", "category": "generic"}
+{"question_id": 618, "text": "What is an API that can be provided to a person working on the Hulu app for Apple TV to classify images?", "category": "generic"}
+{"question_id": 619, "text": "A home security system needs an API that can recognize faces attached to their smart doorbell to detect strangers. Propose a solution for them.", "category": "generic"}
+{"question_id": 620, "text": "An e-commerce website wants to integrate an AI assistant to differentiate between various items being uploaded by sellers. Give me an API to classify the uploaded items based on their image.", "category": "generic"}
+{"question_id": 621, "text": "An NGO ingin Gitonga is building an AI bot that identifies trees using images from the Amazon rainforest. Help me find an API that can classify images of trees using pre-trained models.", "category": "generic"}
+{"question_id": 622, "text": "I want a lightweight PyTorch API for object recognition for my application. What would you suggest?", "category": "generic"}
+{"question_id": 623, "text": "I want to analyze an Instagram picture to figure out what objects are in it. Give me an API that can help me understand the image.", "category": "generic"}
+{"question_id": 624, "text": "I want to categorize images from a dataset with pretrained API. Give me an ideal choice.", "category": "generic"}
+{"question_id": 625, "text": "I am a researcher in the field of computer vision, and I need to classify images using a pre-trained model with good performance. Can you give me an API for that?", "category": "generic"}
+{"question_id": 626, "text": "A company is building an image recognition service that helps identify objects in images. Recommend an API that can classify these images.", "category": "generic"}
+{"question_id": 627, "text": "I need a PyTorch API to recognize various objects in images for my project. Can you provide one?", "category": "generic"}
+{"question_id": 628, "text": "Can you provide me with an API capable of image recognition for my autonomous vehicle project?", "category": "generic"}
+{"question_id": 629, "text": "Describe an API that can help identify objects and scenes in a series of photos from a vacation.", "category": "generic"}
+{"question_id": 630, "text": "I need an API that can recognize the dog breed from a given image of a dog.", "category": "generic"}
+{"question_id": 631, "text": "A computer vision company needs an efficient image recognizer API for a security project. Find a suitable API to classify objects in an image.", "category": "generic"}
+{"question_id": 632, "text": "Provide a pretrained API that can identify and classify dogs in images.", "category": "generic"}
+{"question_id": 633, "text": "What API can tell me which sport is being played in a video?", "category": "generic"}
+{"question_id": 634, "text": "A company called \"VideoTag\" wants to classify videos into different categories using machine learning. Provide an API that can help them with video classification.", "category": "generic"}
+{"question_id": 635, "text": "Recommend an API that can classify images quickly and efficiently using an NVIDIA GPU.", "category": "generic"}
+{"question_id": 636, "text": "A news aggregator wants to categorize and summarize the news article. Which API they can use for text classification and understanding?", "category": "generic"}
+{"question_id": 637, "text": "A fintech company wants to build a model that can identify the pattern on a credit card. What API can they use to achieve this classification?", "category": "generic"}
+{"question_id": 638, "text": "What is an API to provide me with a pretrained image classifier that would recognize object types in images?", "category": "generic"}
+{"question_id": 639, "text": "Provide me with a Machine Learning API that can classify objects in images with high accuracy and low computational cost.", "category": "generic"}
+{"question_id": 640, "text": "Demonstrate how to detect objects in a video clip by using an API.", "category": "generic"}
+{"question_id": 641, "text": "I need to translate a paragraph from English to French. What API would you recommend for this task?", "category": "generic"}
+{"question_id": 642, "text": "A CEO of a podcast company is trying to write summaries of the podcasts. She needs an API that can convert the main points of a podcast to text.", "category": "generic"}
+{"question_id": 643, "text": "As a developer, I'm looking for an image classification API that has high accuracy.", "category": "generic"}
+{"question_id": 644, "text": "A software needs an API to classify an object in an image with more than 80% accuracy. Which API can be recommended?", "category": "generic"}
+{"question_id": 645, "text": "Tell me how to classify an image based on different object categories with the highest performance. Give me an API to do that.", "category": "generic"}
+{"question_id": 646, "text": "Recommend a highly-performing image classification model that does not rely on tricks such as architecture modification, data augmentation or label smoothing.", "category": "generic"}
+{"question_id": 647, "text": "I need an image classification API to predict the highest possible accuracy on ImageNet.", "category": "generic"}
+{"question_id": 648, "text": "A developer in your team is working on an image classification app and would like to use an efficient pretrained model. Offer an API that can assist him.", "category": "generic"}
+{"question_id": 649, "text": "Help me find an API to classify different dog breeds from their image. Our product integrates with Instagram.", "category": "generic"}
+{"question_id": 650, "text": "Generate an API that classifies images with enhanced accuracy and without depending on architecture modification, data augmentation, or other training tricks.", "category": "generic"}
+{"question_id": 651, "text": "Find an API that can perform scene recognition in videos and is pretrained on a large dataset for enhanced accuracy.", "category": "generic"}
+{"question_id": 652, "text": "I need an API to detect objects in a traffic video, segment drivable areas, and detect lane lines. Provide an API that can perform this task.", "category": "generic"}
+{"question_id": 653, "text": "I am designing an autonomous navigation system for a robot. What API should I use that detects objects, drivable areas, and lane lines simultaneously?", "category": "generic"}
+{"question_id": 654, "text": "Is there any technique that can compute relative depth from a single image? Which API can do this job?", "category": "generic"}
+{"question_id": 655, "text": "I need to calculate the depth of a scene from a single image, please provide me an API for a model that can perform this task.", "category": "generic"}
+{"question_id": 656, "text": "Help me extract the depth information from a single image taken with my camera. Provide an API that can do this.", "category": "generic"}
+{"question_id": 657, "text": "I have a mix of pop songs and I need an API that can break it into separate tracks for vocals, drums, etc.", "category": "generic"}
+{"question_id": 658, "text": "We need a voice-activated AI chatbot for our call center. Recommend an API that can detect voice activity from an audio file.", "category": "generic"}
+{"question_id": 659, "text": "Help me choose an API that can identify the specific species of the bird in a given photograph.", "category": "generic"}
+{"question_id": 660, "text": "Create a high-resolution image segmentation model that can distinguish between objects in a scene.", "category": "generic"}
+{"question_id": 661, "text": "What is an efficient method to transcribe voicemails into text using an API?", "category": "generic"}
+{"question_id": 662, "text": "I am an autonomous vehicle engineer and I need code to make a deep learning model that takes images as input and segments them into different parts like car, road, human.", "category": "generic"}
+{"question_id": 663, "text": "I plan to make a cityscape segmentation for Boston. Could you recommend an API to segment city landmarks from an image?", "category": "generic"}
+{"question_id": 664, "text": "An edTech company wants to build an app that reads content from their textbook to the students. Suggest an API that can convert written text to speech.", "category": "generic"}
+{"question_id": 665, "text": "Recommend an API to detect objects, such as cars and people, in a live video feed from a security camera.", "category": "generic"}
+{"question_id": 666, "text": "Find me an API that can generate low-resolution images of clothing items.", "category": "generic"}
+{"question_id": 667, "text": "A startup wants to build an application that helps users categorize the images they upload. Can you recommend an API for that?", "category": "generic"}
+{"question_id": 668, "text": "Provide me with an image classification API that uses weakly-supervised training and can achieve high accuracy on the ImageNet dataset.", "category": "generic"}
+{"question_id": 669, "text": "I am working on a computer vision task for my company, and I would like a well-performing machine learning API that can provide correct accuracy in classifying images of objects.", "category": "generic"}
+{"question_id": 670, "text": "I need an API to identify various flowers in a botanical garden from a photo.", "category": "generic"}
+{"question_id": 671, "text": "A web developer is building an image recognition app to identify objects within images. Suggest an API that can identify objects in an image.", "category": "generic"}
+{"question_id": 672, "text": "I have a brain MRI scan and I want to detect abnormalities in the scan. Can you recommend an API for this task?", "category": "generic"}
+{"question_id": 673, "text": "A prankster is building a fake celebrity face generator. Recommend an API that can generate realistic fake celebrity faces.", "category": "generic"}
+{"question_id": 674, "text": "Abby wants to identify the objects present in her collection of images. Identify a model that can analyze Abby's images.", "category": "generic"}
+{"question_id": 675, "text": "Imagine you received a huge dataset of unidentified animals, and you need to classify them according to their species. Provide me an API that can classify them given their image.", "category": "generic"}
+{"question_id": 676, "text": "How can I get an accurate text classification model based on BERT but with improvements?", "category": "generic"}
+{"question_id": 677, "text": "I need an API to classify objects within images efficiently using mixed precision training for better performance.", "category": "generic"}
+{"question_id": 678, "text": "Convert an English text to speech while preserving the naturalness of the voice. Recommend me a suitable API.", "category": "generic"}
+{"question_id": 679, "text": "I am a data scientist who needs to classify images using a neural network with a dense structure. Recommend an API for this purpose.", "category": "generic"}
+{"question_id": 680, "text": "I am building an image recognition app, and I need to classify objects in images. Which API should I use?", "category": "generic"}
+{"question_id": 681, "text": "I need an API suitable for classifying skin conditions based on images. What do you suggest?", "category": "generic"}
+{"question_id": 682, "text": "Which API do I use for segmenting objects in an image based on their class?", "category": "generic"}
+{"question_id": 683, "text": "I am developing an AI vacuum cleaner that can identify type of object on the floor so it can avoid it. I am looking for an API to help me in idenfifying common objects like shoes, toys, type of dirt. You may assume I already have pictures of the floor.", "category": "generic"}
+{"question_id": 684, "text": "I am working on environmental analysis and I want to analyze each pixel in an aerial image and identify its class. What API could help me with that?", "category": "generic"}
+{"question_id": 685, "text": "I'm looking for a computationally efficient image classifier. Please suggest a suitable API for this purpose.", "category": "generic"}
+{"question_id": 686, "text": "I have a collection of images to classify. Can you suggest an API with good accuracy and less computational cost?", "category": "generic"}
+{"question_id": 687, "text": "I am trying to design an app that can classify shoes, clothes, and other fashion items from images taken by users. Recommend me an API that can perform this task.", "category": "generic"}
+{"question_id": 688, "text": "Recommend me an API to classify images of cats and dogs.", "category": "generic"}
+{"question_id": 689, "text": "Tell me an API that can classify photos of plants into their respective species.", "category": "generic"}
+{"question_id": 690, "text": "I need an API for classifying types of plants through an image. Write me an example.", "category": "generic"}
+{"question_id": 691, "text": "Help me find an API that can recognise appearances and domains in cross domain tasks like person or vehicle re-identification.", "category": "generic"}
+{"question_id": 692, "text": "One of the largest retailers, Walmart, wants to develop a system for automating price audits to replace the manual way of checking prices. Suggest an API that can identify items in a picture and compare them with data from the server to achieve the retailer's goal.", "category": "generic"}
+{"question_id": 693, "text": "Identify an API that can deal with vehicle re-identification tasks.", "category": "generic"}
+{"question_id": 694, "text": "I need an AI-based image recognition technology to enhance a photo journal app. Please recommend an API.", "category": "generic"}
+{"question_id": 695, "text": "I'm facing a classification problem that involves a high level of domain adaptation. Suggest me an API that suits my task.", "category": "generic"}
+{"question_id": 696, "text": "I want to create a model that can classify a large dataset of images into 1000 different classes. Recommend an API for this task.", "category": "generic"}
+{"question_id": 697, "text": "Looking for an API that can classify thousands of different species of flowers from an image.", "category": "generic"}
+{"question_id": 698, "text": "Recommend an image classification API that can accurately predict items in a given image.", "category": "generic"}
+{"question_id": 699, "text": "I need to know which API would be suitable to perform image classification on CPU optimized hardware.", "category": "generic"}
+{"question_id": 700, "text": "I am designing a wildlife preservation journal that needs to categorize pictures of different animal species. Suggest a machine learning API to classify the animal species in a given image.", "category": "generic"}
+{"question_id": 701, "text": "Create a mobile application that optimizes image classification. Recommend an API that I can use for this purpose.", "category": "generic"}
+{"question_id": 702, "text": "I require a lightweight API that can perform image classification on mobile devices.", "category": "generic"}
+{"question_id": 703, "text": "I need help selecting an API that can classify an image based on an optimized CNN architecture for GPU devices.", "category": "generic"}
+{"question_id": 704, "text": "I need to execute an image classification API that can identify objects in a given image. Recommend an API and show me how to use it.", "category": "generic"}
+{"question_id": 705, "text": "Suggest an API that can help me identify objects in an image.", "category": "generic"}
+{"question_id": 706, "text": "Find me a pre-trained model for general image recognition that I can use for an e-commerce website's product categorization.", "category": "generic"}
+{"question_id": 707, "text": "I want to classify an image using a pre-trained deep learning model. Find me an API I could use.", "category": "generic"}
+{"question_id": 708, "text": "I am working on building a dog breed identification app, recommend an API that can be used for this task.", "category": "generic"}
+{"question_id": 709, "text": "I would like an API that can classify land animals from an image using the latest deep learning techniques.", "category": "generic"}
+{"question_id": 710, "text": "A wildlife photographer needs an API to help in sorting birds and mammals in his photo collection. Suggest an API.", "category": "generic"}
+{"question_id": 711, "text": "Identify a library API suitable for classifying images with high accuracy while keeping FLOPs low.", "category": "generic"}
+{"question_id": 712, "text": "I want to classify an image with a neural network that has lower operation complexity. What's the best API to use?", "category": "generic"}
+{"question_id": 713, "text": "Is there an API I can use for image categorization in a mobile app? I need it to be lightweight and fast.", "category": "generic"}
+{"question_id": 714, "text": "I am an independent developer working on a chatbot. I need my chatbot to identify what is in the user's picture. Suggest an pre-trained API that can classify objects in an image.", "category": "generic"}
+{"question_id": 715, "text": "I need an image classification API for a robot that can recognize an object in real time with high accuracy.", "category": "generic"}
+{"question_id": 716, "text": "A retail analyst wants to process an image containing a collection of consumer products and classify the objects in the image. Find an API that helps categorize the objects in the image and provide a confidence score for each category., 'Input': '<noinput>'", "category": "generic"}
+{"question_id": 717, "text": "I am building a photo app and I need an API that can classify images into categories. Do you have any suggestions?", "category": "generic"}
+{"question_id": 718, "text": "Develop a mobile app which can identify 1000 objects based on the camera, provide an API that can be used to develop it.", "category": "generic"}
+{"question_id": 719, "text": "A team is working on automatically tagging animals in pictures taken by wildlife cameras. Provide an API for a model that can perform this task.", "category": "generic"}
+{"question_id": 720, "text": "I want to recognize objects in images using a VGG13 model with batch normalization. What API should I use for this?", "category": "generic"}
+{"question_id": 721, "text": "Identify an API that can recognize objects inside photos. Ensure that it is pretrained and ready for use.", "category": "generic"}
+{"question_id": 722, "text": "Identify an API that can recognize what type of buildings are in an image. ", "category": "generic"}
+{"question_id": 723, "text": "Can you recommend an API that can recognize objects in images, like different species of animals?", "category": "generic"}
+{"question_id": 724, "text": "An automotive website has different types of vehicles in a gallery; they want to automatically classify these vehicles into different categories based on an image. Tell me how to achieve this using an API.", "category": "generic"}
+{"question_id": 725, "text": "Generate code that will help me classify different dog breeds in a photo.", "category": "generic"}
+{"question_id": 726, "text": "I need an API that can help me classify various objects in an image from a popular repository. Provide a pretrained model for the same.", "category": "generic"}
+{"question_id": 727, "text": "As a content moderator, I need to classify videos into categories Automatically. Please suggest an API for performing this task.", "category": "generic"}
+{"question_id": 728, "text": "Tell me an API that can classify a video clip according to the action in the clip.", "category": "generic"}
+{"question_id": 729, "text": "Is there an NLP API that can summarize long articles or documents?", "category": "generic"}
+{"question_id": 730, "text": "Suggest a machine learning API that can be used to analyze images of protein structures to predict their cellular localization.", "category": "generic"}
+{"question_id": 731, "text": "I\u2019m working on a mobile app, and I need an efficient neural network for image classification. What API should I use?", "category": "generic"}
+{"question_id": 732, "text": "I work at NVIDIA and need an API to classify images using GPUNet architecture optimized for TensorRT performance.", "category": "generic"}
+{"question_id": 733, "text": "SmartToyY is working on a project that tells information about a toy based on its picture. Give an AI API that can classify an image into categories.", "category": "generic"}
+{"question_id": 734, "text": "I need to translate some English text to French, suggest an API to help me with that.", "category": "generic"}
+{"question_id": 735, "text": "The Amazon security team wants to auto-detect unattended package left at their headquarters. Propose an API that can detect objects in images.", "category": "generic"}
+{"question_id": 736, "text": "What machine learning API should I use to convert a text to speech?", "category": "generic"}
+{"question_id": 737, "text": "I need an efficient image classification API that can be used to recognize complex objects in images.", "category": "generic"}
+{"question_id": 738, "text": "The Vegan Society is doing research on vegan products by automatically labeling Instagram images depicting different types of food. Provide an API that can identify and classify objects in an image.", "category": "generic"}
+{"question_id": 739, "text": "Recommend an API to enhance classification accuracy for a popular machine learning model for tagging animals in images.", "category": "generic"}
+{"question_id": 740, "text": "Design a machine learning API to identify the type of objects present in an image with high accuracy.", "category": "generic"}
+{"question_id": 741, "text": "Create a tool to predict what would be in an image taken outdoors in the wild, and recommend an API that could accomplish this.", "category": "generic"}
+{"question_id": 742, "text": "Recommend an API that can identify different breeds of dogs from photographs.", "category": "generic"}
+{"question_id": 743, "text": "Recommend an API to classify images with a high level of accuracy without using any tricks.", "category": "generic"}
+{"question_id": 744, "text": "I'm an app developer and I need an API to classify which type of animal is in a particular image. What do you suggest?", "category": "generic"}
+{"question_id": 745, "text": "Suggest a pre-trained video classification model capable of classifying human actions in a video.", "category": "generic"}
+{"question_id": 746, "text": "I need an API capable of detecting vehicles, drivable areas, and lane lines from images taken from a dashboard camera.", "category": "generic"}
+{"question_id": 747, "text": "Help me to find an API to assist autonomous vehicles providing object detection, drivable area segmentation and lane detection for safer navigation.", "category": "generic"}
+{"question_id": 748, "text": "I want an API that can deliver relative depth information from a single photo.", "category": "generic"}
+{"question_id": 749, "text": "Suppose I have to design an autonomous car which uses a depth perception system. Suggest me an API which can compute relative depth from a single image.", "category": "generic"}
+{"question_id": 750, "text": "I have a single image and want to compute its depth map. Suggest me an API for this task.", "category": "generic"}
+{"question_id": 751, "text": "How can I extract the vocal track and other stems from a song's audio? Suggest an API for this.", "category": "generic"}
+{"question_id": 752, "text": "Can you find me an API that identifies a species of bird from an image?", "category": "generic"}
+{"question_id": 753, "text": "I have a voice assistant project and I want to convert the user's speech to text. Can you recommend an API suitable for this?", "category": "generic"}
+{"question_id": 754, "text": "Suggest an API that converts a given text into human-like speech in English.", "category": "generic"}
+{"question_id": 755, "text": "Recommend me an API for detecting the presence of speech in a given audio file.", "category": "generic"}
+{"question_id": 756, "text": "I need to extract objects from a picture of a city scene. Provide me with an API that can output the segmented objects from an image.", "category": "generic"}
+{"question_id": 757, "text": "Develop an API that detects objects in an image given the URL of the image. The API should work with high accuracy.", "category": "generic"}
+{"question_id": 758, "text": "Find an API to correctly classify my travel photos based on the displayed location.", "category": "generic"}
+{"question_id": 759, "text": "Recommend an API for identifying different objects in a single image, such as furniture, appliances or even food.", "category": "generic"}
+{"question_id": 760, "text": "Develop a model to generate new clothing design samples using GAN (Generative Adversarial Networks).", "category": "generic"}
+{"question_id": 761, "text": "I run an online marketplace where users want to categorize their items based on images. What API should they use for this?", "category": "generic"}
+{"question_id": 762, "text": "Explain how to use an API for semantic segmentation of park scenes to identify different regions such as playgrounds, pavements and water.", "category": "generic"}
+{"question_id": 763, "text": "Propose an API that can recognize objects in an image with high accuracy.", "category": "generic"}
+{"question_id": 764, "text": "Could you suggest a GAN model to generate high-quality human faces images?", "category": "generic"}
+{"question_id": 765, "text": "How can I use machine learning to identify different land use types from an aerial photograph or satellite imagery?", "category": "generic"}
+{"question_id": 766, "text": "A photographer wants to classify the objects in his images. Provide an API that can be used for image classification.", "category": "generic"}
+{"question_id": 767, "text": "Help the e-commerce company in developing an API for identifying and classifying images of products.", "category": "generic"}
+{"question_id": 768, "text": "I want a model that can classify text into positive, negative or neutral sentiment.", "category": "generic"}
+{"question_id": 769, "text": "\"A Language teacher is teaching his class about pronunciation of English. They are looking for a TTS API that can help the students in the study process. Suggest an API for this purpose.\"", "category": "generic"}
+{"question_id": 770, "text": "Recommend an API that can segment abnormal areas from an MRI scan.", "category": "generic"}
+{"question_id": 771, "text": "A marketing team needs to classify images for their advertisement targeting. Can you offer an API that can predict the class of an image?", "category": "generic"}
+{"question_id": 772, "text": "I require a deep learning model to perform image classification on a dataset with multiple classes. Recommend an API that serves this purpose.", "category": "generic"}
+{"question_id": 773, "text": "Recommend a pre-trained model to classify images into one of 1000 different categories.", "category": "generic"}
+{"question_id": 774, "text": "Inform me about an API that can aid in image classification tasks and has a dense network architecture.", "category": "generic"}
+{"question_id": 775, "text": "A drone survey company requires an API to classify natural scenes into specific classes from aerial imagery. Which API can they use for this?", "category": "generic"}
+{"question_id": 776, "text": "An urban planning team needs to segment a satellite image to identify different landforms. Can you suggest an ML API that can provide segmentation maps?", "category": "generic"}
+{"question_id": 777, "text": "Propose an API to process a satellite image and label different objects like buildings, roads, and vegetation.", "category": "generic"}
+{"question_id": 778, "text": "Find an API that can optimize a model for low memory usage and fast processing to differentiate between cats and dogs in images.", "category": "generic"}
+{"question_id": 779, "text": "Suggest an API that classifies images quickly, without sacrificing too much accuracy, as compared to traditional methods like ResNet.", "category": "generic"}
+{"question_id": 780, "text": "A machine learning engineer is working on a project to classify images of different dog breeds. Provide an example of an API that could be used for image classification.", "category": "generic"}
+{"question_id": 781, "text": "Recommend me a computer vision model that can determine the top 5 labels for an image.", "category": "generic"}
+{"question_id": 782, "text": "Present me an API that efficiently classifies images with less computational cost compared to traditional methods.", "category": "generic"}
+{"question_id": 783, "text": "We need to detect objects in images for a mobile platform with a low memory footprint CNN architecture. Could you suggest an appropriate API for this purpose?", "category": "generic"}
+{"question_id": 784, "text": "Recommend an API for a vehicle recognition system which can identify models and types of vehicles from various visual angles.", "category": "generic"}
+{"question_id": 785, "text": "A live streaming platform needs a machine learning model for content moderation. Tell me how to implement an API that can classify an image for content moderation.", "category": "generic"}
+{"question_id": 786, "text": "We have a dataset concerning pedestrian activities at crosswalks. Recommend an API capable of predicting activities like walking, running, or waiting given an image as input.", "category": "generic"}
+{"question_id": 787, "text": "AML, a cybersecurity company is building a face identification engine for airports. Recommend an API that can output True if the two photos provided are the same person or False if not.", "category": "generic"}
+{"question_id": 788, "text": "We want to design an app to identify plants. Recommend an API that can be used to classify images of plants.", "category": "generic"}
+{"question_id": 789, "text": "I am working at Pinterest and we want to build a classifier for the images in the platform. Give me an API that can classify images.", "category": "generic"}
+{"question_id": 790, "text": "I want to create an app to recognize plants based on images. Suggest me an API that I can use for this purpose.", "category": "generic"}
+{"question_id": 791, "text": "A museum located in New York City wants to categorize their art collection by automatically identifying the content of the artwork. Which API can be used to perform image classification?", "category": "generic"}
+{"question_id": 792, "text": "Let me know an API that can classify food from photos. It should be designed to run on low-power devices and offer good accuracy.", "category": "generic"}
+{"question_id": 793, "text": "I'm doing an image classification project, suggest an API that can help me classify images effectively.", "category": "generic"}
+{"question_id": 794, "text": "Identify an API suitable for classifying images using a neural network optimized for high performance on GPUs.", "category": "generic"}
+{"question_id": 795, "text": "The Clubhouse App wants a function for image classification. Advise them an API that could be a potential solution for them.", "category": "generic"}
+{"question_id": 796, "text": "I am from Google and I am looking for an API that can classify images into categories using neural networks optimized for mobiles.", "category": "generic"}
+{"question_id": 797, "text": "Recommend an API to determine the type of objects in an image given a set of pre-trained labels.", "category": "generic"}
+{"question_id": 798, "text": "Recommend to me an API that can efficiently recognize faces from an image and classify them into particular groups or categories.", "category": "generic"}
+{"question_id": 799, "text": "Recommend me a model that has a high accuracy in recognizing the emotion of people displayed in images.", "category": "generic"}
+{"question_id": 800, "text": "Looking for an API that can identify different breeds of dogs in images. It must provide high accuracy in identifying the breed.", "category": "generic"}
+{"question_id": 801, "text": "I noticed that some of the bird species are mistakenly tagged in the bird photo collection. Provide me an API to auto fix the tags.", "category": "generic"}
+{"question_id": 802, "text": "How can I build an AI system that can recognize dogs and cats? Provide me an API and pretrained model that will help.", "category": "generic"}
+{"question_id": 803, "text": "Analyze a given image for its content and classify it into its respective category. Suggest an API that can help with this.", "category": "generic"}
+{"question_id": 804, "text": "Find me an API that can classify images into different categories.", "category": "generic"}
+{"question_id": 805, "text": "I need to classify a set of random images. What pre-trained machine learning API would you recommend for this purpose?", "category": "generic"}
+{"question_id": 806, "text": "A company is looking to build an app that automatically scans items in the grocery store and categorizes them in real time. What API should they use?", "category": "generic"}
+{"question_id": 807, "text": "Our company, New York Pillow, is developing an inventory system for our products, and we need a machine learning model to classify images of pillows by their type. Can you give me an API which can classify pillow types?", "category": "generic"}
+{"question_id": 808, "text": "Which API should I use that classifies images during my visit and uses minimum storage?", "category": "generic"}
+{"question_id": 809, "text": "I need an API that can identify dog breeds in a given photo.", "category": "generic"}
+{"question_id": 810, "text": "Find an API that can classify a given image, while maintaining a high efficiency for mobile phone usage.", "category": "generic"}
+{"question_id": 811, "text": "I'm working on building an app that would let users know what's in a photograph. Suggest an efficient image recognition API appropriate for my purpose.", "category": "generic"}
+{"question_id": 812, "text": "Propose an API that can identify the type of car in a photo taken at a car dealership.", "category": "generic"}
+{"question_id": 813, "text": "I am running a website on animal rescue and I have lots of animal photos during adoption process. Recommend me an API that can recognize animal breeds from images, so I can improve my website's user experience.", "category": "generic"}
+{"question_id": 814, "text": "What pre-trained API can I use to recognize different objects from an image?", "category": "generic"}
+{"question_id": 815, "text": "\"I am creating an object classifier to recognize thousands of common objects. Convince me with an API I should use.\"", "category": "generic"}
+{"question_id": 816, "text": "A company is building an AI-powered image categorization tool to help label images in their database with greater accuracy. Recommend an API to identify and classify images with high accuracy.", "category": "generic"}
+{"question_id": 817, "text": "I run a pet adoption center and want to identify dog breeds for our customers. How can I use a pre-trained model to recognize dog breeds from images?", "category": "generic"}
+{"question_id": 818, "text": "A client of mine wants to classify photographs into relevant categories for their website. Can you recommend a suitable API to do the job?", "category": "generic"}
+{"question_id": 819, "text": "A fitness app is trying to categorize workout videos based on the activity. Can you propose an API that can do this?", "category": "generic"}
+{"question_id": 820, "text": "I am building an app that can detect which animal is in a given image. Give me an API for image classification that would be suitable for this task.", "category": "generic"}
+{"question_id": 821, "text": "Recommend a video classification API that can identify the netball activity from a short video clip.", "category": "generic"}
+{"question_id": 822, "text": "Recommend an API for classifying images that is efficient on edge devices.", "category": "generic"}
+{"question_id": 823, "text": "I am developing an app that would automatically tag uploaded images. Suggest an API that can perform image classification efficiently on a GPU.", "category": "generic"}
+{"question_id": 824, "text": "I need a pre-trained model to translate English text to French, which API can help perform that task?", "category": "generic"}
+{"question_id": 825, "text": "I need to develop an image classifier for an app that can recognize pictures of objects. Any recommended API that can do this?", "category": "generic"}
+{"question_id": 826, "text": "Can you recommend an NLP API for an AI chatbot that understands user's message and generates human-like responses?", "category": "generic"}
+{"question_id": 827, "text": "Develop a model to automatically identify plant species in images.", "category": "generic"}
+{"question_id": 828, "text": "Recommend a PyTorch API for converting text to speech with high-quality audio output.", "category": "generic"}
+{"question_id": 829, "text": "I am building a security system for a shopping mall, and I need to identify objects in real-time from CCTV footage. Can you suggest an API?", "category": "generic"}
+{"question_id": 830, "text": "Provide an API for classifying images using state-of-the-art accuracy without any additional tricks.", "category": "generic"}
+{"question_id": 831, "text": "I need an API capable of classifying images with state-of-the-art accuracy using no tricks, for a call center to use.", "category": "generic"}
+{"question_id": 832, "text": "What API can classify different types of dogs from an image?", "category": "generic"}
+{"question_id": 833, "text": "I want to classify common objects in an image. Recommend an API that can do this for me.", "category": "generic"}
+{"question_id": 834, "text": "ABC fashion company wishes to use an API to classify the images of clothing styles. Suggest an API for this purpose.", "category": "generic"}
+{"question_id": 835, "text": "Rankz wants to develop a custom video suggestion feature by classifying user's uploaded videos. Recommend a suitable API for this task.", "category": "generic"}
+{"question_id": 836, "text": "Can you tell me an API for classifying the content of an image?", "category": "generic"}
+{"question_id": 837, "text": "Present an API that boosts vanilla ResNet-50 to 80%+ top-1 accuracy on ImageNet for a farmer's crop identification project.", "category": "generic"}
+{"question_id": 838, "text": "I want to build a self-driving car software that can detect traffic objects, drivable areas, and lanes. Which API can perform these tasks efficiently?", "category": "generic"}
+{"question_id": 839, "text": "Create a multi-task network for autonomous driving to handle object detection, drivable area segmentation, and lane detection in real-time. Which API would you suggest to achieve this?", "category": "generic"}
+{"question_id": 840, "text": "Design an intelligent robot. Tell me how to build a robot that can estimate objects' distance from its camera just by taking a photo.", "category": "generic"}
+{"question_id": 841, "text": "I am an architect for a construction project and I need to compute the depth of objects in an image. What API will allow me to do this?", "category": "generic"}
+{"question_id": 842, "text": "I need a deep learning model to separate vocals from background music for a given audio clip. What API can I use for this?", "category": "generic"}
+{"question_id": 843, "text": "I am a photographer and I want to determine the relative depth of objects in my images. Suggest an API that can compute the depth information from a single image.", "category": "generic"}
+{"question_id": 844, "text": "I\u2019m trying to build an app that identifies breeds of dogs from images, can you sugget any API for that purpose?", "category": "generic"}
+{"question_id": 845, "text": "An AI company wants to build a bird species identifier given an image of bird. Give me an API that can classify bird species from an input image.", "category": "generic"}
+{"question_id": 846, "text": "I'm working on a project that involves transcribing voice recordings. Recommend an API that can convert speech to text.", "category": "generic"}
+{"question_id": 847, "text": "Based upon a traffic camera, San Francisco Traffic Authority wants to identify the segmented boundaries for everything the camera captures. Provide an API that can help them perform this task.", "category": "generic"}
+{"question_id": 848, "text": "Recommend an API that can detect if there is a speech or silence segments in an audio file.", "category": "generic"}
+{"question_id": 849, "text": "Tell me about an API that is capable of segmenting objects in images based on their semantics, like identifying a car or a person.", "category": "generic"}
+{"question_id": 850, "text": "Can you recommend an API that can detect different types of animals in a picture?", "category": "generic"}
+{"question_id": 851, "text": "I want to perform semantic segmentation on an image to differentiate the foreground objects from the background. Recommend an API that can accomplish this.", "category": "generic"}
+{"question_id": 852, "text": "Help me to convert this text to speech: \"The weather is great today\" with an API call., 'Input': 'The weather is great today'", "category": "generic"}
+{"question_id": 853, "text": "I want to make a video game and I need randomly generated low resolution images for background. Can you suggest an API that can create images as per my requirement?", "category": "generic"}
+{"question_id": 854, "text": "I need an API to classify an image according to the ImageNet dataset. Tell me which API to use and how.", "category": "generic"}
+{"question_id": 855, "text": "Some friends and I want to organize a competition where people send us images of their pets and the photos are sorted into categories based on the type of pet in the image. Provide a deep learning API that can meet this goal.", "category": "generic"}
+{"question_id": 856, "text": "Help me discover an API suitable for classifying images in a custom dataset using Instagram users' preferences.", "category": "generic"}
+{"question_id": 857, "text": "A marketing company needs to clasify images of different catagories for a client. Can you provide an API to achive this?", "category": "generic"}
+{"question_id": 858, "text": "We are building a comic generator software that creates new comic images by mixing scenes of other comics. Suggest a relevant API for generating such new comic images.", "category": "generic"}
+{"question_id": 859, "text": "Teach me how to operate an API that can segment abnormalities in brain MRI images.", "category": "generic"}
+{"question_id": 860, "text": "A company is looking for an image recognition API to help them categorize their products. Suggest an API that could do this.", "category": "generic"}
+{"question_id": 861, "text": "Share an image classification API that can recognize objects in real-world images, including 1,000 categories.", "category": "generic"}
+{"question_id": 862, "text": "A Facebook user wants to classify images from their vacation album. Recommend an AI-based solution that can classify images into different categories.", "category": "generic"}
+{"question_id": 863, "text": "I need a suggestion for an API that can classify images of birds and flowers.", "category": "generic"}
+{"question_id": 864, "text": "Identify the breed of a dog in a given image using an API.", "category": "generic"}
+{"question_id": 865, "text": "Recommend me an API that can create synthesized speech from text input.", "category": "generic"}
+{"question_id": 866, "text": "'Suppose there is an English teaching website and the website wants to help students check the similarity between two given sentences. Suggest an API for that purpose.'", "category": "generic"}
+{"question_id": 867, "text": "Recommend me an API that can classify images of different types of food.", "category": "generic"}
+{"question_id": 868, "text": "Design a food recognition system that can identify different kinds of food given photos. Recommend an API that can help achieve this.", "category": "generic"}
+{"question_id": 869, "text": "Recommend a neural network API for semantic segmentation of images containing objects like cars, airplanes, and people.", "category": "generic"}
+{"question_id": 870, "text": "A social media platform is building an image classifier to identify and tag the content of images. Suggest an API that can help with this task.", "category": "generic"}
+{"question_id": 871, "text": "Help me find an API that can perform semantic segmentation on an image of San Francisco streets.", "category": "generic"}
+{"question_id": 872, "text": "Find me an API that can efficiently classify an image with low computational cost and memory access.", "category": "generic"}
+{"question_id": 873, "text": "Design a recommendation system for your video upload platform. Suggest an API that can detect and classify the subject from the image of the first frame.", "category": "generic"}
+{"question_id": 874, "text": "Suggest an API specialized in image classification which can efficiently perform the task while consuming less memory and computational resources.", "category": "generic"}
+{"question_id": 875, "text": "Imagine you are creating an image recognition app. Select an API well-suited for this task, that is both fast and efficient.", "category": "generic"}
+{"question_id": 876, "text": "A sports federation needs an AI-powered app that can recognize logos of soccer teams in a stadium. Give me an API that can output the name of the team, given a photo of its logo.", "category": "generic"}
+{"question_id": 877, "text": "I want to create a website that allows users to upload images and classify what's in the image. Tell me an API that can perform image classification.", "category": "generic"}
+{"question_id": 878, "text": "Advise an API for classifying images into their correct domain or appearance using PyTorch.", "category": "generic"}
+{"question_id": 879, "text": "I want to implement real-time face identification and facial recognition using the ResNet-50 model with IBN-Net. Recommend an appropriate API for the task.", "category": "generic"}
+{"question_id": 880, "text": "Can you identify an API for classifying images based on visual semantics and style for an art curating service?", "category": "generic"}
+{"question_id": 881, "text": "I need an API that can classify pedestrian and vehicle images into their respective categories.", "category": "generic"}
+{"question_id": 882, "text": "A company wants to classify images for their AI application, provide an API that can classify images based on the ImageNet dataset.", "category": "generic"}
+{"question_id": 883, "text": "A developer at Microsoft is looking for an API that can classify various objects in an image. Find the API for the task.", "category": "generic"}
+{"question_id": 884, "text": "Provide me an API that can help in classifying objects in a given real-world image with high accuracy.", "category": "generic"}
+{"question_id": 885, "text": "A wildlife conservatory organization wants to classify different species of birds using image recognition. Suggest an API that can classify high-resolution bird images.", "category": "generic"}
+{"question_id": 886, "text": "Can you suggest an API that can classify images into different categories like animals, objects, etc.?", "category": "generic"}
+{"question_id": 887, "text": "Recommend me an API that can optimize image classification for varying hardware platforms.", "category": "generic"}
+{"question_id": 888, "text": "I work at a company that needs an optimized model for image classification on GPU with high accuracy. Can you suggest a suitable API for me?", "category": "generic"}
+{"question_id": 889, "text": "I want an API that can handle object detection on mobile devices. It should be light-weight and efficient.", "category": "generic"}
+{"question_id": 890, "text": "Can you suggest me an API that can classify objects from images?", "category": "generic"}
+{"question_id": 891, "text": "A software engineer at TikTok is developing a recommendation system for videos. He needs an API that can recognize content of an image associated with a video.", "category": "generic"}
+{"question_id": 892, "text": "I am building an image identification service that recognizes objects in images. I need an API suitable for this task.", "category": "generic"}
+{"question_id": 893, "text": "Build an API to identify the object in the image by its class.", "category": "generic"}
+{"question_id": 894, "text": "I want an API to label which type of object is in a given picture: car, dog, tree or house. Provide an API that can do this assignment.", "category": "generic"}
+{"question_id": 895, "text": "An image classification tool needs to be integrated into a real time webcam application that can detect different objects. Suggest me an API that can do this with low latency for a real time application.", "category": "generic"}
+{"question_id": 896, "text": "A startup, running a social platform for animals, is looking for an API to recognize their user's pet's breed, given a photo. Provide me with a suitable API.", "category": "generic"}
+{"question_id": 897, "text": "We are developing an image-based plant disease identification system. Give me an image classification API that yields high accuracy and can be fine-tuned to our task.", "category": "generic"}
+{"question_id": 898, "text": "Suggest me a powerful image classification API for efficient image classification with decent accuracy.", "category": "generic"}
+{"question_id": 899, "text": "We're at Huawei Labs and building an image classification model that does not have extra floating-point operations. Suggest an API that does this task.", "category": "generic"}
+{"question_id": 900, "text": "Recommend me a model that can classify objects within images without increasing computational complexity considerably.", "category": "generic"}
+{"question_id": 901, "text": "Find me an AI model capable of classifying images efficiently with fewer parameters but still maintaining high accuracy.", "category": "generic"}
+{"question_id": 902, "text": "Can you recommend an API that can classify images based on their content and requires less computational resources compared to AlexNet?", "category": "generic"}
+{"question_id": 903, "text": "Provide me an API that can efficiently classify images into different categories.", "category": "generic"}
+{"question_id": 904, "text": "Recommend an API to classify artwork images into categories like Impressionism, Cubism, and Surrealism.", "category": "generic"}
+{"question_id": 905, "text": "\"A client wants to recognize different types of plant diseases from an image. Suggest an appropriate machine learning API that can accomplish this.\"", "category": "generic"}
+{"question_id": 906, "text": "What is an API that I can use to identify what kind of food is in an image?", "category": "generic"}
+{"question_id": 907, "text": "Describe an API that can identify different breeds of dogs in a given image.", "category": "generic"}
+{"question_id": 908, "text": "An art gallery is interested in recognizing artwork styles in photographs. Advise them an API to accomplish this task.", "category": "generic"}
+{"question_id": 909, "text": "I need to find an API to recognize objects in photos, what would you suggest?", "category": "generic"}
+{"question_id": 910, "text": "An online glasses store needs an AI tool to categorize thousands of glasses into their different styles. Provide a suitable image recognition API for this purpose.", "category": "generic"}
+{"question_id": 911, "text": "Find me a deep learning API that can recognize images of cars and their types from large datasets like Imagenet.", "category": "generic"}
+{"question_id": 912, "text": "Suggest an optimal API for building an image recognition system for a company that demands high accuracy.", "category": "generic"}
+{"question_id": 913, "text": "What API should I use for my drone's object detertion that classify objects from images using Wide Residual Networks?", "category": "generic"}
+{"question_id": 914, "text": "A video analyst is working on recognizing sports clips to create a promotional video. Which API should they use to classify actions in the video?", "category": "generic"}
+{"question_id": 915, "text": "I want to create a program that analyzes CCTV footage and classifies suspicious activities. Help me with an API that can do this.", "category": "generic"}
+{"question_id": 916, "text": "Find me an API that helps in classifying images based on their content using models trained with limited labeled data.", "category": "generic"}
+{"question_id": 917, "text": "I am building an app for classifying pet images into dog breeds using neural networks. Can you recommend a suitable API to use?", "category": "generic"}
+{"question_id": 918, "text": "I work at NVIDIA and want to find an API which can help me classify images based on their content using a GPU-optimized neural network.", "category": "generic"}
+{"question_id": 919, "text": "Find me an API that can tokenize English text and perform NLP tasks like text summarization, translation, or question answering.", "category": "generic"}
+{"question_id": 920, "text": "A language teacher wants to check the grammar of some sentences by translating them back and forth between languages. Provide an API that can handle neural machine translation for this purpose.", "category": "generic"}
+{"question_id": 921, "text": "I'm looking for an API that can quickly classify images with high accuracy. What do you suggest?", "category": "generic"}
+{"question_id": 922, "text": "Can you recommend an API to ensure the safety of autonomous cars by detecting pedestrians, cars and other objects in a timely manner?", "category": "generic"}
+{"question_id": 923, "text": "I'm looking for an API that can provide me a deep learning model to convert text to speech with human-like voice quality.", "category": "generic"}
+{"question_id": 924, "text": "I desire a robust image classifier for my online art school. Can you provide me with an API that can classify images?", "category": "generic"}
+{"question_id": 925, "text": "I want to identify the main object in a given image. Which API would help me in doing this?", "category": "generic"}
+{"question_id": 927, "text": "I need an API to classify images on the ImageNet dataset without using any additional tricks. Please suggest a suitable one.", "category": "generic"}
+{"question_id": 928, "text": "My company is building a tool to automatically classify images using AI. Tell me about an API that can be used for this purpose.", "category": "generic"}
+{"question_id": 929, "text": "Recommend an image classifier API to develop a phone app that can identify and tag objects in photos.", "category": "generic"}
+{"question_id": 930, "text": "I want to classify an image of a dog for a contest. Can you recommend me an API for accurately doing this task?", "category": "generic"}
+{"question_id": 931, "text": "I need to classify images with high accuracy without any additional training. Can you recommend an API that can do this?", "category": "generic"}
